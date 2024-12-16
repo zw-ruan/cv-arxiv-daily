@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "MLLM":
-        filters: ["VLM", "MLLM", "Visual Language Model", "Multimodal Large Language Model"] 
+        filters: ["VLM", "MLLM", "Visual Language Model", "Multimodal Large Language Model", "Multimodal Models"] 
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
