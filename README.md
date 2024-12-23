@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,8 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
@@ -93,7 +93,7 @@
 |**2024-12-06**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## SLAM
 
@@ -126,7 +126,7 @@
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506](http://arxiv.org/abs/2412.02506)|**[link](https://github.com/iis-esslingen/rover_benchmark)**|
 |**2024-12-04**|**RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**|Zhenzhong Cao et.al.|[2412.01217](http://arxiv.org/abs/2412.01217)|**[link](https://github.com/zhenzhongcao/rgbds-slam)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## SFM
 
@@ -150,7 +150,7 @@
 |**2024-11-25**|**Characterizing Stellar and Gas Properties in NGC 628: Spatial Distributions, Radial Gradients, and Resolved Scaling Relations**|Peng Wei et.al.|[2411.16150](http://arxiv.org/abs/2411.16150)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -159,7 +159,7 @@
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
-|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
@@ -184,7 +184,7 @@
 |**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -206,7 +206,7 @@
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## Image Matching
 
@@ -224,7 +224,7 @@
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
