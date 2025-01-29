@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
+|**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065](http://arxiv.org/abs/2501.16065)|null|
+|**2025-01-27**|**Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection?**|Zhiling Chen et.al.|[2501.15795](http://arxiv.org/abs/2501.15795)|null|
+|**2025-01-27**|**Gensors: Authoring Personalized Visual Sensors with Multimodal Foundation Models and Reasoning**|Michael Xieyang Liu et.al.|[2501.15727](http://arxiv.org/abs/2501.15727)|null|
+|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
+|**2025-01-26**|**Ocean-OCR: Towards General OCR Application via a Vision-Language Model**|Song Chen et.al.|[2501.15558](http://arxiv.org/abs/2501.15558)|null|
+|**2025-01-26**|**TinyLLaVA-Video: A Simple Framework of Small-scale Large Multimodal Models for Video Understanding**|Xingjian Zhang et.al.|[2501.15513](http://arxiv.org/abs/2501.15513)|**[link](https://github.com/zhangxj199/tinyllava-video)**|
 |**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
 |**2025-01-23**|**Temporal Preference Optimization for Long-Form Video Understanding**|Rui Li et.al.|[2501.13919](http://arxiv.org/abs/2501.13919)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
@@ -214,10 +224,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486](http://arxiv.org/abs/2501.14486)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764](http://arxiv.org/abs/2501.12764)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
 |**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950](http://arxiv.org/abs/2501.10950)|null|
@@ -281,6 +294,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
+|**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945](http://arxiv.org/abs/2501.14945)|null|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz et.al.|[2501.12232](http://arxiv.org/abs/2501.12232)|null|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar et.al.|[2501.08468](http://arxiv.org/abs/2501.08468)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
@@ -316,6 +334,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
+|**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
+|**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051](http://arxiv.org/abs/2501.14051)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
+|**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
@@ -398,6 +421,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
