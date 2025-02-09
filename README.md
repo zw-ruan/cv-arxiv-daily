@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
+|**2025-02-06**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|null|
+|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
+|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-06**|**RWKV-UI: UI Understanding with Enhanced Perception and Reasoning**|Jiaxi Yang et.al.|[2502.03971](http://arxiv.org/abs/2502.03971)|null|
+|**2025-02-06**|**Adapting Human Mesh Recovery with Vision-Language Feedback**|Chongyang Xu et.al.|[2502.03836](http://arxiv.org/abs/2502.03836)|null|
+|**2025-02-05**|**EnVisionVR: A Scene Interpretation Tool for Visual Accessibility in Virtual Reality**|Junlong Chen et.al.|[2502.03564](http://arxiv.org/abs/2502.03564)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
 |**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
 |**2025-02-05**|**RadVLM: A Multitask Conversational Vision-Language Model for Radiology**|Nicolas Deperrois et.al.|[2502.03333](http://arxiv.org/abs/2502.03333)|null|
@@ -263,7 +271,7 @@
 |**2024-12-06**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|**[link](https://github.com/terrypei/csp)**|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## SLAM
 
@@ -346,7 +354,7 @@
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506](http://arxiv.org/abs/2412.02506)|**[link](https://github.com/iis-esslingen/rover_benchmark)**|
 |**2024-12-04**|**RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**|Zhenzhong Cao et.al.|[2412.01217](http://arxiv.org/abs/2412.01217)|**[link](https://github.com/zhenzhongcao/rgbds-slam)**|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## SFM
 
@@ -392,12 +400,13 @@
 |**2024-11-25**|**Characterizing Stellar and Gas Properties in NGC 628: Spatial Distributions, Radial Gradients, and Resolved Scaling Relations**|Peng Wei et.al.|[2411.16150](http://arxiv.org/abs/2411.16150)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
@@ -457,7 +466,7 @@
 |**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -489,7 +498,7 @@
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 ## Image Matching
 
@@ -517,7 +526,7 @@
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 
-<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

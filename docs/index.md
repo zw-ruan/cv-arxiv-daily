@@ -7,13 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
+|**2025-02-06**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|null|
+|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
+|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-06**|**RWKV-UI: UI Understanding with Enhanced Perception and Reasoning**|Jiaxi Yang et.al.|[2502.03971](http://arxiv.org/abs/2502.03971)|null|
+|**2025-02-06**|**Adapting Human Mesh Recovery with Vision-Language Feedback**|Chongyang Xu et.al.|[2502.03836](http://arxiv.org/abs/2502.03836)|null|
+|**2025-02-05**|**EnVisionVR: A Scene Interpretation Tool for Visual Accessibility in Virtual Reality**|Junlong Chen et.al.|[2502.03564](http://arxiv.org/abs/2502.03564)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
 |**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
 |**2025-02-05**|**RadVLM: A Multitask Conversational Vision-Language Model for Radiology**|Nicolas Deperrois et.al.|[2502.03333](http://arxiv.org/abs/2502.03333)|null|
@@ -384,6 +392,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
