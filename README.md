@@ -34,17 +34,17 @@
 |**2025-03-13**|**TokenCarve: Information-Preserving Visual Token Compression in Multimodal Large Language Models**|Xudong Tan et.al.|[2503.10501](http://arxiv.org/abs/2503.10501)|**[link](https://github.com/shawntan86/tokencarve)**|
 |**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
 |**2025-03-11**|**SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories**|Muzhi Zhu et.al.|[2503.08625](http://arxiv.org/abs/2503.08625)|null|
-|**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
+|**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|**[link](https://github.com/xianfengwu01/lightgen)**|
 |**2025-03-11**|**Proc4Gem: Foundation models for physical agency through procedural generation**|Yixin Lin et.al.|[2503.08593](http://arxiv.org/abs/2503.08593)|null|
 |**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585](http://arxiv.org/abs/2503.08585)|null|
 |**2025-03-11**|**RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding**|Xichen Tan et.al.|[2503.08576](http://arxiv.org/abs/2503.08576)|null|
 |**2025-03-11**|**ComicsPAP: understanding comic strips by picking the correct panel**|Emanuele Vivoli et.al.|[2503.08561](http://arxiv.org/abs/2503.08561)|null|
 |**2025-03-11**|**GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training**|Tong Wei et.al.|[2503.08525](http://arxiv.org/abs/2503.08525)|null|
-|**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|null|
+|**2025-03-11**|**Referring to Any Person**|Qing Jiang et.al.|[2503.08507](http://arxiv.org/abs/2503.08507)|**[link](https://github.com/idea-research/rexseek)**|
 |**2025-03-11**|**MMRL: Multi-Modal Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2503.08497](http://arxiv.org/abs/2503.08497)|**[link](https://github.com/yunncheng/MMRL)**|
 |**2025-03-07**|**Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information**|Junbo Zhao et.al.|[2503.05543](http://arxiv.org/abs/2503.05543)|null|
 |**2025-03-07**|**PoSSUM: A Protocol for Surveying Social-media Users with Multimodal LLMs**|Roberto Cerina et.al.|[2503.05529](http://arxiv.org/abs/2503.05529)|null|
-|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
+|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|**[link](https://github.com/camel-ai/vlm-play-starcraft2)**|
 |**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**|Jiaxing Zhao et.al.|[2503.05379](http://arxiv.org/abs/2503.05379)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-07**|**Can Large Language Models Grasp Concepts in Visual Content? A Case Study on YouTube Shorts about Depression**|Jiaying "Lizzy" Liu et.al.|[2503.05109](http://arxiv.org/abs/2503.05109)|null|
@@ -62,14 +62,14 @@
 |**2025-03-06**|**Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models**|Niccolò Turcato et.al.|[2503.04280](http://arxiv.org/abs/2503.04280)|null|
 |**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
 |**2025-03-06**|**Knowledge-Decoupled Synergetic Learning: An MLLM based Collaborative Approach to Few-shot Multimodal Dialogue Intention Recognition**|Bin Chen et.al.|[2503.04201](http://arxiv.org/abs/2503.04201)|null|
-|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
+|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|**[link](https://github.com/yuqi-zhou/chop)**|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
-|**2025-03-05**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|null|
+|**2025-03-05**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|**[link](https://github.com/thinklis/dongbamie)**|
 |**2025-03-05**|**See What You Are Told: Visual Attention Sink in Large Multimodal Models**|Seil Kang et.al.|[2503.03321](http://arxiv.org/abs/2503.03321)|null|
 |**2025-03-05**|**Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions**|Jun Li et.al.|[2503.03278](http://arxiv.org/abs/2503.03278)|null|
 |**2025-03-05**|**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**|Wentao Li et.al.|[2503.03215](http://arxiv.org/abs/2503.03215)|null|
 |**2025-03-05**|**SpiritSight Agent: Advanced GUI Agent with One Look**|Zhiyuan Huang et.al.|[2503.03196](http://arxiv.org/abs/2503.03196)|null|
-|**2025-03-04**|**LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications**|Danqing Zhang et.al.|[2503.02950](http://arxiv.org/abs/2503.02950)|null|
+|**2025-03-04**|**LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications**|Danqing Zhang et.al.|[2503.02950](http://arxiv.org/abs/2503.02950)|**[link](https://github.com/pathonai/litewebagent)**|
 |**2025-03-05**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
 |**2025-03-04**|**"What If Smart Homes Could See Our Homes?": Exploring DIY Smart Home Building Experiences with VLM-Based Camera Sensors**|Sojeong Yun et.al.|[2503.02816](http://arxiv.org/abs/2503.02816)|null|
 |**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
@@ -80,7 +80,7 @@
 |**2025-02-28**|**HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models**|Xiao Wang et.al.|[2502.20811](http://arxiv.org/abs/2502.20811)|null|
 |**2025-03-03**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
 |**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|null|
-|**2025-02-28**|**Towards General Visual-Linguistic Face Forgery Detection(V2)**|Ke Sun et.al.|[2502.20698](http://arxiv.org/abs/2502.20698)|null|
+|**2025-02-28**|**Towards General Visual-Linguistic Face Forgery Detection(V2)**|Ke Sun et.al.|[2502.20698](http://arxiv.org/abs/2502.20698)|**[link](https://github.com/skjack/vlffd)**|
 |**2025-02-27**|**Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**|Mingyuan Wu et.al.|[2502.20587](http://arxiv.org/abs/2502.20587)|null|
 |**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|**[link](https://github.com/tianyi-lab/R2-T2)**|
 |**2025-02-27**|**Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription**|Benjamin Gutteridge et.al.|[2502.20295](http://arxiv.org/abs/2502.20295)|**[link](https://github.com/BenGutteridge/judge-a-book)**|
@@ -113,7 +113,7 @@
 |**2025-02-21**|**PairBench: A Systematic Framework for Selecting Reliable Judge VLMs**|Aarash Feizi et.al.|[2502.15210](http://arxiv.org/abs/2502.15210)|null|
 |**2025-02-21**|**M3-AGIQA: Multimodal, Multi-Round, Multi-Aspect AI-Generated Image Quality Assessment**|Chuan Cui et.al.|[2502.15167](http://arxiv.org/abs/2502.15167)|null|
 |**2025-02-20**|**Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical and Cultural Artifacts**|Sara Ghaboura et.al.|[2502.14865](http://arxiv.org/abs/2502.14865)|**[link](https://github.com/mbzuai-oryx/timetravel)**|
-|**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
+|**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|**[link](https://github.com/nomothings/charge)**|
 |**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
 |**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|**[link](https://github.com/thu-keg/longwriter-v)**|
 |**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
@@ -307,7 +307,7 @@
 |**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-03**|**HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding**|Heqing Zou et.al.|[2501.01645](http://arxiv.org/abs/2501.01645)|null|
-|**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
+|**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|**[link](https://github.com/Qi-Zhangyang/GPT4Scene)**|
 |**2025-01-02**|**CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering**|Ben Vardi et.al.|[2501.01371](http://arxiv.org/abs/2501.01371)|null|
 |**2025-01-02**|**CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries**|Shudong Liu et.al.|[2501.01282](http://arxiv.org/abs/2501.01282)|null|
 |**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036](http://arxiv.org/abs/2412.21036)|null|
@@ -328,7 +328,7 @@
 |**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
 |**2024-12-27**|**Is Your Text-to-Image Model Robust to Caption Noise?**|Weichen Yu et.al.|[2412.19531](http://arxiv.org/abs/2412.19531)|null|
 |**2024-12-27**|**MBQ: Modality-Balanced Quantization for Large Vision-Language Models**|Shiyao Li et.al.|[2412.19509](http://arxiv.org/abs/2412.19509)|**[link](https://github.com/thu-nics/mbq)**|
-|**2024-12-27**|**MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.19406](http://arxiv.org/abs/2412.19406)|null|
+|**2024-12-27**|**MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.19406](http://arxiv.org/abs/2412.19406)|**[link](https://github.com/fjq-tongji/mllm-sul)**|
 |**2024-12-26**|**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**|Ziang Yan et.al.|[2412.19326](http://arxiv.org/abs/2412.19326)|**[link](https://github.com/opengvlab/tpo)**|
 |**2024-12-24**|**The Key of Understanding Vision Tasks: Explanatory Instructions**|Yang Shen et.al.|[2412.18525](http://arxiv.org/abs/2412.18525)|**[link](https://github.com/SEU-VIPGroup/Understanding_Vision_Tasks)**|
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
@@ -437,18 +437,18 @@
 |**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890](http://arxiv.org/abs/2503.06890)|**[link](https://github.com/vvEverett/tello_ros)**|
 |**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi et.al.|[2503.06010](http://arxiv.org/abs/2503.06010)|**[link](https://github.com/drawingprocess/infofusioncontroller)**|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
-|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|null|
+|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|**[link](https://github.com/chengwei0427/adaptive_lio)**|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286](http://arxiv.org/abs/2503.04286)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
 |**2025-03-06**|**DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**|Joshua Bird et.al.|[2503.04126](http://arxiv.org/abs/2503.04126)|null|
 |**2025-03-05**|**Equivariant Filter Design for Range-only SLAM**|Yixiao Ge et.al.|[2503.03973](http://arxiv.org/abs/2503.03973)|null|
-|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|**[link](https://github.com/JD-hust/gs-dso)**|
 |**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230](http://arxiv.org/abs/2503.03230)|null|
-|**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192](http://arxiv.org/abs/2503.03192)|null|
-|**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955](http://arxiv.org/abs/2503.02955)|null|
+|**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192](http://arxiv.org/abs/2503.03192)|**[link](https://github.com/adthoms/dcora)**|
+|**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955](http://arxiv.org/abs/2503.02955)|**[link](https://github.com/olayasturias/monocular_visual_slam_survey)**|
 |**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
-|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|null|
+|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|**[link](https://github.com/lihaoy-ux/dqo-map)**|
 |**2025-03-03**|**Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**|Marco Giberna et.al.|[2503.02050](http://arxiv.org/abs/2503.02050)|null|
 |**2025-03-03**|**vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**|Ali Tourani et.al.|[2503.01783](http://arxiv.org/abs/2503.01783)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
@@ -642,10 +642,10 @@
 |**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
-|**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
+|**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|**[link](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
 |**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207](http://arxiv.org/abs/2503.04207)|null|
-|**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096](http://arxiv.org/abs/2503.04096)|null|
+|**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096](http://arxiv.org/abs/2503.04096)|**[link](https://github.com/bev-gorry/underloc)**|
 |**2025-03-04**|**TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**|Oliver Grainge et.al.|[2503.02511](http://arxiv.org/abs/2503.02511)|null|
 |**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
 |**2025-03-04**|**Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**|Kenta Tsukahara et.al.|[2503.02256](http://arxiv.org/abs/2503.02256)|null|
@@ -653,7 +653,7 @@
 |**2025-03-03**|**AirRoom: Objects Matter in Room Reidentification**|Runmao Yao et.al.|[2503.01130](http://arxiv.org/abs/2503.01130)|null|
 |**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
 |**2025-03-01**|**Class-Independent Increment: An Efficient Approach for Multi-label Class-Incremental Learning**|Songlin Dong et.al.|[2503.00515](http://arxiv.org/abs/2503.00515)|null|
-|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|null|
+|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|**[link](https://github.com/EasonChen99/EVLoc)**|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
 |**2025-02-28**|**SciceVPR: Stable Cross-Image Correlation Enhanced Model for Visual Place Recognition**|Shanshan Wan et.al.|[2502.20676](http://arxiv.org/abs/2502.20676)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
