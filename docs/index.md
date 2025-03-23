@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.21
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
+|**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365](http://arxiv.org/abs/2503.16365)|null|
+|**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
+|**2025-03-20**|**CLS-RL: Image Classification with Rule-Based Reinforcement Learning**|Ming Li et.al.|[2503.16188](http://arxiv.org/abs/2503.16188)|null|
+|**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
+|**2025-03-20**|**Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction**|Aniek Eijpe et.al.|[2503.16069](http://arxiv.org/abs/2503.16069)|null|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
 |**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369](http://arxiv.org/abs/2503.15369)|null|
 |**2025-03-19**|**LEGION: Learning to Ground and Explain for Synthetic Image Detection**|Hengrui Kang et.al.|[2503.15264](http://arxiv.org/abs/2503.15264)|null|
@@ -437,6 +447,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education**|Giovanni Adorni et.al.|[2503.16307](http://arxiv.org/abs/2503.16307)|null|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-19**|**A Sigma Point-based Low Complexity Algorithm for Multipath-based SLAM in MIMO Systems**|Anna Masiero et.al.|[2503.15286](http://arxiv.org/abs/2503.15286)|null|
 |**2025-03-19**|**ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching with Collaborative LLM-Agents**|Hao Liang et.al.|[2503.14948](http://arxiv.org/abs/2503.14948)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
@@ -583,6 +595,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields**|Euclid Collaboration et.al.|[2503.15314](http://arxiv.org/abs/2503.15314)|null|
 |**2025-03-18**|**Multi-view Reconstruction via SfM-guided Monocular Depth Estimation**|Haoyu Guo et.al.|[2503.14483](http://arxiv.org/abs/2503.14483)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
@@ -657,6 +670,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
@@ -826,6 +841,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
