@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
+|**2025-04-07**|**LiveVQA: Live Visual Knowledge Seeking**|Mingyang Fu et.al.|[2504.05288](http://arxiv.org/abs/2504.05288)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
+|**2025-04-07**|**Mapping biodiversity at very-high resolution in Europe**|César Leblanc et.al.|[2504.05231](http://arxiv.org/abs/2504.05231)|null|
+|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
+|**2025-04-07**|**The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation**|Hao Fang et.al.|[2504.05178](http://arxiv.org/abs/2504.05178)|null|
+|**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141](http://arxiv.org/abs/2504.05141)|null|
+|**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
 |**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799](http://arxiv.org/abs/2504.02799)|null|
 |**2025-04-03**|**Robot-Led Vision Language Model Wellbeing Assessment of Children**|Nida Itrat Abbasi et.al.|[2504.02765](http://arxiv.org/abs/2504.02765)|null|
@@ -511,12 +521,18 @@
 |**2024-12-06**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|**[link](https://github.com/terrypei/csp)**|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|null|
+|**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497](http://arxiv.org/abs/2504.04497)|null|
+|**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan et.al.|[2504.04457](http://arxiv.org/abs/2504.04457)|null|
+|**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239](http://arxiv.org/abs/2504.04239)|null|
+|**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886](http://arxiv.org/abs/2504.03886)|null|
+|**2025-04-03**|**SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**|Prashant Kumar et.al.|[2504.03089](http://arxiv.org/abs/2504.03089)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
@@ -683,12 +699,16 @@
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506](http://arxiv.org/abs/2412.02506)|**[link](https://github.com/iis-esslingen/rover_benchmark)**|
 |**2024-12-04**|**RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**|Zhenzhong Cao et.al.|[2412.01217](http://arxiv.org/abs/2412.01217)|**[link](https://github.com/zhenzhongcao/rgbds-slam)**|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281](http://arxiv.org/abs/2504.05281)|null|
+|**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294](http://arxiv.org/abs/2504.04294)|null|
+|**2025-04-04**|**An Algebraic Geometry Approach to Viewing Graph Solvability**|Federica Arrigoni et.al.|[2504.03637](http://arxiv.org/abs/2504.03637)|null|
+|**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198](http://arxiv.org/abs/2504.03198)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
 |**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219](http://arxiv.org/abs/2504.00219)|null|
@@ -768,13 +788,15 @@
 |**2024-11-25**|**Characterizing Stellar and Gas Properties in NGC 628: Spatial Distributions, Radial Gradients, and Resolved Scaling Relations**|Peng Wei et.al.|[2411.16150](http://arxiv.org/abs/2411.16150)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
+|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
+|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
@@ -921,7 +943,7 @@
 |**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -969,12 +991,13 @@
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
@@ -983,7 +1006,7 @@
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
-|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-04-07**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
@@ -1022,7 +1045,7 @@
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
