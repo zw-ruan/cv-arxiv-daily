@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.25
+## Updated on 2025.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**FRAG: Frame Selection Augmented Generation for Long Video and Long Document Understanding**|De-An Huang et.al.|[2504.17447](http://arxiv.org/abs/2504.17447)|**[link](https://github.com/NVlabs/FRAG)**|
+|**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432](http://arxiv.org/abs/2504.17432)|null|
+|**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
+|**2025-04-24**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365](http://arxiv.org/abs/2504.17365)|null|
+|**2025-04-24**|**DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition**|Yiyan Xu et.al.|[2504.17349](http://arxiv.org/abs/2504.17349)|null|
+|**2025-04-24**|**Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning**|Lynn Cherif et.al.|[2504.17282](http://arxiv.org/abs/2504.17282)|null|
+|**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
+|**2025-04-23**|**DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs**|Zhenhailong Wang et.al.|[2504.17040](http://arxiv.org/abs/2504.17040)|null|
 |**2025-04-23**|**Detecting and Understanding Hateful Contents in Memes Through Captioning and Visual Question-Answering**|Ali Anaissi et.al.|[2504.16723](http://arxiv.org/abs/2504.16723)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
 |**2025-04-24**|**Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark**|Hanlei Zhang et.al.|[2504.16427](http://arxiv.org/abs/2504.16427)|null|
@@ -586,6 +596,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693](http://arxiv.org/abs/2504.17693)|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582](http://arxiv.org/abs/2504.17582)|null|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410](http://arxiv.org/abs/2504.17410)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545](http://arxiv.org/abs/2504.16545)|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
 |**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
@@ -778,6 +792,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840](http://arxiv.org/abs/2504.16840)|null|
 |**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
 |**2025-04-21**|**Traversing the Star-Forming Main Sequence with Molecular Gas Stacks of z~1.6 Cluster Galaxies**|Alex Pigarelli et.al.|[2504.15381](http://arxiv.org/abs/2504.15381)|null|
@@ -876,8 +892,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
-|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|null|
+|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|**[link](https://github.com/mediacontentatlas/mediacontentatlas)**|
 |**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
@@ -1046,6 +1063,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
