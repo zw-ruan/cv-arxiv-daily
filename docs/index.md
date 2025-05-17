@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
+|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/abs/2505.10541)|**[link](https://github.com/welldonepf/stme)**|
+|**2025-05-15**|**Enhancing Multi-Image Question Answering via Submodular Subset Selection**|Aaryan Sharma et.al.|[2505.10533](http://arxiv.org/abs/2505.10533)|null|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
+|**2025-05-15**|**UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation**|Yi Li et.al.|[2505.10483](http://arxiv.org/abs/2505.10483)|null|
+|**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|Tyler Tran et.al.|[2505.10453](http://arxiv.org/abs/2505.10453)|null|
+|**2025-05-15**|**Coherent Language Reconstruction from Brain Recordings with Flexible Multi-Modal Input Stimuli**|Chunyu Ye et.al.|[2505.10356](http://arxiv.org/abs/2505.10356)|null|
+|**2025-05-15**|**Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering**|Yangfu Li et.al.|[2505.10118](http://arxiv.org/abs/2505.10118)|null|
+|**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088](http://arxiv.org/abs/2505.10088)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-05-15**|**ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data**|Chengsen Wang et.al.|[2505.10083](http://arxiv.org/abs/2505.10083)|null|
 |**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
 |**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
 |**2025-05-13**|**Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**|Huiyan Qi et.al.|[2505.08747](http://arxiv.org/abs/2505.08747)|null|
@@ -672,6 +682,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310](http://arxiv.org/abs/2505.10310)|null|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
+|**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
@@ -901,7 +914,7 @@ layout: default
 |**2025-05-10**|**TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**|Marius Baden et.al.|[2505.06743](http://arxiv.org/abs/2505.06743)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
-|**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
+|**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
@@ -1251,7 +1264,7 @@ layout: default
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
-|**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|**[link](https://github.com/sutaoyu/CDMEA)**|
+|**2025-05-15**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|**[link](https://github.com/sutaoyu/CDMEA)**|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
