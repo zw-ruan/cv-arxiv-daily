@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
+|**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
+|**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|null|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|null|
+|**2025-06-18**|**Creating User-steerable Projections with Interactive Semantic Mapping**|Artur André Oliveira et.al.|[2506.15479](http://arxiv.org/abs/2506.15479)|null|
+|**2025-06-18**|**Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning**|Chunlei Li et.al.|[2506.15477](http://arxiv.org/abs/2506.15477)|null|
+|**2025-06-18**|**Understanding GUI Agent Localization Biases through Logit Sharpness**|Xingjian Tao et.al.|[2506.15425](http://arxiv.org/abs/2506.15425)|null|
+|**2025-06-18**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Lanfeng Zhong et.al.|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
 |**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Are Multimodal Large Language Models Pragmatically Competent Listeners in Simple Reference Resolution Tasks?**|Simeon Junker et.al.|[2506.11807](http://arxiv.org/abs/2506.11807)|null|
@@ -802,6 +812,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402](http://arxiv.org/abs/2506.15402)|null|
+|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
+|**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|
+|**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126](http://arxiv.org/abs/2506.15126)|null|
+|**2025-06-16**|**Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**|Kai Long et.al.|[2506.13664](http://arxiv.org/abs/2506.13664)|null|
+|**2025-06-16**|**Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots**|Jaehong Oh et.al.|[2506.13149](http://arxiv.org/abs/2506.13149)|null|
+|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089](http://arxiv.org/abs/2506.13089)|**[link](https://github.com/shahram95/superpointslam3)**|
 |**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567](http://arxiv.org/abs/2506.10567)|null|
 |**2025-06-11**|**VAULT: A Mobile Mapping System for ROS 2-based Autonomous Robots**|Miguel Á. González-Santamarta et.al.|[2506.09583](http://arxiv.org/abs/2506.09583)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
@@ -1208,6 +1226,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
+|**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
+|**2025-06-17**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
+|**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
+|**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|**[link](https://github.com/adobe-research/polar-vl)**|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
@@ -1431,7 +1457,7 @@ layout: default
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
-|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-06-18**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
@@ -1491,6 +1517,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
@@ -1499,7 +1527,7 @@ layout: default
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
