@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.15
+## Updated on 2026.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MLLM
