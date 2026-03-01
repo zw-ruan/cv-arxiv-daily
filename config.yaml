@@ -22,18 +22,13 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "MLLM":
-        filters: ["VLM", "MLLM", "Visual Language Model", "Multimodal Large Language Model", "Multimodal Models"] 
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
+    "HD Map Construction":
+        filters: ["HD Map", "High-definition Map", "Vector Map", "Map Construction", "Map Learning"]
+    "Object Detection":
+        filters: ["Object Detection", "2D Object Detection", "3D Object Detection", "YOLO"]
+    "SLAM/SFM": 
+        filters: ["SLAM", "Visual Odometry", "SFM", "Structure from Motion"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","Loop Closure Detection",
                   "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]

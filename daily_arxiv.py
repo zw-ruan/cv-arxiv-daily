@@ -77,7 +77,11 @@ def get_code_link(qword:str) -> str:
         "sort": "stars",
         "order": "desc"
     }
-    r = requests.get(github_url, params=params)
+    headers = {}
+    if "GITHUB_TOKEN" in os.environ:
+        headers["Authorization"] = f"token {os.environ['GITHUB_TOKEN']}"
+    
+    r = requests.get(github_url, params=params, headers=headers)
     results = r.json()
     code_link = None
     if results["total_count"] > 0:
@@ -125,15 +129,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+            try:
+                r = requests.get(code_url).json()
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+            except Exception as e:
+                logging.error(f"paperswithcode exception: {e} with id: {paper_key}")
+
+            if repo_url is None:
+                repo_url = get_code_link(paper_title)
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
@@ -246,7 +251,8 @@ def json_to_md(filename,md_filename,
                use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               filter_keys = None):
     """
     @param filename: str
     @param md_filename: str
@@ -276,6 +282,9 @@ def json_to_md(filename,md_filename,
             data = {}
         else:
             data = json.loads(content)
+
+    if filter_keys is not None:
+        data = {k:v for k,v in data.items() if k in filter_keys}
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
@@ -308,43 +317,51 @@ def json_to_md(filename,md_filename,
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(' ','-')
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+            for keyword in filter_keys if filter_keys is not None else data.keys():
+                if keyword in data:
+                    day_content = data[keyword]
+                    if not day_content:
+                        continue
+                    kw = keyword.replace(' ','-')
+                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
-        for keyword in data.keys():
-            day_content = data[keyword]
-            if not day_content:
-                continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
+        for keyword in filter_keys if filter_keys is not None else data.keys():
+            if keyword in data:
+                day_content = data[keyword]
+                if not day_content:
+                    continue
+                # the head of each part
+                f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
+                if use_title == True :
+                    if to_web == False:
+                        f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    else:
+                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
+                # sort papers by date
+                day_content = sort_papers(day_content)
+
+                # limit the number of papers in README.md
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    keys = list(day_content.keys())
+                    keys = keys[:50] # only show latest 50 papers
+                    day_content = {k:day_content[k] for k in keys}
 
-            # sort papers by date
-            day_content = sort_papers(day_content)
+                for _,v in day_content.items():
+                    if v is not None:
+                        f.write(pretty_math(v)) # make latex pretty
 
-            for _,v in day_content.items():
-                if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
+                    f.write(f"\n")
 
-            f.write(f"\n")
-
-            #Add: back to top
-            if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+                #Add: back to top
+                if use_b2t:
+                    top_info = f"#Updated on {DateNow}"
+                    top_info = top_info.replace(' ','-').replace('.','')
+                    f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
             # we don't like long string, break it!
@@ -404,7 +421,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, filter_keys=keywords.keys())
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -417,7 +434,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, filter_keys=keywords.keys())
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -429,7 +446,7 @@ def demo(**config):
         else:
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False, show_badge = show_badge, filter_keys=keywords.keys())
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
