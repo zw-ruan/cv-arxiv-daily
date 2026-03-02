@@ -353,9 +353,7 @@ def json_to_md(filename,md_filename,
 
                 for _,v in day_content.items():
                     if v is not None:
-                        f.write(pretty_math(v)) # make latex pretty
-
-                    f.write(f"\n")
+                        f.write(pretty_math(v).strip() + "\n") # make latex pretty
 
                 #Add: back to top
                 if use_b2t:

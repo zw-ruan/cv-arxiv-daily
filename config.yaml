@@ -25,10 +25,6 @@ keywords:
     "HD Map Construction":
         filters: ["HD Map", "High-definition Map", "Vector Map", "Map Construction", "Map Learning"]
     "Object Detection":
-        filters: ["Object Detection", "2D Object Detection", "3D Object Detection", "YOLO"]
+        filters: ["Object Detection",  "YOLO"]
     "SLAM/SFM": 
-        filters: ["SLAM", "Visual Odometry", "SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
+        filters: ["SLAM", "Visual Odometry", "SFM", "Structure from Motion" ]
