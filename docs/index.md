@@ -38,6 +38,32 @@ layout: default
 |**2026-01-27**|**Unveiling crown-finger instability of a non-spherical drop impacting a liquid surface**|Nagula Venkata Anirudh et.al.|[2601.19621](http://arxiv.org/abs/2601.19621)|null|
 |**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
 |**2026-01-29**|**DrivIng: A Large-Scale Multimodal Driving Dataset with Full Digital Twin Integration**|Dominik Rößle et.al.|[2601.15260](http://arxiv.org/abs/2601.15260)|null|
+|**2026-01-20**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Kanak Mazumder et.al.|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
+|**2026-01-15**|**BeamCKMDiff: Beam-Aware Channel Knowledge Map Construction via Diffusion Transformer**|Le Zhao et.al.|[2601.10207](http://arxiv.org/abs/2601.10207)|null|
+|**2026-01-06**|**Channel Knowledge Map Construction via Guided Flow Matching**|Ziyu Huang et.al.|[2601.06156](http://arxiv.org/abs/2601.06156)|null|
+|**2026-01-06**|**RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**|Xiucheng Wang et.al.|[2601.02790](http://arxiv.org/abs/2601.02790)|null|
+|**2026-01-03**|**DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network**|Zhiwei Huang et.al.|[2601.01188](http://arxiv.org/abs/2601.01188)|null|
+|**2025-12-29**|**Dynamic Channel Knowledge Map Construction in MIMO-OFDM Systems**|Wenjun Jiang et.al.|[2512.23470](http://arxiv.org/abs/2512.23470)|null|
+|**2025-12-22**|**AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction**|Ruikai Li et.al.|[2512.19150](http://arxiv.org/abs/2512.19150)|null|
+|**2025-12-22**|**BEVCooper: Accurate and Communication-Efficient Bird's-Eye-View Perception in Vehicular Networks**|Jiawei Hou et.al.|[2512.19082](http://arxiv.org/abs/2512.19082)|null|
+|**2025-12-04**|**Multiple Source Localization via Local Radio Map Construction in Urban Environments**|Qilu Zhang et.al.|[2512.15724](http://arxiv.org/abs/2512.15724)|null|
+|**2025-12-16**|**CoLD Fusion: A Real-time Capable Spline-based Fusion Algorithm for Collective Lane Detection**|Jörg Gamerdinger et.al.|[2512.14355](http://arxiv.org/abs/2512.14355)|null|
+|**2025-12-04**|**Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference**|Zheng Xing et.al.|[2512.13701](http://arxiv.org/abs/2512.13701)|null|
+|**2025-12-12**|**SATMapTR: Satellite Image Enhanced Online HD Map Construction**|Bingyuan Huang et.al.|[2512.11319](http://arxiv.org/abs/2512.11319)|null|
+|**2025-12-10**|**Self-consistent secondary cosmic microwave background anisotropies and extragalactic foregrounds in the FLAMINGO simulations**|Tianyi Yang et.al.|[2512.09891](http://arxiv.org/abs/2512.09891)|null|
+|**2025-12-10**|**Inverse problems for ZS-operators and their isomorphisms**|Evgeny Korotyaev et.al.|[2512.09413](http://arxiv.org/abs/2512.09413)|null|
+|**2025-12-10**|**Auto-3DPFM: Automating Polarization-Vector Mapping at the Nanoscale**|Ralph Bulanadi et.al.|[2512.09249](http://arxiv.org/abs/2512.09249)|null|
+|**2025-12-09**|**Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts**|Yifan Lyu et.al.|[2512.08814](http://arxiv.org/abs/2512.08814)|null|
+|**2026-02-10**|**NLoS Localization with Single Base Station Based on Radio Map**|Jiajie Xu et.al.|[2512.08608](http://arxiv.org/abs/2512.08608)|null|
+|**2025-12-09**|**On essential simplicial maps $S^3 \rightarrow S^2$**|Mikhail V. Bludov et.al.|[2512.08584](http://arxiv.org/abs/2512.08584)|null|
+|**2025-12-09**|**Geometry-Aligned Differential Privacy for Location-Safe Federated Radio Map Construction**|Jijia Tian et.al.|[2512.08263](http://arxiv.org/abs/2512.08263)|null|
+|**2025-12-03**|**CSMapping: Scalable Crowdsourced Semantic Mapping and Topology Inference for Autonomous Driving**|Zhijian Qiao et.al.|[2512.03510](http://arxiv.org/abs/2512.03510)|null|
+|**2025-12-03**|**NavMapFusion: Diffusion-based Fusion of Navigation Maps for Online Vectorized HD Map Construction**|Thomas Monninger et.al.|[2512.03317](http://arxiv.org/abs/2512.03317)|null|
+|**2025-12-12**|**Channel Knowledge Map Construction via Physics-Inspired Diffusion Model Without Prior Observations**|Yunzhe Zhu et.al.|[2512.02757](http://arxiv.org/abs/2512.02757)|null|
+|**2025-12-02**|**WSCF-MVCC: Weakly-supervised Calibration-free Multi-view Crowd Counting**|Bin Li et.al.|[2512.02359](http://arxiv.org/abs/2512.02359)|null|
+|**2025-12-02**|**Artographer: a Curatorial Interface for Art Space Exploration**|Shm Garanganao Almeda et.al.|[2512.02288](http://arxiv.org/abs/2512.02288)|null|
+|**2025-11-29**|**Data-Driven Modeling and Correction of Vehicle Dynamics**|Nguyen Ly et.al.|[2512.00289](http://arxiv.org/abs/2512.00289)|null|
+|**2025-11-27**|**RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding**|Xiyan Liu et.al.|[2511.22466](http://arxiv.org/abs/2511.22466)|null|
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -60,8 +86,25 @@ layout: default
 |**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](http://arxiv.org/abs/2603.02560)|null|
 |**2026-03-03**|**ForestPersons: A Large-Scale Dataset for Under-Canopy Missing Person Detection**|Deokyun Kim et.al.|[2603.02541](http://arxiv.org/abs/2603.02541)|null|
 |**2026-03-03**|**ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop**|Shuangzhi Li et.al.|[2603.02481](http://arxiv.org/abs/2603.02481)|null|
+|**2026-03-02**|**Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection**|Yaoteng Zhang et.al.|[2603.02286](http://arxiv.org/abs/2603.02286)|null|
 |**2026-03-02**|**From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories**|Mateus Karvat et.al.|[2603.02194](http://arxiv.org/abs/2603.02194)|null|
 |**2026-03-02**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al.|[2603.02142](http://arxiv.org/abs/2603.02142)|null|
+|**2026-03-02**|**physfusion: A Transformer-based Dual-Stream Radar and Vision Fusion Framework for Open Water Surface Object Detection**|Yuting Wan et.al.|[2603.01947](http://arxiv.org/abs/2603.01947)|null|
+|**2026-03-02**|**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**|Yutong Yang et.al.|[2603.01847](http://arxiv.org/abs/2603.01847)|null|
+|**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](http://arxiv.org/abs/2603.01767)|null|
+|**2026-03-02**|**Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining**|Yuxuan Li et.al.|[2603.01758](http://arxiv.org/abs/2603.01758)|null|
+|**2026-03-02**|**YCDa: YCbCr Decoupled Attention for Real-time Realistic Camouflaged Object Detection**|PeiHuang Zheng et.al.|[2603.01602](http://arxiv.org/abs/2603.01602)|null|
+|**2026-03-02**|**PPEDCRF: Privacy-Preserving Enhanced Dynamic CRF for Location-Privacy Protection for Sequence Videos with Minimal Detection Degradation**|Bo Ma et.al.|[2603.01593](http://arxiv.org/abs/2603.01593)|null|
+|**2026-03-02**|**Boosting AI Reliability with an FSM-Driven Streaming Inference Pipeline: An Industrial Case**|Yutian Zhang et.al.|[2603.01528](http://arxiv.org/abs/2603.01528)|null|
+|**2026-03-02**|**Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection**|Qirui Wu et.al.|[2603.01524](http://arxiv.org/abs/2603.01524)|null|
+|**2026-03-01**|**Open-Vocabulary vs Supervised Learning Methods for Post-Disaster Visual Scene Understanding**|Anna Michailidou et.al.|[2603.01324](http://arxiv.org/abs/2603.01324)|null|
+|**2026-03-01**|**Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction**|Ari Wahl et.al.|[2603.01224](http://arxiv.org/abs/2603.01224)|null|
+|**2026-03-01**|**SMR-Net:Robot Snap Detection Based on Multi-Scale Features and Self-Attention Network**|Kuanxu Hou et.al.|[2603.01036](http://arxiv.org/abs/2603.01036)|null|
+|**2026-03-01**|**Accelerating Multi-Scale Deformable Attention Using Near-Memory-Processing Architecture**|Huize Li et.al.|[2603.00959](http://arxiv.org/abs/2603.00959)|null|
+|**2026-03-01**|**VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection**|Yang Cao et.al.|[2603.00912](http://arxiv.org/abs/2603.00912)|null|
+|**2026-02-28**|**Towards Khmer Scene Document Layout Detection**|Marry Kong et.al.|[2603.00707](http://arxiv.org/abs/2603.00707)|null|
+|**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527](http://arxiv.org/abs/2603.00527)|null|
+|**2026-02-28**|**Random Wins All: Rethinking Grouping Strategies for Vision Tokens**|Qihang Fan et.al.|[2603.00486](http://arxiv.org/abs/2603.00486)|null|
 |**2026-02-27**|**Bandwidth-adaptive Cloud-Assisted 360-Degree 3D Perception for Autonomous Vehicles**|Faisal Hawladera et.al.|[2602.23871](http://arxiv.org/abs/2602.23871)|null|
 |**2026-02-27**|**Denoising-Enhanced YOLO for Robust SAR Ship Detection**|Xiaojing Zhao et.al.|[2602.23820](http://arxiv.org/abs/2602.23820)|null|
 |**2026-02-27**|**Fourier Angle Alignment for Oriented Object Detection in Remote Sensing**|Changyu Gu et.al.|[2602.23790](http://arxiv.org/abs/2602.23790)|null|
@@ -113,14 +156,29 @@ layout: default
 |**2026-02-25**|**Revisiting the Origin of the Star-Forming Main Sequence Based on a Volume-Limited Sample of ~25,000 Galaxies**|Yang Gao et.al.|[2602.21500](http://arxiv.org/abs/2602.21500)|null|
 |**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925](http://arxiv.org/abs/2602.20925)|null|
 |**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807](http://arxiv.org/abs/2602.20807)|null|
-|**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
+|**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)|null|
 |**2026-02-22**|**OpenVO: Open-World Visual Odometry with Temporal Dynamics Awareness**|Phuc D. A. Nguyen et.al.|[2602.19035](http://arxiv.org/abs/2602.19035)|null|
 |**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|null|
 |**2026-02-21**|**IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping**|Tingyang Xiao et.al.|[2602.18709](http://arxiv.org/abs/2602.18709)|null|
 |**2026-02-20**|**Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark**|Hyoseok Ju et.al.|[2602.18174](http://arxiv.org/abs/2602.18174)|null|
-|**2026-02-20**|**GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation**|Jonas Frey et.al.|[2602.18164](http://arxiv.org/abs/2602.18164)|null|
+|**2026-03-03**|**GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation**|Jonas Frey et.al.|[2602.18164](http://arxiv.org/abs/2602.18164)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
+|**2026-02-19**|**Multi-session Localization and Mapping Exploiting Topological Information**|Lorenzo Montano-Olivan et.al.|[2602.17226](http://arxiv.org/abs/2602.17226)|null|
+|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|
+|**2026-02-19**|**Cholec80-port: A Geometrically Consistent Trocar Port Segmentation Dataset for Robust Surgical Scene Understanding**|Shunsuke Kikuchi et.al.|[2602.17060](http://arxiv.org/abs/2602.17060)|null|
+|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|
+|**2026-02-13**|**Adaptive Illumination Control for Robot Perception**|Yash Turkar et.al.|[2602.15900](http://arxiv.org/abs/2602.15900)|null|
+|**2026-02-19**|**SceneVGGT: VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation**|Anna Gelencsér-Horváth et.al.|[2602.15899](http://arxiv.org/abs/2602.15899)|null|
+|**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
+|**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929](http://arxiv.org/abs/2602.14929)|null|
+|**2026-02-15**|**Exploiting Structure-from-Motion for Robust Vision-Based Map Matching for Aircraft Surface Movement**|Daniel Choate et.al.|[2602.14311](http://arxiv.org/abs/2602.14311)|null|
+|**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
+|**2026-02-14**|**UAV-SEAD: State Estimation Anomaly Dataset for UAVs**|Aykut Kabaoglu et.al.|[2602.13900](http://arxiv.org/abs/2602.13900)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**Unbiased Gradient Estimation for Event Binning via Functional Backpropagation**|Jinze Chen et.al.|[2602.12590](http://arxiv.org/abs/2602.12590)|null|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
+|**2026-02-09**|**Thegra: Graph-based SLAM for Thermal Imagery**|Anastasiia Kornilova et.al.|[2602.08531](http://arxiv.org/abs/2602.08531)|null|
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
