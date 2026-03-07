@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.05
+## Updated on 2026.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**K-Gen: A Multimodal Language-Conditioned Approach for Interpretable Keypoint-Guided Trajectory Generation**|Mingxuan Mu et.al.|[2603.04868](http://arxiv.org/abs/2603.04868)|null|
+|**2026-03-03**|**Radar-based Pose Optimization for HD Map Generation from Noisy Multi-Drive Vehicle Fleet Data**|Alexander Blumberg et.al.|[2603.03453](http://arxiv.org/abs/2603.03453)|null|
+|**2026-03-03**|**Impact of Localization Errors on Label Quality for Online HD Map Construction**|Alexander Blumberg et.al.|[2603.03452](http://arxiv.org/abs/2603.03452)|null|
 |**2026-03-02**|**B $^2$ F-Map: Crowd-sourced Mapping with Bayesian B-spline Fusion**|Yiping Xie et.al.|[2603.01673](http://arxiv.org/abs/2603.01673)|null|
 |**2026-02-27**|**WARM-CAT: Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning**|Xudong Yan et.al.|[2602.23114](http://arxiv.org/abs/2602.23114)|null|
 |**2026-02-26**|**DrivePTS: A Progressive Learning Framework with Textual and Structural Enhancement for Driving Scene Generation**|Zhechao Wang et.al.|[2602.22549](http://arxiv.org/abs/2602.22549)|null|
@@ -39,6 +42,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Fusion4CA: Boosting 3D Object Detection via Comprehensive Image Exploitation**|Kang Luo et.al.|[2603.05305](http://arxiv.org/abs/2603.05305)|null|
+|**2026-03-05**|**Digital Twin Driven Textile Classification and Foreign Object Recognition in Automated Sorting Systems**|Serkan Ergun et.al.|[2603.05230](http://arxiv.org/abs/2603.05230)|null|
+|**2026-03-05**|**A 360-degree Multi-camera System for Blue Emergency Light Detection Using Color Attention RT-DETR and the ABLDataset**|Francisco Vacalebri-Lloret et.al.|[2603.05058](http://arxiv.org/abs/2603.05058)|null|
+|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|null|
+|**2026-03-05**|**RMK RetinaNet: Rotated Multi-Kernel RetinaNet for Robust Oriented Object Detection in Remote Sensing Imagery**|Huiran Sun et.al.|[2603.04793](http://arxiv.org/abs/2603.04793)|null|
+|**2026-03-04**|**Recognition of Daily Activities through Multi-Modal Deep Learning: A Video, Pose, and Object-Aware Approach for Ambient Assisted Living**|Kooshan Hashemifard et.al.|[2603.04509](http://arxiv.org/abs/2603.04509)|null|
+|**2026-03-04**|**When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models**|Qianpu Chen et.al.|[2603.03989](http://arxiv.org/abs/2603.03989)|null|
+|**2026-03-04**|**Point Cloud Feature Coding for Object Detection over an Error-Prone Cloud-Edge Collaborative System**|Chongzhen Tian et.al.|[2603.03890](http://arxiv.org/abs/2603.03890)|null|
+|**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879](http://arxiv.org/abs/2603.03879)|null|
+|**2026-03-04**|**Adaptive Enhancement and Dual-Pooling Sequential Attention for Lightweight Underwater Object Detection with YOLOv10**|Md. Mushibur Rahman et.al.|[2603.03807](http://arxiv.org/abs/2603.03807)|null|
+|**2026-03-04**|**Small Object Detection in Complex Backgrounds with Multi-Scale Attention and Global Relation Modeling**|Wenguang Tao et.al.|[2603.03788](http://arxiv.org/abs/2603.03788)|null|
+|**2026-03-04**|**Tracking Feral Horses in Aerial Video Using Oriented Bounding Boxes**|Saeko Takizawa et.al.|[2603.03604](http://arxiv.org/abs/2603.03604)|null|
+|**2026-03-04**|**IoUCert: Robustness Verification for Anchor-based Object Detectors**|Benedikt Brückner et.al.|[2603.03043](http://arxiv.org/abs/2603.03043)|null|
+|**2026-03-03**|**HDINO: A Concise and Efficient Open-Vocabulary Detector**|Hao Zhang et.al.|[2603.02924](http://arxiv.org/abs/2603.02924)|null|
+|**2026-03-03**|**SEP-YOLO: Fourier-Domain Feature Representation for Transparent Object Instance Segmentation**|Fengming Zhang et.al.|[2603.02648](http://arxiv.org/abs/2603.02648)|null|
+|**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](http://arxiv.org/abs/2603.02560)|null|
+|**2026-03-03**|**ForestPersons: A Large-Scale Dataset for Under-Canopy Missing Person Detection**|Deokyun Kim et.al.|[2603.02541](http://arxiv.org/abs/2603.02541)|null|
+|**2026-03-03**|**ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop**|Shuangzhi Li et.al.|[2603.02481](http://arxiv.org/abs/2603.02481)|null|
+|**2026-03-02**|**From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories**|Mateus Karvat et.al.|[2603.02194](http://arxiv.org/abs/2603.02194)|null|
+|**2026-03-02**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al.|[2603.02142](http://arxiv.org/abs/2603.02142)|null|
 |**2026-02-27**|**Bandwidth-adaptive Cloud-Assisted 360-Degree 3D Perception for Autonomous Vehicles**|Faisal Hawladera et.al.|[2602.23871](http://arxiv.org/abs/2602.23871)|null|
 |**2026-02-27**|**Denoising-Enhanced YOLO for Robust SAR Ship Detection**|Xiaojing Zhao et.al.|[2602.23820](http://arxiv.org/abs/2602.23820)|null|
 |**2026-02-27**|**Fourier Angle Alignment for Oriented Object Detection in Remote Sensing**|Changyu Gu et.al.|[2602.23790](http://arxiv.org/abs/2602.23790)|null|
@@ -63,6 +86,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
+|**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330](http://arxiv.org/abs/2603.05330)|null|
+|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097](http://arxiv.org/abs/2603.05097)|null|
+|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|null|
+|**2026-03-05**|**GloSplat: Joint Pose-Appearance Optimization for Faster and More Accurate 3D Reconstruction**|Tianyu Xiong et.al.|[2603.04847](http://arxiv.org/abs/2603.04847)|null|
+|**2026-03-04**|**HBRB-BoW: A Retrained Bag-of-Words Vocabulary for ORB-SLAM via Hierarchical BRB-KMeans**|Minjae Lee et.al.|[2603.04144](http://arxiv.org/abs/2603.04144)|null|
+|**2026-03-03**|**Probabilistic Occupancy Grid for Radio-Based SLAM**|Xuhong Li et.al.|[2603.03559](http://arxiv.org/abs/2603.03559)|null|
+|**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
+|**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832](http://arxiv.org/abs/2603.02832)|null|
+|**2026-03-03**|**PathSpace: Rapid continuous map approximation for efficient SLAM using B-Splines in constrained environments**|Aduen Benjumea et.al.|[2603.02538](http://arxiv.org/abs/2603.02538)|null|
+|**2026-03-02**|**"Game, Set, Match": Double Delight Watching a Grand Slam Tennis Match**|Edsel A. Pena et.al.|[2603.02360](http://arxiv.org/abs/2603.02360)|null|
+|**2026-03-02**|**The Galaxy Stellar Mass-SFR-Size Relation in EAGLE, TNG100, and Observations**|Jiani Chu et.al.|[2603.01726](http://arxiv.org/abs/2603.01726)|null|
+|**2026-03-01**|**riMESA: Consensus ADMM for Real-World Collaborative SLAM**|Daniel McGann et.al.|[2603.01178](http://arxiv.org/abs/2603.01178)|null|
+|**2026-03-01**|**AI-enhanced Direct SLAM: A Principled Approach to Unsupervised Learning in Bayesian Inference**|Alexander Venus et.al.|[2603.01071](http://arxiv.org/abs/2603.01071)|null|
+|**2026-02-28**|**STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification**|Xingguo Xu et.al.|[2603.00695](http://arxiv.org/abs/2603.00695)|null|
 |**2026-02-27**|**BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds**|Tongyan Hua et.al.|[2602.23645](http://arxiv.org/abs/2602.23645)|null|
 |**2026-02-27**|**Motion-aware Event Suppression for Event Cameras**|Roberto Pellerito et.al.|[2602.23204](http://arxiv.org/abs/2602.23204)|null|
 |**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115](http://arxiv.org/abs/2602.23115)|null|
