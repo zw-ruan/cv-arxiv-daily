@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2025-12-09**|**On essential simplicial maps $S^3 \rightarrow S^2$**|Mikhail V. Bludov et.al.|[2512.08584](http://arxiv.org/abs/2512.08584)|null|
 |**2025-12-09**|**Geometry-Aligned Differential Privacy for Location-Safe Federated Radio Map Construction**|Jijia Tian et.al.|[2512.08263](http://arxiv.org/abs/2512.08263)|null|
 |**2025-12-03**|**CSMapping: Scalable Crowdsourced Semantic Mapping and Topology Inference for Autonomous Driving**|Zhijian Qiao et.al.|[2512.03510](http://arxiv.org/abs/2512.03510)|null|
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-03-06**|**CollabOD: Collaborative Multi-Backbone with Cross-scale Vision for UAV Small Object Detection**|Xuecheng Bai et.al.|[2603.05905](http://arxiv.org/abs/2603.05905)|null|
 |**2026-03-05**|**Post Fusion Bird's Eye View Feature Stabilization for Robust Multimodal 3D Detection**|Trung Tien Dong et.al.|[2603.05623](http://arxiv.org/abs/2603.05623)|null|
 |**2026-03-05**|**Fusion4CA: Boosting 3D Object Detection via Comprehensive Image Exploitation**|Kang Luo et.al.|[2603.05305](http://arxiv.org/abs/2603.05305)|null|
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-02-25**|**Revisiting the Origin of the Star-Forming Main Sequence Based on a Volume-Limited Sample of ~25,000 Galaxies**|Yang Gao et.al.|[2602.21500](http://arxiv.org/abs/2602.21500)|null|
 |**2026-02-24**|**LST-SLAM: A Stereo Thermal SLAM System for Kilometer-Scale Dynamic Environments**|Zeyu Jiang et.al.|[2602.20925](http://arxiv.org/abs/2602.20925)|null|
 |**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807](http://arxiv.org/abs/2602.20807)|null|
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
