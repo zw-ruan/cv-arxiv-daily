@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -74,11 +74,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**USIS-PGM: Photometric Gaussian Mixtures for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2603.13961](http://arxiv.org/abs/2603.13961)|null|
+|**2026-03-14**|**Discriminative Flow Matching Via Local Generative Predictors**|Om Govind Jha et.al.|[2603.13928](http://arxiv.org/abs/2603.13928)|null|
+|**2026-03-14**|**Dual-Strategy Improvement of YOLOv11n for Multi-Scale Object Detection in Remote Sensing Images**|Shuaiyu Zhu et.al.|[2603.13879](http://arxiv.org/abs/2603.13879)|null|
+|**2026-03-14**|**Bodhi VLM: Privacy-Alignment Modeling for Hierarchical Visual Representations in Vision Backbones and VLM Encoders via Bottom-Up and Top-Down Feature Search**|Bo Ma et.al.|[2603.13728](http://arxiv.org/abs/2603.13728)|null|
+|**2026-03-14**|**D-Compress: Detail-Preserving LiDAR Range Image Compression for Real-Time Streaming on Resource-Constrained Robots**|Shengqian Wang et.al.|[2603.13699](http://arxiv.org/abs/2603.13699)|null|
+|**2026-03-14**|**Toward Scalable Co-located Practical Learning: Assisting with Computer Vision and Multimodal Analytics**|Xinyu Li et.al.|[2603.13679](http://arxiv.org/abs/2603.13679)|null|
+|**2026-03-09**|**Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection**|Patricia L. Suarez et.al.|[2603.13357](http://arxiv.org/abs/2603.13357)|null|
+|**2026-03-13**|**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**|James Akl et.al.|[2603.12751](http://arxiv.org/abs/2603.12751)|null|
+|**2026-03-13**|**The COTe score: A decomposable framework for evaluating Document Layout Analysis models**|Jonathan Bourne et.al.|[2603.12718](http://arxiv.org/abs/2603.12718)|null|
+|**2026-03-13**|**RSONet: Region-guided Selective Optimization Network for RGB-T Salient Object Detection**|Bin Wan et.al.|[2603.12685](http://arxiv.org/abs/2603.12685)|null|
+|**2026-03-13**|**Bin~Wan,G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12680](http://arxiv.org/abs/2603.12680)|null|
+|**2026-03-13**|**A Prediction-as-Perception Framework for 3D Object Detection**|Song Zhang et.al.|[2603.12599](http://arxiv.org/abs/2603.12599)|null|
+|**2026-03-12**|**Addressing Data Scarcity in 3D Trauma Detection through Self-Supervised and Semi-Supervised Learning with Vertex Relative Position Encoding**|Shivam Chaudhary et.al.|[2603.12514](http://arxiv.org/abs/2603.12514)|null|
+|**2026-03-12**|**ABRA: Teleporting Fine-Tuned Knowledge Across Domains for Open-Vocabulary Object Detection**|Mattia Bernardi et.al.|[2603.12409](http://arxiv.org/abs/2603.12409)|null|
 |**2026-03-12**|**RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12215](http://arxiv.org/abs/2603.12215)|null|
 |**2026-03-12**|**COTONET: A custom cotton detection algorithm based on YOLO11 for stage of growth cotton boll detection**|Guillem González et.al.|[2603.11717](http://arxiv.org/abs/2603.11717)|null|
 |**2026-03-12**|**R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection**|Zhongyu Xia et.al.|[2603.11566](http://arxiv.org/abs/2603.11566)|null|
 |**2026-03-12**|**TornadoNet: Real-Time Building Damage Detection with Ordinal Supervision**|Robinson Umeike et.al.|[2603.11557](http://arxiv.org/abs/2603.11557)|null|
-|**2026-03-12**|**One Supervisor, Many Modalities: Adaptive Tool Orchestration for Autonomous Queries**|Mayank Saini Arit Kumar Bishwas et.al.|[2603.11545](http://arxiv.org/abs/2603.11545)|null|
+|**2026-03-13**|**One Supervisor, Many Modalities: Adaptive Tool Orchestration for Autonomous Queries**|Mayank Saini et.al.|[2603.11545](http://arxiv.org/abs/2603.11545)|null|
 |**2026-03-12**|**EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection**|Shuo Jiang et.al.|[2603.11521](http://arxiv.org/abs/2603.11521)|null|
 |**2026-03-11**|**Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style**|Marvin Limpijankit et.al.|[2603.11024](http://arxiv.org/abs/2603.11024)|null|
 |**2026-03-11**|**GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations**|Boyuan Chen et.al.|[2603.10978](http://arxiv.org/abs/2603.10978)|null|
@@ -184,7 +198,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](http://arxiv.org/abs/2603.12064)|null|
+|**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917](http://arxiv.org/abs/2603.13917)|null|
+|**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556](http://arxiv.org/abs/2603.13556)|null|
+|**2026-03-13**|**Self-Flow-Matching assisted Full Waveform Inversion**|Xinquan Huang et.al.|[2603.13425](http://arxiv.org/abs/2603.13425)|null|
+|**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721](http://arxiv.org/abs/2603.12721)|null|
+|**2026-03-14**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](http://arxiv.org/abs/2603.12064)|null|
 |**2026-03-12**|**Single-View Rolling-Shutter SfM**|Sofía Errázuriz Muñoz et.al.|[2603.11888](http://arxiv.org/abs/2603.11888)|null|
 |**2026-03-11**|**D-SLAMSpoof: An Environment-Agnostic LiDAR Spoofing Attack using Dynamic Point Cloud Injection**|Rokuto Nagata et.al.|[2603.11365](http://arxiv.org/abs/2603.11365)|null|
 |**2026-03-11**|**MirrorDrift: Actuated Mirror-Based Attacks on LiDAR SLAM**|Rokuto Nagata et.al.|[2603.11364](http://arxiv.org/abs/2603.11364)|null|
