@@ -7,15 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.17
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
+|**2026-03-17**|**ACPV-Net: All-Class Polygonal Vectorization for Seamless Vector Map Generation from Aerial Imagery**|Weiqin Jiao et.al.|[2603.16616](http://arxiv.org/abs/2603.16616)|**[link](https://github.com/HeinzJiao/ACPV-Net)**|
+|**2026-03-17**|**$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation**|Ruizhi Wang et.al.|[2603.16362](http://arxiv.org/abs/2603.16362)|null|
+|**2026-03-16**|**Quasiconformal Normalization of Random Meromorphic Functions**|Michael Iofin et.al.|[2603.15715](http://arxiv.org/abs/2603.15715)|null|
 |**2026-03-11**|**MapGCLR: Geospatial Contrastive Learning of Representations for Online Vectorized HD Map Construction**|Jonas Merkert et.al.|[2603.10688](http://arxiv.org/abs/2603.10688)|null|
-|**2026-03-10**|**Location-Agnostic Channel Knowledge Map Construction for Dynamic Scenes**|Kequan Zhou et.al.|[2603.09273](http://arxiv.org/abs/2603.09273)|null|
+|**2026-03-17**|**Location-Agnostic Channel Knowledge Map Construction for Dynamic Scenes**|Kequan Zhou et.al.|[2603.09273](http://arxiv.org/abs/2603.09273)|null|
 |**2026-03-10**|**ImpedanceDiffusion: Diffusion-Based Global Path Planning for UAV Swarm Navigation with Generative Impedance Control**|Faryal Batool et.al.|[2603.09031](http://arxiv.org/abs/2603.09031)|null|
 |**2026-03-09**|**Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning**|Mohamed Harmanani et.al.|[2603.08921](http://arxiv.org/abs/2603.08921)|null|
 |**2026-03-08**|**Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method**|Xinyu Liu et.al.|[2603.07678](http://arxiv.org/abs/2603.07678)|null|
@@ -74,15 +78,44 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-14**|**USIS-PGM: Photometric Gaussian Mixtures for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2603.13961](http://arxiv.org/abs/2603.13961)|null|
+|**2026-03-18**|**VirPro: Visual-referred Probabilistic Prompt Learning for Weakly-Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2603.17470](http://arxiv.org/abs/2603.17470)|null|
+|**2026-03-17**|**PhysQuantAgent: An Inference Pipeline of Mass Estimation for Vision-Language Models**|Hisayuki Yokomizo et.al.|[2603.16958](http://arxiv.org/abs/2603.16958)|null|
+|**2026-03-14**|**TDMM-LM: Bridging Facial Understanding and Animation via Language Models**|Luchuan Song et.al.|[2603.16936](http://arxiv.org/abs/2603.16936)|null|
+|**2026-03-14**|**Facial beauty prediction fusing transfer learning and broad learning system**|Junying Gan et.al.|[2603.16930](http://arxiv.org/abs/2603.16930)|null|
+|**2026-03-17**|**GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models**|Jiaxin Zhang et.al.|[2603.16461](http://arxiv.org/abs/2603.16461)|null|
+|**2026-03-17**|**CD-FKD: Cross-Domain Feature Knowledge Distillation for Robust Single-Domain Generalization in Object Detection**|Junseok Lee et.al.|[2603.16439](http://arxiv.org/abs/2603.16439)|null|
+|**2026-03-17**|**SF-Mamba: Rethinking State Space Model for Vision**|Masakazu Yoshimura et.al.|[2603.16423](http://arxiv.org/abs/2603.16423)|null|
+|**2026-03-17**|**Automated identification of Ichneumonoidea wasps via YOLO-based deep learning: Integrating HiresCam for Explainable AI**|Joao Manoel Herrera Pinheiro et.al.|[2603.16351](http://arxiv.org/abs/2603.16351)|null|
+|**2026-03-17**|**PKINet-v2: Towards Powerful and Efficient Poly-Kernel Remote Sensing Object Detection**|Xinhao Cai et.al.|[2603.16341](http://arxiv.org/abs/2603.16341)|null|
+|**2026-03-17**|**AW-MoE: All-Weather Mixture of Experts for Robust Multi-Modal 3D Object Detection**|Hongwei Lin et.al.|[2603.16261](http://arxiv.org/abs/2603.16261)|null|
+|**2026-03-17**|**KidsNanny: A Two-Stage Multimodal Content Moderation Pipeline Integrating Visual Classification, Object Detection, OCR, and Contextual Reasoning for Child Safety**|Viraj Panchal et.al.|[2603.16181](http://arxiv.org/abs/2603.16181)|null|
+|**2026-03-17**|**Out-of-Distribution Object Detection in Street Scenes via Synthetic Outlier Exposure and Transfer Learning**|Sadia Ilyas et.al.|[2603.16122](http://arxiv.org/abs/2603.16122)|null|
+|**2026-03-16**|**Robust Dynamic Object Detection in Cluttered Indoor Scenes via Learned Spatiotemporal Cues**|Juan Rached et.al.|[2603.15826](http://arxiv.org/abs/2603.15826)|null|
+|**2026-03-16**|**GLANCE: Gaze-Led Attention Network for Compressed Edge-inference**|Neeraj Solanki et.al.|[2603.15717](http://arxiv.org/abs/2603.15717)|null|
+|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)|null|
+|**2026-03-17**|**RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance**|Xianbao Hou et.al.|[2603.15484](http://arxiv.org/abs/2603.15484)|null|
+|**2026-03-16**|**Detection of Autonomous Shuttles in Urban Traffic Images Using Adaptive Residual Context**|Mohamed Aziz Younes et.al.|[2603.15404](http://arxiv.org/abs/2603.15404)|null|
+|**2026-03-16**|**Pointing-Based Object Recognition**|Lukáš Hajdúch et.al.|[2603.15403](http://arxiv.org/abs/2603.15403)|null|
+|**2026-03-16**|**Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems**|Daghash K. Alqahtani et.al.|[2603.15400](http://arxiv.org/abs/2603.15400)|null|
+|**2026-03-16**|**A PPO-Based Bitrate Allocation Conditional Diffusion Model for Remote Sensing Image Compression**|Yuming Han et.al.|[2603.15365](http://arxiv.org/abs/2603.15365)|null|
+|**2026-03-16**|**Automatic Characterization of Mid-latitude Multiple Ionospheric Plasma Structures from All-sky Airglow Images using Deep Learning Technique**|Jeevan Upadhyaya et.al.|[2603.15333](http://arxiv.org/abs/2603.15333)|null|
+|**2026-03-16**|**Exemplar Diffusion: Improving Medical Object Detection with Opportunistic Labels**|Victor Wåhlstrand et.al.|[2603.15267](http://arxiv.org/abs/2603.15267)|null|
+|**2026-03-16**|**PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units**|Mark Deutel et.al.|[2603.15106](http://arxiv.org/abs/2603.15106)|null|
+|**2026-03-16**|**PASTE: Physics-Aware Scattering Topology Embedding Framework for SAR Object Detection**|Jiacheng Chen et.al.|[2603.14886](http://arxiv.org/abs/2603.14886)|null|
+|**2026-03-16**|**SpiralDiff: Spiral Diffusion with LoRA for RGB-to-RAW Conversion Across Cameras**|Huanjing Yue et.al.|[2603.14885](http://arxiv.org/abs/2603.14885)|null|
+|**2026-03-16**|**RadarXFormer: Robust Object Detection via Cross-Dimension Fusion of 4D Radar Spectra and Images for Autonomous Driving**|Yue Sun et.al.|[2603.14822](http://arxiv.org/abs/2603.14822)|null|
+|**2026-03-15**|**Medical Image Spatial Grounding with Semantic Sampling**|Andrew Seohwan Yu et.al.|[2603.14579](http://arxiv.org/abs/2603.14579)|null|
+|**2026-03-15**|**Covariance-Guided Resource Adaptive Learning for Efficient Edge Inference**|Ahmad N. L. Nabhaan et.al.|[2603.14577](http://arxiv.org/abs/2603.14577)|null|
+|**2026-03-15**|**Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting**|Shuai Guo et.al.|[2603.14316](http://arxiv.org/abs/2603.14316)|null|
+|**2026-03-17**|**USIS-PGM: Photometric Gaussian Mixtures for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2603.13961](http://arxiv.org/abs/2603.13961)|null|
 |**2026-03-14**|**Discriminative Flow Matching Via Local Generative Predictors**|Om Govind Jha et.al.|[2603.13928](http://arxiv.org/abs/2603.13928)|null|
 |**2026-03-14**|**Dual-Strategy Improvement of YOLOv11n for Multi-Scale Object Detection in Remote Sensing Images**|Shuaiyu Zhu et.al.|[2603.13879](http://arxiv.org/abs/2603.13879)|null|
-|**2026-03-14**|**Bodhi VLM: Privacy-Alignment Modeling for Hierarchical Visual Representations in Vision Backbones and VLM Encoders via Bottom-Up and Top-Down Feature Search**|Bo Ma et.al.|[2603.13728](http://arxiv.org/abs/2603.13728)|null|
+|**2026-03-18**|**Bodhi VLM: Privacy-Alignment Modeling for Hierarchical Visual Representations in Vision Backbones and VLM Encoders via Bottom-Up and Top-Down Feature Search**|Bo Ma et.al.|[2603.13728](http://arxiv.org/abs/2603.13728)|null|
 |**2026-03-14**|**D-Compress: Detail-Preserving LiDAR Range Image Compression for Real-Time Streaming on Resource-Constrained Robots**|Shengqian Wang et.al.|[2603.13699](http://arxiv.org/abs/2603.13699)|null|
 |**2026-03-14**|**Toward Scalable Co-located Practical Learning: Assisting with Computer Vision and Multimodal Analytics**|Xinyu Li et.al.|[2603.13679](http://arxiv.org/abs/2603.13679)|null|
 |**2026-03-09**|**Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection**|Patricia L. Suarez et.al.|[2603.13357](http://arxiv.org/abs/2603.13357)|null|
 |**2026-03-13**|**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**|James Akl et.al.|[2603.12751](http://arxiv.org/abs/2603.12751)|null|
-|**2026-03-13**|**The COTe score: A decomposable framework for evaluating Document Layout Analysis models**|Jonathan Bourne et.al.|[2603.12718](http://arxiv.org/abs/2603.12718)|null|
+|**2026-03-16**|**The COTe score: A decomposable framework for evaluating Document Layout Analysis models**|Jonathan Bourne et.al.|[2603.12718](http://arxiv.org/abs/2603.12718)|null|
 |**2026-03-13**|**RSONet: Region-guided Selective Optimization Network for RGB-T Salient Object Detection**|Bin Wan et.al.|[2603.12685](http://arxiv.org/abs/2603.12685)|null|
 |**2026-03-13**|**Bin~Wan,G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12680](http://arxiv.org/abs/2603.12680)|null|
 |**2026-03-13**|**A Prediction-as-Perception Framework for 3D Object Detection**|Song Zhang et.al.|[2603.12599](http://arxiv.org/abs/2603.12599)|null|
@@ -198,6 +231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery**|Yiwen Zhao et.al.|[2603.17355](http://arxiv.org/abs/2603.17355)|null|
+|**2026-03-18**|**Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge**|Adam Dai et.al.|[2603.17232](http://arxiv.org/abs/2603.17232)|null|
+|**2026-03-18**|**Visual SLAM with DEM Anchoring for Lunar Surface Navigation**|Adam Dai et.al.|[2603.17229](http://arxiv.org/abs/2603.17229)|null|
+|**2026-03-17**|**FastLoop: Parallel Loop Closing with GPU-Acceleration in Visual SLAM**|Soudabeh Mohammadhashemi et.al.|[2603.17201](http://arxiv.org/abs/2603.17201)|null|
+|**2026-03-17**|**SLAM Adversarial Lab: An Extensible Framework for Visual SLAM Robustness Evaluation under Adverse Conditions**|Mohamed Hefny et.al.|[2603.17165](http://arxiv.org/abs/2603.17165)|null|
+|**2026-03-17**|**Split-Merge Dynamics for Shapley-Fair Coalition Formation**|Quanyan Zhu et.al.|[2603.17153](http://arxiv.org/abs/2603.17153)|null|
+|**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844](http://arxiv.org/abs/2603.16844)|null|
+|**2026-03-17**|**Industrial cuVSLAM Benchmark & Integration**|Charbel Abi Hana et.al.|[2603.16240](http://arxiv.org/abs/2603.16240)|null|
+|**2026-03-16**|**Thermal Image Refinement with Depth Estimation using Recurrent Networks for Monocular ORB-SLAM3**|Hürkan Şahin et.al.|[2603.14998](http://arxiv.org/abs/2603.14998)|null|
+|**2026-03-15**|**eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation**|Prithvi Jai Ramesh et.al.|[2603.14397](http://arxiv.org/abs/2603.14397)|null|
 |**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917](http://arxiv.org/abs/2603.13917)|null|
 |**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556](http://arxiv.org/abs/2603.13556)|null|
 |**2026-03-13**|**Self-Flow-Matching assisted Full Waveform Inversion**|Xinquan Huang et.al.|[2603.13425](http://arxiv.org/abs/2603.13425)|null|
