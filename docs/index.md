@@ -7,15 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.01
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Deep learning accelerated solutions of incompressible Navier-Stokes equations on non-uniform Cartesian grids**|Heming Bai et.al.|[2604.01800](http://arxiv.org/abs/2604.01800)|null|
+|**2026-04-01**|**VRUD: A Drone Dataset for Complex Vehicle-VRU Interactions within Mixed Traffic**|Ziyu Wang et.al.|[2604.01134](http://arxiv.org/abs/2604.01134)|null|
+|**2026-04-01**|**Data-Model Co-Driven Continuous Channel Map Construction: A Perceptive Foundation for Embodied Intelligent Agents in 6G Networks**|Tianrun Qi et.al.|[2604.01060](http://arxiv.org/abs/2604.01060)|null|
+|**2026-04-01**|**UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration**|Daehyun Kim et.al.|[2604.00381](http://arxiv.org/abs/2604.00381)|**[link](https://github.com/kdhRick2222/UCMNet)**|
 |**2026-03-30**|**Gleanmer: A 6 mW SoC for Real-Time 3D Gaussian Occupancy Mapping**|Zih-Sing Fu et.al.|[2603.29005](http://arxiv.org/abs/2603.29005)|null|
-|**2026-03-30**|**OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models**|Tianran Liu et.al.|[2603.28887](http://arxiv.org/abs/2603.28887)|null|
+|**2026-03-30**|**OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models**|Tianran Liu et.al.|[2603.28887](http://arxiv.org/abs/2603.28887)|**[link](https://github.com/Orbis36/OccSim)**|
 |**2026-03-28**|**Recruiting Heterogeneous Crowdsource Vehicles for Updating a High-definition Map**|Wentao Ye et.al.|[2603.27109](http://arxiv.org/abs/2603.27109)|null|
 |**2026-03-28**|**Efficient and Cost-effective Vehicle Recruitment for HD Map Crowdsourcing**|Wentao Ye et.al.|[2603.27102](http://arxiv.org/abs/2603.27102)|null|
 |**2026-03-27**|**GeoReFormer: Geometry-Aware Refinement for Lane Segment Detection and Topology Reasoning**|Danny Abraham et.al.|[2603.26018](http://arxiv.org/abs/2603.26018)|null|
@@ -88,6 +92,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Lifting Unlabeled Internet-level Data for 3D Scene Understanding**|Yixin Chen et.al.|[2604.01907](http://arxiv.org/abs/2604.01907)|null|
+|**2026-04-02**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|null|
+|**2026-04-02**|**Non-monotonicity in Conformal Risk Control**|Tareq Aldirawi et.al.|[2604.01502](http://arxiv.org/abs/2604.01502)|null|
+|**2026-04-01**|**Simulating Realistic LiDAR Data Under Adverse Weather for Autonomous Vehicles: A Physics-Informed Learning Approach**|Vivek Anand et.al.|[2604.01254](http://arxiv.org/abs/2604.01254)|null|
+|**2026-04-02**|**Towards Physically Realizable Adversarial Attenuation Patch against SAR Object Detection**|Yiming Zhang et.al.|[2604.00887](http://arxiv.org/abs/2604.00887)|null|
+|**2026-04-01**|**Fluently Lying: Adversarial Robustness Can Be Substrate-Dependent**|Daye Kang et.al.|[2604.00605](http://arxiv.org/abs/2604.00605)|null|
+|**2026-04-01**|**TF-SSD: A Strong Pipeline via Synergic Mask Filter for Training-free Co-salient Object Detection**|Zhijin He et.al.|[2604.00549](http://arxiv.org/abs/2604.00549)|null|
+|**2026-04-01**|**PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training**|Weifu Fu et.al.|[2604.00503](http://arxiv.org/abs/2604.00503)|null|
+|**2026-04-01**|**Conditional Polarization Guidance for Camouflaged Object Detection**|QIfan Zhang et.al.|[2603.30008](http://arxiv.org/abs/2603.30008)|null|
+|**2026-03-31**|**Detecting Unknown Objects via Energy-based Separation for Open World Object Detection**|Jun-Woo Heo et.al.|[2603.29954](http://arxiv.org/abs/2603.29954)|null|
+|**2026-03-31**|**Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data**|Minyoung E. Kim et.al.|[2603.29842](http://arxiv.org/abs/2603.29842)|null|
+|**2026-03-31**|**AutoFormBench: Benchmark Dataset for Automating Form Understanding**|Gaurab Baral et.al.|[2603.29832](http://arxiv.org/abs/2603.29832)|null|
 |**2026-03-30**|**Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim**|Martina Hutter-Mironovova et.al.|[2603.28670](http://arxiv.org/abs/2603.28670)|null|
 |**2026-03-30**|**ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection**|Haojing Chen et.al.|[2603.28584](http://arxiv.org/abs/2603.28584)|null|
 |**2026-03-30**|**AceleradorSNN: A Neuromorphic Cognitive System Integrating Spiking Neural Networks and DynamicImage Signal Processing on FPGA**|Daniel Gutierrez et.al.|[2603.28429](http://arxiv.org/abs/2603.28429)|null|
@@ -99,7 +115,7 @@ layout: default
 |**2026-03-29**|**Benchmarking Multi-View BEV Object Detection with Mixed Pinhole and Fisheye Cameras**|Xiangzhong Liu et.al.|[2603.27818](http://arxiv.org/abs/2603.27818)|null|
 |**2026-03-29**|**Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method**|Xiaoran Xu et.al.|[2603.27556](http://arxiv.org/abs/2603.27556)|null|
 |**2026-03-29**|**Understanding Semantic Perturbations on In-Processing Generative Image Watermarks**|Anirudh Nakra et.al.|[2603.27513](http://arxiv.org/abs/2603.27513)|null|
-|**2026-03-28**|**Human-Centric Perception for Child Sexual Abuse Imagery**|Camila Laranjeira et.al.|[2603.27290](http://arxiv.org/abs/2603.27290)|null|
+|**2026-04-02**|**Human-Centric Perception for Child Sexual Abuse Imagery**|Camila Laranjeira et.al.|[2603.27290](http://arxiv.org/abs/2603.27290)|null|
 |**2026-03-28**|**IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection**|Huiyao Zhang et.al.|[2603.27250](http://arxiv.org/abs/2603.27250)|null|
 |**2026-03-28**|**Autonomous overtaking trajectory optimization using reinforcement learning and opponent pose estimation**|Matej Rene Cihlar et.al.|[2603.27207](http://arxiv.org/abs/2603.27207)|null|
 |**2026-03-28**|**K $α$ LOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks**|David Tschirschwitz et.al.|[2603.27197](http://arxiv.org/abs/2603.27197)|null|
@@ -316,6 +332,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
+|**2026-04-02**|**Enhanced Polarization Locking in VCSELs**|Zifeng Yuan et.al.|[2604.01857](http://arxiv.org/abs/2604.01857)|null|
+|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852](http://arxiv.org/abs/2604.00852)|null|
+|**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804](http://arxiv.org/abs/2604.00804)|null|
+|**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|null|
+|**2026-04-01**|**A Dual-Stream Transformer Architecture for Illumination-Invariant TIR-LiDAR Person Tracking**|Yuki Minase et.al.|[2604.00363](http://arxiv.org/abs/2604.00363)|null|
 |**2026-03-31**|**Semantic Zone-Based Map Management for Stable AI-Integrated Mobile Robots**|Huichang Yun et.al.|[2603.29627](http://arxiv.org/abs/2603.29627)|null|
 |**2026-03-31**|**M2H-MX: Multi-Task Dense Visual Perception for Real-Time Monocular Spatial Understanding**|U. V. B. L. Udugama et.al.|[2603.29236](http://arxiv.org/abs/2603.29236)|null|
 |**2026-03-30**|**A Classification of Heterogeneity in Uncrewed Vehicle Swarms and the Effects of Its Inclusion on Overall Swarm Resilience**|Abhishek Joshi et.al.|[2603.28831](http://arxiv.org/abs/2603.28831)|null|
