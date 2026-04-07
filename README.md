@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,12 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Computing with Living Neurons: Chaos-Controlled Reservoir Computing with Knowledge Transplant**|Seung Hyun Kim et.al.|[2604.02552](http://arxiv.org/abs/2604.02552)|null|
 |**2026-04-02**|**Deep learning accelerated solutions of incompressible Navier-Stokes equations on non-uniform Cartesian grids**|Heming Bai et.al.|[2604.01800](http://arxiv.org/abs/2604.01800)|null|
 |**2026-04-01**|**VRUD: A Drone Dataset for Complex Vehicle-VRU Interactions within Mixed Traffic**|Ziyu Wang et.al.|[2604.01134](http://arxiv.org/abs/2604.01134)|null|
 |**2026-04-01**|**Data-Model Co-Driven Continuous Channel Map Construction: A Perceptive Foundation for Embodied Intelligent Agents in 6G Networks**|Tianrun Qi et.al.|[2604.01060](http://arxiv.org/abs/2604.01060)|null|
-|**2026-04-01**|**UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration**|Daehyun Kim et.al.|[2604.00381](http://arxiv.org/abs/2604.00381)|null|
+|**2026-04-01**|**UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration**|Daehyun Kim et.al.|[2604.00381](http://arxiv.org/abs/2604.00381)|**[link](https://github.com/kdhRick2222/UCMNet)**|
 |**2026-03-30**|**Gleanmer: A 6 mW SoC for Real-Time 3D Gaussian Occupancy Mapping**|Zih-Sing Fu et.al.|[2603.29005](http://arxiv.org/abs/2603.29005)|null|
-|**2026-03-30**|**OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models**|Tianran Liu et.al.|[2603.28887](http://arxiv.org/abs/2603.28887)|null|
+|**2026-03-30**|**OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models**|Tianran Liu et.al.|[2603.28887](http://arxiv.org/abs/2603.28887)|**[link](https://github.com/Orbis36/OccSim)**|
 |**2026-03-28**|**Recruiting Heterogeneous Crowdsource Vehicles for Updating a High-definition Map**|Wentao Ye et.al.|[2603.27109](http://arxiv.org/abs/2603.27109)|null|
 |**2026-03-28**|**Efficient and Cost-effective Vehicle Recruitment for HD Map Crowdsourcing**|Wentao Ye et.al.|[2603.27102](http://arxiv.org/abs/2603.27102)|null|
 |**2026-03-27**|**GeoReFormer: Geometry-Aware Refinement for Lane Segment Detection and Topology Reasoning**|Danny Abraham et.al.|[2603.26018](http://arxiv.org/abs/2603.26018)|null|
@@ -68,13 +69,30 @@
 |**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
 |**2026-01-29**|**DrivIng: A Large-Scale Multimodal Driving Dataset with Full Digital Twin Integration**|Dominik Rößle et.al.|[2601.15260](http://arxiv.org/abs/2601.15260)|null|
 |**2026-01-20**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Kanak Mazumder et.al.|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
-|**2026-01-15**|**BeamCKMDiff: Beam-Aware Channel Knowledge Map Construction via Diffusion Transformer**|Le Zhao et.al.|[2601.10207](http://arxiv.org/abs/2601.10207)|null|
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-05**|**SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Robust SAR Ship Detection**|Fenghao Song et.al.|[2604.04127](http://arxiv.org/abs/2604.04127)|null|
+|**2026-04-05**|**Intelligent Traffic Monitoring with YOLOv11: A Case Study in Real-Time Vehicle Detection**|Shkelqim Sherifi et.al.|[2604.04080](http://arxiv.org/abs/2604.04080)|null|
+|**2026-04-04**|**Beyond Task-Driven Features for Object Detection**|Meilun Zhou et.al.|[2604.03839](http://arxiv.org/abs/2604.03839)|null|
+|**2026-04-04**|**Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention**|João Luzio et.al.|[2604.03836](http://arxiv.org/abs/2604.03836)|null|
+|**2026-04-04**|**ComPrivDet: Efficient Privacy Object Detection in Compressed Domains Through Inference Reuse**|Yunhao Yao et.al.|[2604.03640](http://arxiv.org/abs/2604.03640)|null|
+|**2026-04-04**|**Determined by User Needs: A Salient Object Detection Rationale Beyond Conventional Visual Stimuli**|Chenglizhao Chen et.al.|[2604.03526](http://arxiv.org/abs/2604.03526)|null|
+|**2026-04-03**|**YOLOv11 Demystified: A Practical Guide to High-Performance Object Detection**|Nikhileswara Rao Sulake et.al.|[2604.03349](http://arxiv.org/abs/2604.03349)|null|
+|**2026-04-02**|**Safety-Aligned 3D Object Detection: Single-Vehicle, Cooperative, and End-to-End Perspectives**|Brian Hsuan-Cheng Liao et.al.|[2604.03325](http://arxiv.org/abs/2604.03325)|null|
+|**2026-04-01**|**Gaze to Insight: A Scalable AI Approach for Detecting Gaze Behaviours in Face-to-Face Collaborative Learning**|Junyuan Liang et.al.|[2604.03317](http://arxiv.org/abs/2604.03317)|null|
+|**2026-03-31**|**Edge-Based Standing-Water Detection via FSM-Guided Tiering and Multi-Model Consensus**|Oliver Aleksander Larsen et.al.|[2604.03308](http://arxiv.org/abs/2604.03308)|null|
+|**2026-04-03**|**SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection**|Wenfeng Zhang et.al.|[2604.03176](http://arxiv.org/abs/2604.03176)|null|
+|**2026-04-03**|**Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning**|Zhangyun Tan et.al.|[2604.03114](http://arxiv.org/abs/2604.03114)|null|
+|**2026-04-03**|**Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection**|Wenhao Li et.al.|[2604.02966](http://arxiv.org/abs/2604.02966)|null|
+|**2026-04-03**|**Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection**|Yuzhen Niu et.al.|[2604.02935](http://arxiv.org/abs/2604.02935)|null|
+|**2026-04-03**|**RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection**|Cheng Lu et.al.|[2604.02903](http://arxiv.org/abs/2604.02903)|null|
+|**2026-04-03**|**PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis**|Dexiang Li et.al.|[2604.02804](http://arxiv.org/abs/2604.02804)|null|
+|**2026-04-03**|**Generalized Small Object Detection:A Point-Prompted Paradigm and Benchmark**|Haoran Zhu et.al.|[2604.02773](http://arxiv.org/abs/2604.02773)|null|
+|**2026-04-03**|**DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection**|Siheng Wang et.al.|[2604.02753](http://arxiv.org/abs/2604.02753)|null|
 |**2026-04-02**|**Deep Neural Network Based Roadwork Detection for Autonomous Driving**|Sebastian Wullrich et.al.|[2604.02282](http://arxiv.org/abs/2604.02282)|null|
 |**2026-04-02**|**Lifting Unlabeled Internet-level Data for 3D Scene Understanding**|Yixin Chen et.al.|[2604.01907](http://arxiv.org/abs/2604.01907)|null|
 |**2026-04-02**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|null|
@@ -107,30 +125,18 @@
 |**2026-03-28**|**MotiMem: Motion-Aware Approximate Memory for Energy-Efficient Neural Perception in Autonomous Vehicles**|Haohua Que et.al.|[2603.27108](http://arxiv.org/abs/2603.27108)|null|
 |**2026-03-28**|**Towards Intrinsic-Aware Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2603.27059](http://arxiv.org/abs/2603.27059)|null|
 |**2026-03-27**|**YOLO Object Detectors for Robotics -- a Comparative Study**|Patryk Niżeniec et.al.|[2603.27029](http://arxiv.org/abs/2603.27029)|null|
-|**2026-03-27**|**GUIDED: Granular Understanding via Identification, Detection, and Discrimination for Fine-Grained Open-Vocabulary Object Detection**|Jiaming Li et.al.|[2603.27014](http://arxiv.org/abs/2603.27014)|null|
-|**2026-03-27**|**Computer Vision with a Superpixelation Camera**|Sasidharan Mahalingam et.al.|[2603.26900](http://arxiv.org/abs/2603.26900)|null|
-|**2026-03-26**|**Deep Learning Aided Vision System for Planetary Rovers**|Lomash Relia et.al.|[2603.26802](http://arxiv.org/abs/2603.26802)|null|
-|**2026-03-27**|**Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones**|Moritz Nottebaum et.al.|[2603.26551](http://arxiv.org/abs/2603.26551)|null|
-|**2026-03-30**|**CPUBone: Efficient Vision Backbone Design for Devices with Low Parallelization Capabilities**|Moritz Nottebaum et.al.|[2603.26425](http://arxiv.org/abs/2603.26425)|null|
-|**2026-03-27**|**Dual-Stage Invariant Continual Learning under Extreme Visual Sparsity**|Rangya Zhang et.al.|[2603.26190](http://arxiv.org/abs/2603.26190)|null|
-|**2026-03-27**|**Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning**|Bozhao Li et.al.|[2603.26179](http://arxiv.org/abs/2603.26179)|null|
-|**2026-03-27**|**SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection**|Jiaming Liang et.al.|[2603.26109](http://arxiv.org/abs/2603.26109)|null|
-|**2026-03-27**|**CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection**|Youngjun Song et.al.|[2603.26092](http://arxiv.org/abs/2603.26092)|null|
-|**2026-03-27**|**GeoReFormer: Geometry-Aware Refinement for Lane Segment Detection and Topology Reasoning**|Danny Abraham et.al.|[2603.26018](http://arxiv.org/abs/2603.26018)|null|
-|**2026-03-26**|**CHIRP dataset: towards long-term, individual-level, behavioral monitoring of bird populations in the wild**|Alex Hoi Hang Chan et.al.|[2603.25524](http://arxiv.org/abs/2603.25524)|null|
-|**2026-03-26**|**RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models**|Yufeng Yang et.al.|[2603.25502](http://arxiv.org/abs/2603.25502)|null|
-|**2026-03-26**|**Implementation of a Near-Realtime Recording and Reporting System of Solar Radio Bursts**|Peijin Zhang et.al.|[2603.25446](http://arxiv.org/abs/2603.25446)|null|
-|**2026-03-26**|**Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics**|João Castelo-Branco et.al.|[2603.25366](http://arxiv.org/abs/2603.25366)|null|
-|**2026-03-26**|**V2U4Real: A Real-world Large-scale Dataset for Vehicle-to-UAV Cooperative Perception**|Weijia Li et.al.|[2603.25275](http://arxiv.org/abs/2603.25275)|null|
-|**2026-03-26**|**A Unified Spatial Alignment Framework for Highly Transferable Transformation-Based Attacks on Spatially Structured Tasks**|Jiaming Liang et.al.|[2603.25230](http://arxiv.org/abs/2603.25230)|null|
-|**2026-03-26**|**SDD-YOLO: A Small-Target Detection Framework for Ground-to-Air Anti-UAV Surveillance with Edge-Efficient Deployment**|Pengyu Chen et.al.|[2603.25218](http://arxiv.org/abs/2603.25218)|null|
-|**2026-03-26**|**Knowledge-Guided Adversarial Training for Infrared Object Detection via Thermal Radiation Modeling**|Shiji Zhao et.al.|[2603.25170](http://arxiv.org/abs/2603.25170)|null|
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-05**|**DINO-VO: Learning Where to Focus for Enhanced State Estimation**|Qi Chen et.al.|[2604.04055](http://arxiv.org/abs/2604.04055)|null|
+|**2026-04-03**|**ViBA: Implicit Bundle Adjustment with Geometric and Temporal Consistency for Robust Visual Matching**|Xiaoji Niu et.al.|[2604.03377](http://arxiv.org/abs/2604.03377)|null|
+|**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
+|**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|null|
+|**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|null|
+|**2026-04-02**|**Dynamic Risk Generation for Autonomous Driving: Naturalistic Reconstruction of Vehicle-E-Scooter Interactions**|Abin Mathew et.al.|[2604.02573](http://arxiv.org/abs/2604.02573)|null|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107](http://arxiv.org/abs/2604.02107)|null|
 |**2026-04-02**|**Enhanced Polarization Locking in VCSELs**|Zifeng Yuan et.al.|[2604.01857](http://arxiv.org/abs/2604.01857)|null|
 |**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852](http://arxiv.org/abs/2604.00852)|null|
@@ -153,7 +159,7 @@
 |**2026-03-24**|**Digital Twin Enabled Simultaneous Learning and Modeling for UAV-assisted Secure Communications with Eavesdropping Attacks**|Jieting Yuan et.al.|[2603.22753](http://arxiv.org/abs/2603.22753)|null|
 |**2026-03-24**|**Variable-Resolution Virtual Maps for Autonomous Exploration with Unmanned Surface Vehicles (USVs)**|Ye Li et.al.|[2603.22667](http://arxiv.org/abs/2603.22667)|null|
 |**2026-03-23**|**Image-Conditioned Adaptive Parameter Tuning for Visual Odometry Frontends**|Simone Nascivera et.al.|[2603.21785](http://arxiv.org/abs/2603.21785)|null|
-|**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
+|**2026-04-05**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
 |**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|null|
 |**2026-03-21**|**Implementing Robust M-Estimators with Certifiable Factor Graph Optimization**|Zhexin Xu et.al.|[2603.20932](http://arxiv.org/abs/2603.20932)|null|
 |**2026-03-21**|**The Role and Relationship of Initialization and Densification in 3D Gaussian Splatting**|Ivan Desiatov et.al.|[2603.20714](http://arxiv.org/abs/2603.20714)|null|
@@ -175,13 +181,7 @@
 |**2026-03-18**|**Visual SLAM with DEM Anchoring for Lunar Surface Navigation**|Adam Dai et.al.|[2603.17229](http://arxiv.org/abs/2603.17229)|null|
 |**2026-03-17**|**FastLoop: Parallel Loop Closing with GPU-Acceleration in Visual SLAM**|Soudabeh Mohammadhashemi et.al.|[2603.17201](http://arxiv.org/abs/2603.17201)|null|
 |**2026-03-17**|**SLAM Adversarial Lab: An Extensible Framework for Visual SLAM Robustness Evaluation under Adverse Conditions**|Mohamed Hefny et.al.|[2603.17165](http://arxiv.org/abs/2603.17165)|null|
-|**2026-03-17**|**Split-Merge Dynamics for Shapley-Fair Coalition Formation**|Quanyan Zhu et.al.|[2603.17153](http://arxiv.org/abs/2603.17153)|null|
-|**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844](http://arxiv.org/abs/2603.16844)|null|
-|**2026-03-17**|**Industrial cuVSLAM Benchmark & Integration**|Charbel Abi Hana et.al.|[2603.16240](http://arxiv.org/abs/2603.16240)|null|
-|**2026-03-16**|**Thermal Image Refinement with Depth Estimation using Recurrent Networks for Monocular ORB-SLAM3**|Hürkan Şahin et.al.|[2603.14998](http://arxiv.org/abs/2603.14998)|null|
-|**2026-03-15**|**eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation**|Prithvi Jai Ramesh et.al.|[2603.14397](http://arxiv.org/abs/2603.14397)|null|
-|**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917](http://arxiv.org/abs/2603.13917)|null|
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
