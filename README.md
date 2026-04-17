@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.15
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-01-27**|**Unveiling crown-finger instability of a non-spherical drop impacting a liquid surface**|Nagula Venkata Anirudh et.al.|[2601.19621](http://arxiv.org/abs/2601.19621)|null|
 |**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
 |**2026-01-29**|**DrivIng: A Large-Scale Multimodal Driving Dataset with Full Digital Twin Integration**|Dominik Rößle et.al.|[2601.15260](http://arxiv.org/abs/2601.15260)|null|
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-04-01**|**TF-SSD: A Strong Pipeline via Synergic Mask Filter for Training-free Co-salient Object Detection**|Zhijin He et.al.|[2604.00549](http://arxiv.org/abs/2604.00549)|null|
 |**2026-04-07**|**PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training**|Weifu Fu et.al.|[2604.00503](http://arxiv.org/abs/2604.00503)|null|
 |**2026-04-01**|**Conditional Polarization Guidance for Camouflaged Object Detection**|QIfan Zhang et.al.|[2603.30008](http://arxiv.org/abs/2603.30008)|null|
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-03-20**|**TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images**|Spencer Carmichael et.al.|[2603.20443](http://arxiv.org/abs/2603.20443)|null|
 |**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428](http://arxiv.org/abs/2603.20428)|null|
 |**2026-03-25**|**HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels**|Shuoyuan Xu et.al.|[2603.20150](http://arxiv.org/abs/2603.20150)|null|
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
