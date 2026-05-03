@@ -7,18 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.01
+## Updated on 2026.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Dense cores and filaments in M16: Enhanced formation efficiency in the stellar feedback-driven shell**|Nageen Pervaiz et.al.|[2604.27584](http://arxiv.org/abs/2604.27584)|null|
+|**2026-04-29**|**Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance**|Lingfeng Zhang et.al.|[2604.26839](http://arxiv.org/abs/2604.26839)|null|
+|**2026-04-29**|**Deep-testing: the case of dependence detection**|Gery Geenens et.al.|[2604.26558](http://arxiv.org/abs/2604.26558)|null|
+|**2026-04-29**|**Lights Out: A Nighttime UAV Localization Framework Using Thermal Imagery and Semantic 3D Maps**|Ryan Allen et.al.|[2604.26201](http://arxiv.org/abs/2604.26201)|null|
 |**2026-04-28**|**High-field magneto-optical imaging of superconducting critical states beyond 10 T using a paramagnetic garnet sensor**|Yuto Kinoshita et.al.|[2604.25274](http://arxiv.org/abs/2604.25274)|null|
 |**2026-04-27**|**State-Constrained Control of Discrete-Time Nonlinear Systems via Constraint Lifting**|Jhon Manuel Portella Delgado et.al.|[2604.24989](http://arxiv.org/abs/2604.24989)|null|
 |**2026-04-27**|**ARETE: Attention-based Rasterized Encoding for Topology Estimation using HSV-transformed Crowdsourced Vehicle Fleet Data**|Daniel Fritz et.al.|[2604.24353](http://arxiv.org/abs/2604.24353)|null|
-|**2026-04-26**|**PILOT: One Physics-Integrated Generation Framework to Unify 2D and 3D Radio Map Construction**|Weiming Huang et.al.|[2604.23533](http://arxiv.org/abs/2604.23533)|**[link](https://github.com/Uminan/PILOT)**|
-|**2026-04-24**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|**[link](https://github.com/hnuHT/trajectory_prediction)**|
+|**2026-04-26**|**PILOT: One Physics-Integrated Generation Framework to Unify 2D and 3D Radio Map Construction**|Weiming Huang et.al.|[2604.23533](http://arxiv.org/abs/2604.23533)|null|
+|**2026-04-30**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
 |**2026-04-24**|**CKM Beyond Channel Gain: Spatial Correlation Map Construction with Deep Learning**|Z. Chen et.al.|[2604.20684](http://arxiv.org/abs/2604.20684)|null|
 |**2026-04-21**|**Localization-Guided Foreground Augmentation in Autonomous Driving**|Jiawei Yong et.al.|[2604.18940](http://arxiv.org/abs/2604.18940)|null|
 |**2026-04-18**|**ScenarioControl: Vision-Language Controllable Vectorized Latent Scenario Generation**|Lili Gao et.al.|[2604.17147](http://arxiv.org/abs/2604.17147)|null|
@@ -51,7 +55,7 @@ layout: default
 |**2026-03-11**|**MapGCLR: Geospatial Contrastive Learning of Representations for Online Vectorized HD Map Construction**|Jonas Merkert et.al.|[2603.10688](http://arxiv.org/abs/2603.10688)|null|
 |**2026-03-17**|**Location-Agnostic Channel Knowledge Map Construction for Dynamic Scenes**|Kequan Zhou et.al.|[2603.09273](http://arxiv.org/abs/2603.09273)|null|
 |**2026-03-10**|**ImpedanceDiffusion: Diffusion-Based Global Path Planning for UAV Swarm Navigation with Generative Impedance Control**|Faryal Batool et.al.|[2603.09031](http://arxiv.org/abs/2603.09031)|null|
-|**2026-03-09**|**Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning**|Mohamed Harmanani et.al.|[2603.08921](http://arxiv.org/abs/2603.08921)|null|
+|**2026-03-09**|**Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning**|Mohamed Harmanani et.al.|[2603.08921](http://arxiv.org/abs/2603.08921)|**[link](https://github.com/mharmanani/MedCBR)**|
 |**2026-03-08**|**Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method**|Xinyu Liu et.al.|[2603.07678](http://arxiv.org/abs/2603.07678)|null|
 |**2026-03-06**|**Multi-Robot Trajectory Planning via Constrained Bayesian Optimization and Local Cost Map Learning with STL-Based Conflict Resolution**|Sourav Raxit et.al.|[2603.05767](http://arxiv.org/abs/2603.05767)|null|
 |**2026-03-05**|**K-Gen: A Multimodal Language-Conditioned Approach for Interpretable Keypoint-Guided Trajectory Generation**|Mingxuan Mu et.al.|[2603.04868](http://arxiv.org/abs/2603.04868)|null|
@@ -108,6 +112,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction**|Alex Petrov et.al.|[2604.27906](http://arxiv.org/abs/2604.27906)|null|
+|**2026-04-30**|**FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|[2604.27653](http://arxiv.org/abs/2604.27653)|null|
+|**2026-04-30**|**An Extended Evaluation Split for DeepSpaceYoloDataset**|Olivier Parisot et.al.|[2604.27593](http://arxiv.org/abs/2604.27593)|null|
+|**2026-04-29**|**Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation**|Akshay Karjol et.al.|[2604.26857](http://arxiv.org/abs/2604.26857)|null|
+|**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
+|**2026-04-29**|**ViCrop-Det: Spatial Attention Entropy Guided Cropping for Training-Free Small-Object Detection**|Hui Wang et.al.|[2604.26806](http://arxiv.org/abs/2604.26806)|null|
+|**2026-04-29**|**QYOLO: Lightweight Object Detection via Quantum Inspired Shared Channel Mixing**|Garvit Kumar Mittal et.al.|[2604.26435](http://arxiv.org/abs/2604.26435)|null|
+|**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404](http://arxiv.org/abs/2604.26404)|null|
+|**2026-04-28**|**Why Domain Matters: A Preliminary Study of Domain Effects in Underwater Object Detection**|Melanie Wille et.al.|[2604.26174](http://arxiv.org/abs/2604.26174)|null|
+|**2026-04-28**|**No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control**|Anas Gamal Aly et.al.|[2604.25887](http://arxiv.org/abs/2604.25887)|null|
 |**2026-04-28**|**Quantum-Inspired Robust and Scalable SAR Object Classification**|Maximilian Scharf et.al.|[2604.25755](http://arxiv.org/abs/2604.25755)|null|
 |**2026-04-28**|**SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks**|Zi-Yang Bo et.al.|[2604.25432](http://arxiv.org/abs/2604.25432)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
@@ -439,6 +453,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|null|
+|**2026-04-30**|**Learning-Based Hierarchical Scene Graph Matching for Robot Localization Leveraging Prior Maps**|Nimrod Millenium Ndulue et.al.|[2604.27821](http://arxiv.org/abs/2604.27821)|null|
+|**2026-04-28**|**RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments**|Zaid Nasser et.al.|[2604.26067](http://arxiv.org/abs/2604.26067)|null|
 |**2026-04-28**|**Robust Graph Matching through Semantic Relationship Generation for SLAM**|David Perez-Saura et.al.|[2604.25404](http://arxiv.org/abs/2604.25404)|null|
 |**2026-04-28**|**COMPASS: COmpact Multi-channel Prior-map And Scene Signature for Floor-Plan-Based Visual Localization**|Muhammad Shaheer et.al.|[2604.25388](http://arxiv.org/abs/2604.25388)|null|
 |**2026-04-27**|**Passage-Aware Structural Mapping for RGB-D Visual SLAM**|Ali Tourani et.al.|[2604.24707](http://arxiv.org/abs/2604.24707)|null|
@@ -456,7 +473,7 @@ layout: default
 |**2026-04-23**|**SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations**|Ilir Gusija et.al.|[2604.21693](http://arxiv.org/abs/2604.21693)|null|
 |**2026-04-21**|**SL(C)AMma: Simultaneous Localisation, (Calibration) and Mapping With a Magnetometer Array**|Thomas Edridge et.al.|[2604.19946](http://arxiv.org/abs/2604.19946)|null|
 |**2026-04-21**|**Super Apriel: One Checkpoint, Many Speeds**|SLAM Labs et.al.|[2604.19877](http://arxiv.org/abs/2604.19877)|null|
-|**2026-04-21**|**Coherent Direct Multipath SLAM**|Benjamin J. B. Deutschmann et.al.|[2604.19723](http://arxiv.org/abs/2604.19723)|null|
+|**2026-04-30**|**Coherent Direct Multipath SLAM**|Benjamin J. B. Deutschmann et.al.|[2604.19723](http://arxiv.org/abs/2604.19723)|null|
 |**2026-04-28**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
 |**2026-04-20**|**Feasibility of Indoor Frame-Wise Lidar Semantic Segmentation via Distillation from Visual Foundation Model**|Haiyang Wu et.al.|[2604.18831](http://arxiv.org/abs/2604.18831)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
