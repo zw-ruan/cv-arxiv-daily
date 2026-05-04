@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-03-02**|**B $^2$ F-Map: Crowd-sourced Mapping with Bayesian B-spline Fusion**|Yiping Xie et.al.|[2603.01673](http://arxiv.org/abs/2603.01673)|null|
 |**2026-02-27**|**WARM-CAT: Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning**|Xudong Yan et.al.|[2602.23114](http://arxiv.org/abs/2602.23114)|null|
 |**2026-02-26**|**DrivePTS: A Progressive Learning Framework with Textual and Structural Enhancement for Driving Scene Generation**|Zhechao Wang et.al.|[2602.22549](http://arxiv.org/abs/2602.22549)|null|
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-04-20**|**Paradigm Shift from Statistical Channel Modeling to Digital Twin Prediction: An Environment-Generalizable ChannelLM for 6G AI-enabled Air Interface**|Yichen Cai et.al.|[2604.18021](http://arxiv.org/abs/2604.18021)|null|
 |**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Yiwei Zhang et.al.|[2604.17915](http://arxiv.org/abs/2604.17915)|null|
 |**2026-04-20**|**Exploring Boundary-Aware Spatial-Frequency Fusion for Camouflaged Object Detection**|Song Yu et.al.|[2604.17879](http://arxiv.org/abs/2604.17879)|null|
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-04-09**|**TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers**|Alessandro Marchei et.al.|[2604.08060](http://arxiv.org/abs/2604.08060)|null|
 |**2026-04-09**|**MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models**|Zile Guo et.al.|[2604.07991](http://arxiv.org/abs/2604.07991)|null|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
