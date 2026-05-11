@@ -7,16 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.09
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Towards Intelligent Low-Altitude Wireless Network Deployment: Differentiable Channel Knowledge Map Construction and Trajectory Design**|Le Zhao et.al.|[2605.07163](http://arxiv.org/abs/2605.07163)|null|
+|**2026-05-07**|**Benchmarked Yet Not Measured -- Generative AI Should be Evaluated Against Real-World Utility**|Ishani Mondal et.al.|[2605.06856](http://arxiv.org/abs/2605.06856)|null|
+|**2026-05-07**|**Distributional Process Reward Models: Calibrated Prediction of Future Rewards via Conditional Optimal Transport**|Rachel Ma et.al.|[2605.06785](http://arxiv.org/abs/2605.06785)|null|
 |**2026-05-07**|**Equidistribution of Eigenfunctions of Quantum Cat Maps**|Robert Koirala et.al.|[2605.06569](http://arxiv.org/abs/2605.06569)|null|
 |**2026-05-04**|**Scalable generative modeling of non-Gaussian spatio-temporal fields via autoregressive Gaussian processes**|Carrie J. Lei-Cramer et.al.|[2605.03152](http://arxiv.org/abs/2605.03152)|null|
-|**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|**[link](https://github.com/Ethan-Zheng136/UMPE)**|
+|**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
 |**2026-05-07**|**PRCD-MAP: Learning How Much to Trust Imperfect Priors in Causal Discovery**|Xihang Shan et.al.|[2605.01669](http://arxiv.org/abs/2605.01669)|null|
 |**2026-05-02**|**LIE: LiDAR-only HD Map Construction with Intensity Enhancement via Online Knowledge Distillation**|Kanak Mazumder et.al.|[2605.01478](http://arxiv.org/abs/2605.01478)|null|
 |**2026-04-30**|**Dense cores and filaments in M16: Enhanced formation efficiency in the stellar feedback-driven shell**|Nageen Pervaiz et.al.|[2604.27584](http://arxiv.org/abs/2604.27584)|null|
@@ -35,6 +38,7 @@ layout: default
 |**2026-04-16**|**Touching Space: Accessible Map Exploration Through Conversational Audio-Haptic Interaction**|Li Liu et.al.|[2604.14637](http://arxiv.org/abs/2604.14637)|null|
 |**2026-04-15**|**Persistent Iterators with Value Semantics**|Yihe Li et.al.|[2604.14072](http://arxiv.org/abs/2604.14072)|null|
 |**2026-04-15**|**Why Multimodal In-Context Learning Lags Behind? Unveiling the Inner Mechanisms and Bottlenecks**|Yu Wang et.al.|[2604.13403](http://arxiv.org/abs/2604.13403)|null|
+|**2026-05-07**|**The Linear Centroids Hypothesis: Features as Directions Learned by Local Experts**|Thomas Walker et.al.|[2604.11962](http://arxiv.org/abs/2604.11962)|null|
 |**2026-04-13**|**Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**|Ruifeng Gao et.al.|[2604.11255](http://arxiv.org/abs/2604.11255)|null|
 |**2026-04-13**|**MapATM: Enhancing HD Map Construction through Actor Trajectory Modeling**|Mingyang Li et.al.|[2604.11081](http://arxiv.org/abs/2604.11081)|null|
 |**2026-04-07**|**Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**|Zhihan Zeng et.al.|[2604.05788](http://arxiv.org/abs/2604.05788)|null|
@@ -117,6 +121,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Probabilistic Object Detection with Conformal Prediction**|Christopher Ries et.al.|[2605.07549](http://arxiv.org/abs/2605.07549)|null|
+|**2026-05-08**|**Search-based Robustness Testing of Laptop Refurbishing Robotic Software**|Erblin Isaku et.al.|[2605.07530](http://arxiv.org/abs/2605.07530)|null|
+|**2026-05-08**|**A Marine Debris Detection Framework for Ocean Robots via Self-Attention Enhancement and Feature Interaction Optimization**|Yuyang Li et.al.|[2605.07388](http://arxiv.org/abs/2605.07388)|null|
+|**2026-05-08**|**TREA: Low-precision Time-Multiplexed, Resource-Efficient Edge Accelerator for Object Detection and Classification**|Vijay Pratap Sharma et.al.|[2605.07321](http://arxiv.org/abs/2605.07321)|null|
+|**2026-05-08**|**UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection**|Laibin Chang et.al.|[2605.07146](http://arxiv.org/abs/2605.07146)|null|
+|**2026-05-07**|**XiYOLO: Energy-Aware Object Detection via Iterative Architecture Search and Scaling**|Tony Tran et.al.|[2605.06927](http://arxiv.org/abs/2605.06927)|null|
+|**2026-05-07**|**CARMEN: CORDIC-Accelerated Resource-Efficient Multi-Precision Inference Engine for Deep Learning**|Sonu Kumar et.al.|[2605.06878](http://arxiv.org/abs/2605.06878)|null|
 |**2026-05-07**|**What You Don't Know Won't Hurt You: Self-Consistent Hierarchical Inference with Unknown Follow-up Selection Strategies**|Reed Essick et.al.|[2605.06636](http://arxiv.org/abs/2605.06636)|null|
 |**2026-05-07**|**AMIEOD: Adaptive Multi-Experts Image Enhancement for Object Detection in Low-Illumination Scenes**|Xiaochen Huang et.al.|[2605.06084](http://arxiv.org/abs/2605.06084)|null|
 |**2026-05-07**|**RAWild: Sensor-Agnostic RAW Object Detection via Physics-Guided Curve and Grid Modeling**|Shuhong Liu et.al.|[2605.05941](http://arxiv.org/abs/2605.05941)|null|
@@ -488,6 +499,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**TriP: A Triangle Puzzle Approach to Robust Translation Averaging**|Zhekai Fan et.al.|[2605.07143](http://arxiv.org/abs/2605.07143)|null|
+|**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889](http://arxiv.org/abs/2605.06889)|null|
 |**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
 |**2026-05-07**|**Indoor 60 GHz Radio Channel Dataset Enabling Digital Twin Construction**|Davide Scazzoli et.al.|[2605.05824](http://arxiv.org/abs/2605.05824)|null|
 |**2026-05-06**|**SLAM: Structural Linguistic Activation Marking for Language Models**|Fabrice Harel-Canada et.al.|[2605.05443](http://arxiv.org/abs/2605.05443)|null|
