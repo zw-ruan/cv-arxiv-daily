@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.15
+## Updated on 2026.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-03-24**|**Modeling Edge-to-Cloud Offloading Workloads for Autonomous Vehicles**|Longkun Li et.al.|[2603.23310](http://arxiv.org/abs/2603.23310)|null|
 |**2026-03-19**|**Reason-to-Transmit: Deliberative Adaptive Communication for Cooperative Perception**|Aayam Bansal et.al.|[2603.20308](http://arxiv.org/abs/2603.20308)|null|
 |**2026-03-20**|**Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving**|Pritom Gogoi et.al.|[2603.20076](http://arxiv.org/abs/2603.20076)|null|
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-05-07**|**XiYOLO: Energy-Aware Object Detection via Iterative Architecture Search and Scaling**|Tony Tran et.al.|[2605.06927](http://arxiv.org/abs/2605.06927)|null|
 |**2026-05-07**|**CARMEN: CORDIC-Accelerated Resource-Efficient Multi-Precision Inference Engine for Deep Learning**|Sonu Kumar et.al.|[2605.06878](http://arxiv.org/abs/2605.06878)|null|
 |**2026-05-07**|**What You Don't Know Won't Hurt You: Self-Consistent Hierarchical Inference with Unknown Follow-up Selection Strategies**|Reed Essick et.al.|[2605.06636](http://arxiv.org/abs/2605.06636)|null|
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-04-21**|**Super Apriel: One Checkpoint, Many Speeds**|SLAM Labs et.al.|[2604.19877](http://arxiv.org/abs/2604.19877)|null|
 |**2026-04-30**|**Coherent Direct Multipath SLAM**|Benjamin J. B. Deutschmann et.al.|[2604.19723](http://arxiv.org/abs/2604.19723)|null|
 |**2026-04-28**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
