@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -130,6 +130,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
+|**2026-05-18**|**4DLidarOpen: An Open 4D FMCW Lidar Dataset for Motion-Aware Autonomous Driving**|Kane Qian et.al.|[2605.18074](http://arxiv.org/abs/2605.18074)|null|
+|**2026-05-18**|**DSAA: Dual-Stage Attribute Activation for Fine-grained Open Vocabulary Detection**|Donghong Jiang et.al.|[2605.18023](http://arxiv.org/abs/2605.18023)|**[link](https://github.com/bupt-ai-cz/DSAA)**|
+|**2026-05-18**|**Unleashing the Representational Power of Fourier Shapes for Attacking Infrared Object Detection**|Yixing Yong et.al.|[2605.17822](http://arxiv.org/abs/2605.17822)|**[link](https://github.com/Yongyx99/Fourier-shape-attack)**|
+|**2026-05-18**|**Towards Universal Physical Adversarial Attacks via a Joint Multi-Objective and Multi-Model Optimization Framework**|Ziyang Liu et.al.|[2605.17772](http://arxiv.org/abs/2605.17772)|null|
+|**2026-05-17**|**Multi-task learning on partially labeled datasets via invariant/equivariant semi-supervised learning**|Miquel Martí i Rabadán et.al.|[2605.17624](http://arxiv.org/abs/2605.17624)|null|
+|**2026-05-17**|**Error-Decomposed Class-Conditional Fusion for Statistically Guaranteed Hard-Category Robust Perception**|Guowei Luo et.al.|[2605.17591](http://arxiv.org/abs/2605.17591)|null|
+|**2026-05-11**|**VVitCutLER: Towards Unsupervised Object Detection and Segmentation in Videos**|Zhijing Lu et.al.|[2605.17584](http://arxiv.org/abs/2605.17584)|null|
+|**2026-05-17**|**HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone**|Guanyiman Fu et.al.|[2605.17286](http://arxiv.org/abs/2605.17286)|null|
+|**2026-05-16**|**TRACE: Evidence Grounding-Guided Multi-Video Event Understanding and Claim Generation**|Pengyu Yan et.al.|[2605.16740](http://arxiv.org/abs/2605.16740)|null|
+|**2026-05-12**|**Trajectory-Aware Adaptive Inference in Object Detection Models**|Grigorios Papanikolaou et.al.|[2605.16397](http://arxiv.org/abs/2605.16397)|null|
+|**2026-05-15**|**3DTMDet: A Dual-Path Synergy Network of Transformer and SSM for 3D Object Detection in Point Clouds**|Bingwen Qiu et.al.|[2605.15546](http://arxiv.org/abs/2605.15546)|null|
+|**2026-05-15**|**Learning Dynamic Structural Specialization for Underwater Salient Object Detection**|Lin Hong et.al.|[2605.15535](http://arxiv.org/abs/2605.15535)|null|
+|**2026-05-14**|**RIDE: Retinex-Informed Decoupling for Exposing Concealed Objects**|Chunming He et.al.|[2605.15450](http://arxiv.org/abs/2605.15450)|null|
+|**2026-05-14**|**MR2-ByteTrack: CNN and Transformer-based Video Object Detection for AI-augmented Embedded Vision Sensor Nodes**|Luca Bompani et.al.|[2605.15423](http://arxiv.org/abs/2605.15423)|null|
+|**2026-05-14**|**Multimodal Object Detection Under Sparse Forest-Canopy Occlusion**|Nitik Jain et.al.|[2605.15326](http://arxiv.org/abs/2605.15326)|null|
+|**2026-05-14**|**Characterizing the visual representation of objects from the child's view**|Jane Yang et.al.|[2605.14990](http://arxiv.org/abs/2605.14990)|null|
+|**2026-05-14**|**Representative Attention For Vision Transformers**|Yuntong Li et.al.|[2605.14913](http://arxiv.org/abs/2605.14913)|null|
 |**2026-05-14**|**Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation**|Mamadou Keita et.al.|[2605.14799](http://arxiv.org/abs/2605.14799)|null|
 |**2026-05-14**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al.|[2605.14781](http://arxiv.org/abs/2605.14781)|null|
 |**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
