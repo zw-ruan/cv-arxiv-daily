@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.05
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-04-18**|**ScenarioControl: Vision-Language Controllable Vectorized Latent Scenario Generation**|Lili Gao et.al.|[2604.17147](http://arxiv.org/abs/2604.17147)|null|
 |**2026-04-18**|**OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives**|Zedong Dan et.al.|[2604.17135](http://arxiv.org/abs/2604.17135)|null|
 |**2026-04-16**|**Touching Space: Accessible Map Exploration Through Conversational Audio-Haptic Interaction**|Li Liu et.al.|[2604.14637](http://arxiv.org/abs/2604.14637)|null|
-<p align=right>(<a href=#updated-on-20260605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-05-20**|**RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding**|Weiyi Xiong et.al.|[2605.21112](http://arxiv.org/abs/2605.21112)|null|
 |**2026-05-20**|**STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection**|Yaoteng Zhang et.al.|[2605.20738](http://arxiv.org/abs/2605.20738)|null|
 |**2026-05-20**|**GSA-YOLO: A High-Efficiency Framework via Structured Sparsity and Adaptive Knowledge Distillation for Real-Time X-ray Security Inspection**|Jiahao Kong et.al.|[2605.20669](http://arxiv.org/abs/2605.20669)|null|
-<p align=right>(<a href=#updated-on-20260605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
 |**2026-05-12**|**Compositional Neural Operators for Multi-Dimensional Fluid Dynamics**|Hamda Hmida et.al.|[2605.11691](http://arxiv.org/abs/2605.11691)|null|
 |**2026-05-11**|**MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction**|Zhihao Cao et.al.|[2605.10760](http://arxiv.org/abs/2605.10760)|null|
-<p align=right>(<a href=#updated-on-20260605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
