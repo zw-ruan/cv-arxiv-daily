@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.11
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Electric-Field Mapping of Optically Perturbed CdTe Radiation Detectors**|Adriano Cola et.al.|[2606.13622](http://arxiv.org/abs/2606.13622)|null|
+|**2026-06-11**|**Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models**|Joseph Keshet et.al.|[2606.13441](http://arxiv.org/abs/2606.13441)|null|
+|**2026-06-11**|**An LLM System for Autonomous Variational Quantum Circuit Design**|Kenya Sakka et.al.|[2606.13380](http://arxiv.org/abs/2606.13380)|null|
 |**2026-06-09**|**Vector Map as Language: Toward Unified Remote Sensing Vector Mapping**|Yinglong Yan et.al.|[2606.10701](http://arxiv.org/abs/2606.10701)|null|
 |**2026-06-10**|**CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence**|Yiming Zhang et.al.|[2606.10401](http://arxiv.org/abs/2606.10401)|null|
 |**2026-06-07**|**Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature Indexing**|Luca Cirfeta et.al.|[2606.09933](http://arxiv.org/abs/2606.09933)|null|
@@ -66,15 +69,17 @@
 |**2026-04-29**|**Deep-testing: the case of dependence detection**|Gery Geenens et.al.|[2604.26558](http://arxiv.org/abs/2604.26558)|null|
 |**2026-04-29**|**Lights Out: A Nighttime UAV Localization Framework Using Thermal Imagery and Semantic 3D Maps**|Ryan Allen et.al.|[2604.26201](http://arxiv.org/abs/2604.26201)|null|
 |**2026-04-28**|**High-field magneto-optical imaging of superconducting critical states beyond 10 T using a paramagnetic garnet sensor**|Yuto Kinoshita et.al.|[2604.25274](http://arxiv.org/abs/2604.25274)|null|
-|**2026-04-27**|**State-Constrained Control of Discrete-Time Nonlinear Systems via Constraint Lifting**|Jhon Manuel Portella Delgado et.al.|[2604.24989](http://arxiv.org/abs/2604.24989)|null|
-|**2026-04-27**|**ARETE: Attention-based Rasterized Encoding for Topology Estimation using HSV-transformed Crowdsourced Vehicle Fleet Data**|Daniel Fritz et.al.|[2604.24353](http://arxiv.org/abs/2604.24353)|null|
-|**2026-04-26**|**PILOT: One Physics-Integrated Generation Framework to Unify 2D and 3D Radio Map Construction**|Weiming Huang et.al.|[2604.23533](http://arxiv.org/abs/2604.23533)|null|
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**TimeLens: On-Device Artifact Recognition with Retrieval-Augmented Question Answering for the Grand Egyptian Museum**|Rawan Hesham et.al.|[2606.13267](http://arxiv.org/abs/2606.13267)|null|
+|**2026-06-11**|**Augmentation techniques for video surveillance in the visible and thermal spectral range**|Vanessa Buhrmester et.al.|[2606.13042](http://arxiv.org/abs/2606.13042)|null|
+|**2026-06-11**|**Camera and LiDAR BEV Fusion for Cooperative 3D Object Detection on TUMTraf V2X**|Muhammad Shahbaz et.al.|[2606.12981](http://arxiv.org/abs/2606.12981)|null|
+|**2026-06-11**|**YOLO-AMC: An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detection**|Ching-Yu Tsai et.al.|[2606.12958](http://arxiv.org/abs/2606.12958)|null|
+|**2026-06-10**|**Context-Aware Feature-Fusion for Co-occurring Object Detection in Autonomous Driving**|Binay Kumar Singh et.al.|[2606.12628](http://arxiv.org/abs/2606.12628)|null|
 |**2026-06-10**|**A Turbo-Inference Strategy for Object Detection and Instance Segmentation**|Zhen Zhao et.al.|[2606.12371](http://arxiv.org/abs/2606.12371)|null|
 |**2026-06-10**|**Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model**|Sk Muhammad Asif et.al.|[2606.12218](http://arxiv.org/abs/2606.12218)|null|
 |**2026-06-10**|**Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries**|Quoc Thuan Nguyen et.al.|[2606.12066](http://arxiv.org/abs/2606.12066)|null|
@@ -120,12 +125,7 @@
 |**2026-06-02**|**FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs**|Eshika Khandelwal et.al.|[2606.04282](http://arxiv.org/abs/2606.04282)|null|
 |**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748](http://arxiv.org/abs/2606.03748)|null|
 |**2026-06-02**|**UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion**|Ye Wu et.al.|[2606.03581](http://arxiv.org/abs/2606.03581)|null|
-|**2026-06-02**|**Learned Non-Maximum Suppression for 3D Object Detection**|Timo Osterburg et.al.|[2606.03568](http://arxiv.org/abs/2606.03568)|null|
-|**2026-06-03**|**Tiny Collaborative Inference for Occlusion-Robust Object Detection**|Chieh-Tung Cheng et.al.|[2606.02894](http://arxiv.org/abs/2606.02894)|null|
-|**2026-06-01**|**Detecting Pen-In-Air States from Video: A Proof-of-Concept Toward Complementary Handwriting Analysis**|Lauren Sismeiro et.al.|[2606.02342](http://arxiv.org/abs/2606.02342)|null|
-|**2026-06-01**|**Collaborative Space Object Detection with Multi-Satellite Viewpoints in LEO Constellations**|Xingyu Qu et.al.|[2606.01895](http://arxiv.org/abs/2606.01895)|null|
-|**2026-06-04**|**Hierarchically Decoupled Mixture-of-Experts for Robust Traffic Sign Recognition in Complex Driving Scenarios**|Mingxiao Wang et.al.|[2606.01822](http://arxiv.org/abs/2606.01822)|null|
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -157,7 +157,7 @@
 |**2026-05-30**|**Optimizing 3D Gaussian Splatting via Point Cloud Upsampling**|Adrian Ramlal et.al.|[2606.00450](http://arxiv.org/abs/2606.00450)|null|
 |**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307](http://arxiv.org/abs/2606.00307)|null|
 |**2026-05-29**|**Geodesic Flow Matching for Denoising High-Dimensional Structured Representations**|Karim Habashy et.al.|[2606.00248](http://arxiv.org/abs/2606.00248)|null|
-|**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
+|**2026-06-10**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
 |**2026-05-29**|**Beyond Instance-Level Alignment and Uniformity: Semantic Factor Learning for Collaborative Filtering**|Yajie Yu et.al.|[2605.31414](http://arxiv.org/abs/2605.31414)|null|
 |**2026-05-28**|**Exploiting Chordal Sparsity for Globally Optimal Estimation with Factor Graphs**|Avinash Subramanian et.al.|[2605.30617](http://arxiv.org/abs/2605.30617)|null|
 |**2026-05-28**|**The JADES Mass-Metallicity and Fundamental Metallicity Relations at $z\gtrsim2$ Using New High-Redshift Metallicity Calibrations**|Natalie Lam et.al.|[2605.30513](http://arxiv.org/abs/2605.30513)|null|
@@ -181,7 +181,7 @@
 |**2026-06-02**|**FRED: A Multi-Modal Autonomous Driving Dataset for Flooded Road Environments**|Connor Malone et.al.|[2605.22018](http://arxiv.org/abs/2605.22018)|null|
 |**2026-05-20**|**JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S**|Qiao Duan et.al.|[2605.21599](http://arxiv.org/abs/2605.21599)|null|
 |**2026-05-20**|**Sensitivity analysis of Stochastic Fluid Models: Stationary and transient quantities with applications**|Anna Aksamit et.al.|[2605.21209](http://arxiv.org/abs/2605.21209)|null|
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

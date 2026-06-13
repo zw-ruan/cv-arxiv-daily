@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.11
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Electric-Field Mapping of Optically Perturbed CdTe Radiation Detectors**|Adriano Cola et.al.|[2606.13622](http://arxiv.org/abs/2606.13622)|null|
+|**2026-06-11**|**Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models**|Joseph Keshet et.al.|[2606.13441](http://arxiv.org/abs/2606.13441)|null|
+|**2026-06-11**|**An LLM System for Autonomous Variational Quantum Circuit Design**|Kenya Sakka et.al.|[2606.13380](http://arxiv.org/abs/2606.13380)|null|
 |**2026-06-09**|**Vector Map as Language: Toward Unified Remote Sensing Vector Mapping**|Yinglong Yan et.al.|[2606.10701](http://arxiv.org/abs/2606.10701)|null|
 |**2026-06-10**|**CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence**|Yiming Zhang et.al.|[2606.10401](http://arxiv.org/abs/2606.10401)|null|
 |**2026-06-07**|**Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature Indexing**|Luca Cirfeta et.al.|[2606.09933](http://arxiv.org/abs/2606.09933)|null|
@@ -155,6 +158,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**TimeLens: On-Device Artifact Recognition with Retrieval-Augmented Question Answering for the Grand Egyptian Museum**|Rawan Hesham et.al.|[2606.13267](http://arxiv.org/abs/2606.13267)|null|
+|**2026-06-11**|**Augmentation techniques for video surveillance in the visible and thermal spectral range**|Vanessa Buhrmester et.al.|[2606.13042](http://arxiv.org/abs/2606.13042)|null|
+|**2026-06-11**|**Camera and LiDAR BEV Fusion for Cooperative 3D Object Detection on TUMTraf V2X**|Muhammad Shahbaz et.al.|[2606.12981](http://arxiv.org/abs/2606.12981)|null|
+|**2026-06-11**|**YOLO-AMC: An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detection**|Ching-Yu Tsai et.al.|[2606.12958](http://arxiv.org/abs/2606.12958)|null|
+|**2026-06-10**|**Context-Aware Feature-Fusion for Co-occurring Object Detection in Autonomous Driving**|Binay Kumar Singh et.al.|[2606.12628](http://arxiv.org/abs/2606.12628)|null|
 |**2026-06-10**|**A Turbo-Inference Strategy for Object Detection and Instance Segmentation**|Zhen Zhao et.al.|[2606.12371](http://arxiv.org/abs/2606.12371)|null|
 |**2026-06-10**|**Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model**|Sk Muhammad Asif et.al.|[2606.12218](http://arxiv.org/abs/2606.12218)|null|
 |**2026-06-10**|**Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries**|Quoc Thuan Nguyen et.al.|[2606.12066](http://arxiv.org/abs/2606.12066)|null|
@@ -731,7 +739,7 @@ layout: default
 |**2026-05-30**|**Optimizing 3D Gaussian Splatting via Point Cloud Upsampling**|Adrian Ramlal et.al.|[2606.00450](http://arxiv.org/abs/2606.00450)|null|
 |**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307](http://arxiv.org/abs/2606.00307)|null|
 |**2026-05-29**|**Geodesic Flow Matching for Denoising High-Dimensional Structured Representations**|Karim Habashy et.al.|[2606.00248](http://arxiv.org/abs/2606.00248)|null|
-|**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
+|**2026-06-10**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
 |**2026-05-29**|**Beyond Instance-Level Alignment and Uniformity: Semantic Factor Learning for Collaborative Filtering**|Yajie Yu et.al.|[2605.31414](http://arxiv.org/abs/2605.31414)|null|
 |**2026-05-28**|**Exploiting Chordal Sparsity for Globally Optimal Estimation with Factor Graphs**|Avinash Subramanian et.al.|[2605.30617](http://arxiv.org/abs/2605.30617)|null|
 |**2026-05-28**|**The JADES Mass-Metallicity and Fundamental Metallicity Relations at $z\gtrsim2$ Using New High-Redshift Metallicity Calibrations**|Natalie Lam et.al.|[2605.30513](http://arxiv.org/abs/2605.30513)|null|
