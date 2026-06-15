@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.13
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -158,6 +158,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications**|Nicole Villavicencio-Garduño et.al.|[2606.14658](http://arxiv.org/abs/2606.14658)|null|
+|**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|null|
+|**2026-06-12**|**PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum**|Milos Gravara et.al.|[2606.14356](http://arxiv.org/abs/2606.14356)|null|
+|**2026-06-11**|**PMOF: A Dataset and Benchmark for Passenger Monitoring Using Overhead Fisheye Cameras**|Stella Katharina Wermuth et.al.|[2606.13910](http://arxiv.org/abs/2606.13910)|null|
+|**2026-06-11**|**AnyGoal: Vision-Language Guided Multi-Agent Exploration for Training-Free Lifelong Navigation**|MoniJesu James et.al.|[2606.13878](http://arxiv.org/abs/2606.13878)|null|
 |**2026-06-11**|**TimeLens: On-Device Artifact Recognition with Retrieval-Augmented Question Answering for the Grand Egyptian Museum**|Rawan Hesham et.al.|[2606.13267](http://arxiv.org/abs/2606.13267)|null|
 |**2026-06-11**|**Augmentation techniques for video surveillance in the visible and thermal spectral range**|Vanessa Buhrmester et.al.|[2606.13042](http://arxiv.org/abs/2606.13042)|null|
 |**2026-06-11**|**Camera and LiDAR BEV Fusion for Cooperative 3D Object Detection on TUMTraf V2X**|Muhammad Shahbaz et.al.|[2606.12981](http://arxiv.org/abs/2606.12981)|null|
@@ -713,6 +718,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
 |**2026-06-10**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](http://arxiv.org/abs/2606.10350)|null|

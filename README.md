@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.13
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,12 +69,17 @@
 |**2026-04-29**|**Deep-testing: the case of dependence detection**|Gery Geenens et.al.|[2604.26558](http://arxiv.org/abs/2604.26558)|null|
 |**2026-04-29**|**Lights Out: A Nighttime UAV Localization Framework Using Thermal Imagery and Semantic 3D Maps**|Ryan Allen et.al.|[2604.26201](http://arxiv.org/abs/2604.26201)|null|
 |**2026-04-28**|**High-field magneto-optical imaging of superconducting critical states beyond 10 T using a paramagnetic garnet sensor**|Yuto Kinoshita et.al.|[2604.25274](http://arxiv.org/abs/2604.25274)|null|
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications**|Nicole Villavicencio-Garduño et.al.|[2606.14658](http://arxiv.org/abs/2606.14658)|null|
+|**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|null|
+|**2026-06-12**|**PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum**|Milos Gravara et.al.|[2606.14356](http://arxiv.org/abs/2606.14356)|null|
+|**2026-06-11**|**PMOF: A Dataset and Benchmark for Passenger Monitoring Using Overhead Fisheye Cameras**|Stella Katharina Wermuth et.al.|[2606.13910](http://arxiv.org/abs/2606.13910)|null|
+|**2026-06-11**|**AnyGoal: Vision-Language Guided Multi-Agent Exploration for Training-Free Lifelong Navigation**|MoniJesu James et.al.|[2606.13878](http://arxiv.org/abs/2606.13878)|null|
 |**2026-06-11**|**TimeLens: On-Device Artifact Recognition with Retrieval-Augmented Question Answering for the Grand Egyptian Museum**|Rawan Hesham et.al.|[2606.13267](http://arxiv.org/abs/2606.13267)|null|
 |**2026-06-11**|**Augmentation techniques for video surveillance in the visible and thermal spectral range**|Vanessa Buhrmester et.al.|[2606.13042](http://arxiv.org/abs/2606.13042)|null|
 |**2026-06-11**|**Camera and LiDAR BEV Fusion for Cooperative 3D Object Detection on TUMTraf V2X**|Muhammad Shahbaz et.al.|[2606.12981](http://arxiv.org/abs/2606.12981)|null|
@@ -120,17 +125,14 @@
 |**2026-06-04**|**BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection**|Wenlin Liu et.al.|[2606.05586](http://arxiv.org/abs/2606.05586)|null|
 |**2026-06-03**|**An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers**|Gandhimathi Padmanaban et.al.|[2606.05149](http://arxiv.org/abs/2606.05149)|null|
 |**2026-06-03**|**Real-Time Automatic License Plate Recognition Using YOLOv8, SORT Tracking, and Temporal Data Interpolation**|Mirza Muhammad Mobeen et.al.|[2606.04684](http://arxiv.org/abs/2606.04684)|null|
-|**2026-06-03**|**Instance-Level Post Hoc Uncertainty Quantification in Object Detection**|Chongzhe Zhang et.al.|[2606.04656](http://arxiv.org/abs/2606.04656)|null|
-|**2026-06-03**|**HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning**|Isha Abid et.al.|[2606.04345](http://arxiv.org/abs/2606.04345)|null|
-|**2026-06-02**|**FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs**|Eshika Khandelwal et.al.|[2606.04282](http://arxiv.org/abs/2606.04282)|null|
-|**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748](http://arxiv.org/abs/2606.03748)|null|
-|**2026-06-02**|**UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion**|Ye Wu et.al.|[2606.03581](http://arxiv.org/abs/2606.03581)|null|
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|null|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
 |**2026-06-10**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](http://arxiv.org/abs/2606.10350)|null|
@@ -179,9 +181,7 @@
 |**2026-05-22**|**Joint Target-Less Intrinsic and Extrinsic Camera-LiDAR Calibration using Deep Point Correspondences**|Simon Bultmann et.al.|[2605.23397](http://arxiv.org/abs/2605.23397)|null|
 |**2026-05-21**|**Extending Deep Event Visual Odometry with Sparse Point-Cloud Export**|Alireza Safdari et.al.|[2605.22890](http://arxiv.org/abs/2605.22890)|null|
 |**2026-06-02**|**FRED: A Multi-Modal Autonomous Driving Dataset for Flooded Road Environments**|Connor Malone et.al.|[2605.22018](http://arxiv.org/abs/2605.22018)|null|
-|**2026-05-20**|**JWST Advanced Deep Extragalactic Survey (JADES) Data Release 5: stellar population catalogue for galaxies in GOODS-N and GOODS-S**|Qiao Duan et.al.|[2605.21599](http://arxiv.org/abs/2605.21599)|null|
-|**2026-05-20**|**Sensitivity analysis of Stochastic Fluid Models: Stationary and transient quantities with applications**|Anna Aksamit et.al.|[2605.21209](http://arxiv.org/abs/2605.21209)|null|
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
