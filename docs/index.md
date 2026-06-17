@@ -7,21 +7,27 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.15
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation**|Zijie Meng et.al.|[2606.17536](http://arxiv.org/abs/2606.17536)|null|
+|**2026-06-11**|**HRDX: A Large-Scale Vector HD-Map Dataset**|Sahith Reddy Chada et.al.|[2606.17080](http://arxiv.org/abs/2606.17080)|**[link](https://github.com/honda-research-institute/HRDX)**|
+|**2026-06-14**|**ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation**|Marwan Farag et.al.|[2606.15930](http://arxiv.org/abs/2606.15930)|null|
+|**2026-06-14**|**Amortized mean-shift interacting particles**|Ali Siahkoohi et.al.|[2606.15871](http://arxiv.org/abs/2606.15871)|null|
+|**2026-06-14**|**Toward the Whole Picture: Accumulative Fingerprint Mapping and Reconstruction for Small-Area Mobile Sensors**|Xiongjun Guan et.al.|[2606.15574](http://arxiv.org/abs/2606.15574)|**[link](https://github.com/XiongjunGuan/FpReconstruction)**|
+|**2026-06-13**|**A Corridor-Scale CARLA-VISSIM Co-Simulation Framework for Multi-Intersection Urban Traffic**|Sima Ashayer et.al.|[2606.15431](http://arxiv.org/abs/2606.15431)|null|
 |**2026-06-11**|**Electric-Field Mapping of Optically Perturbed CdTe Radiation Detectors**|Adriano Cola et.al.|[2606.13622](http://arxiv.org/abs/2606.13622)|null|
-|**2026-06-11**|**Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models**|Joseph Keshet et.al.|[2606.13441](http://arxiv.org/abs/2606.13441)|null|
+|**2026-06-13**|**Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models**|Joseph Keshet et.al.|[2606.13441](http://arxiv.org/abs/2606.13441)|null|
 |**2026-06-11**|**An LLM System for Autonomous Variational Quantum Circuit Design**|Kenya Sakka et.al.|[2606.13380](http://arxiv.org/abs/2606.13380)|null|
 |**2026-06-09**|**Vector Map as Language: Toward Unified Remote Sensing Vector Mapping**|Yinglong Yan et.al.|[2606.10701](http://arxiv.org/abs/2606.10701)|null|
 |**2026-06-10**|**CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence**|Yiming Zhang et.al.|[2606.10401](http://arxiv.org/abs/2606.10401)|null|
 |**2026-06-07**|**Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature Indexing**|Luca Cirfeta et.al.|[2606.09933](http://arxiv.org/abs/2606.09933)|null|
 |**2026-06-03**|**MAD: Mapping-Aware World Models for Agile Quadrotor Flight**|Xinhong Zhang et.al.|[2606.04534](http://arxiv.org/abs/2606.04534)|null|
-|**2026-06-03**|**MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation**|Deguo Xia et.al.|[2606.04513](http://arxiv.org/abs/2606.04513)|null|
+|**2026-06-16**|**MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation**|Deguo Xia et.al.|[2606.04513](http://arxiv.org/abs/2606.04513)|null|
 |**2026-06-02**|**StandardE2E: A Unified Framework for End-to-End Autonomous Driving Datasets**|Stepan Konev et.al.|[2606.04271](http://arxiv.org/abs/2606.04271)|null|
 |**2026-06-02**|**RMPrior: Bridging Propagation Priors and Diffusion Refinement for Efficient Radio Map Construction**|Zixuan Guo et.al.|[2606.03074](http://arxiv.org/abs/2606.03074)|null|
 |**2026-06-01**|**The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset**|Richard Schwarzkopf et.al.|[2606.02956](http://arxiv.org/abs/2606.02956)|null|
@@ -158,6 +164,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution**|Zihan Gu et.al.|[2606.18008](http://arxiv.org/abs/2606.18008)|null|
+|**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936](http://arxiv.org/abs/2606.17936)|null|
+|**2026-06-16**|**Perceptually-Weighted Video Quality Metric for Asymmetric Encoded Sports Videos**|Anna Meyer et.al.|[2606.17869](http://arxiv.org/abs/2606.17869)|null|
+|**2026-06-16**|**Bounding Box Label Propagation for Re-Annotation of Document Layout Analysis Datasets**|Nick Jochum et.al.|[2606.17644](http://arxiv.org/abs/2606.17644)|null|
+|**2026-06-15**|**FATE: Pillar Encoding and Frequency-Aware Training for Event-Based Object Detection**|Md Tawheedul Islam Bhuian et.al.|[2606.17334](http://arxiv.org/abs/2606.17334)|null|
+|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|null|
+|**2026-06-15**|**Hierarchical Fine-Grained Aerial Object Detection**|Yan Zhang et.al.|[2606.16448](http://arxiv.org/abs/2606.16448)|null|
+|**2026-06-15**|**PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation**|Jihoon Hong et.al.|[2606.16232](http://arxiv.org/abs/2606.16232)|null|
+|**2026-06-15**|**MOSAIC: Mobile Object Segmentation under Adverse Imaging Conditions for Rapid L-PBF Keyhole Behavior Characterization**|Garrett Mathesen et.al.|[2606.16186](http://arxiv.org/abs/2606.16186)|null|
+|**2026-06-14**|**A Dual-Branch Collaborative Framework for Joint Optimization of Underwater Image Enhancement and Object Detection**|Liyuan Cao et.al.|[2606.15857](http://arxiv.org/abs/2606.15857)|null|
+|**2026-06-13**|**Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection**|Aoting Zhang et.al.|[2606.15253](http://arxiv.org/abs/2606.15253)|null|
+|**2026-06-13**|**Multi-view feature High-order Fusion for Space Weak Object Detection and Segmentation**|Weilong Guo et.al.|[2606.15118](http://arxiv.org/abs/2606.15118)|null|
+|**2026-06-13**|**Learn Temporal Consistency For Robust Satellite Video Detector**|Weilong Guo et.al.|[2606.15112](http://arxiv.org/abs/2606.15112)|null|
+|**2026-06-13**|**Gaussian Spatial Priors for Anatomy-Aware Object Detection in Surgical Videos**|Yunfan Li et.al.|[2606.15049](http://arxiv.org/abs/2606.15049)|null|
+|**2026-06-05**|**Automated 3D Kinematic Monitoring for Circadian Activity and Anomaly Detection in Juvenile Fish**|Chih-Wei Huang et.al.|[2606.14749](http://arxiv.org/abs/2606.14749)|null|
 |**2026-06-12**|**Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications**|Nicole Villavicencio-Garduño et.al.|[2606.14658](http://arxiv.org/abs/2606.14658)|null|
 |**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|null|
 |**2026-06-12**|**PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum**|Milos Gravara et.al.|[2606.14356](http://arxiv.org/abs/2606.14356)|null|
@@ -718,9 +739,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|null|
+|**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534](http://arxiv.org/abs/2606.17534)|null|
+|**2026-06-15**|**CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation**|Jan-Niklas Klein et.al.|[2606.16935](http://arxiv.org/abs/2606.16935)|null|
+|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
+|**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638](http://arxiv.org/abs/2606.16638)|null|
+|**2026-06-15**|**MVOFormer: Flow-Semantic Transformer for Robust Monocular Visual Odometry**|Jituo Li et.al.|[2606.16474](http://arxiv.org/abs/2606.16474)|null|
+|**2026-06-14**|**A Smart-Scheduled Hybrid (SSH) EKF-FGO State Estimation**|Eric Levi et.al.|[2606.16057](http://arxiv.org/abs/2606.16057)|null|
+|**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](http://arxiv.org/abs/2606.15491)|null|
+|**2026-06-13**|**PEARLS: NuSTAR and XMM-Newton Extragalactic Survey of the JWST North Ecliptic Pole Time Domain Field VI: Multiwavelength SED Analysis**|Rafael Ortiz et.al.|[2606.15365](http://arxiv.org/abs/2606.15365)|null|
 |**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|null|
 |**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389](http://arxiv.org/abs/2606.14389)|null|
-|**2026-06-10**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
+|**2026-06-16**|**Fast Speech Foundation Model Distillation Using Interleaved Stacking**|Eungbeom Kim et.al.|[2606.11766](http://arxiv.org/abs/2606.11766)|null|
 |**2026-06-09**|**Information-Preserving Continuous Occupancy Mapping with Variance-Weighted Submap Joining**|Zhuhua Bai et.al.|[2606.10442](http://arxiv.org/abs/2606.10442)|null|
 |**2026-06-09**|**Multi-Angular Reflectance Anisotropy Observed from UAV Multispectral Imagery**|Zhenqiang Qin et.al.|[2606.10350](http://arxiv.org/abs/2606.10350)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477](http://arxiv.org/abs/2606.09477)|null|
