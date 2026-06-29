@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.27
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-25**|**Coarse-to-Fine: A Hybrid Self-Supervised Method for Non-rigid 3D Shape Matching**|Feifan Luo et.al.|[2606.26557](http://arxiv.org/abs/2606.26557)|null|
+|**2026-06-26**|**RPM-Distill: Physiology-guided Adaptive Cross-modal Distillation for Robust Remote Physiological Measurement**|Jiyao Wang et.al.|[2606.28089](http://arxiv.org/abs/2606.28089)|null|
+|**2026-06-26**|**Coarse-to-Fine: A Hybrid Self-Supervised Method for Non-rigid 3D Shape Matching**|Feifan Luo et.al.|[2606.26557](http://arxiv.org/abs/2606.26557)|null|
 |**2026-06-23**|**AerialFusionMapNet: Online HD Map Construction with Aerial-Onboard BEV Fusion**|Daniel Lengerer et.al.|[2606.24784](http://arxiv.org/abs/2606.24784)|null|
 |**2026-06-22**|**Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views**|Jiho Choi et.al.|[2606.23557](http://arxiv.org/abs/2606.23557)|null|
 |**2026-06-22**|**Measuring Behavior Portability in Large Language Models**|Tianjia Dong et.al.|[2606.22797](http://arxiv.org/abs/2606.22797)|null|
@@ -65,20 +66,22 @@
 |**2026-06-23**|**Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction**|Daniel Lengerer et.al.|[2605.12218](http://arxiv.org/abs/2605.12218)|null|
 |**2026-05-11**|**Survey-Free Radio Map Construction via HMM-Based Coarse-to-Fine Inference**|Zheng Xing et.al.|[2605.11038](http://arxiv.org/abs/2605.11038)|null|
 |**2026-05-11**|**Annotation-Free Indoor Radio Mapping via Physics-Informed Trajectory Inference**|Zheng Xing et.al.|[2605.11037](http://arxiv.org/abs/2605.11037)|null|
-|**2026-05-16**|**GSMap: 2D Gaussians for Online HD Mapping**|Zhenxuan Zeng et.al.|[2605.09619](http://arxiv.org/abs/2605.09619)|**[link](https://github.com/peakpang/GSMap)**|
+|**2026-05-16**|**GSMap: 2D Gaussians for Online HD Mapping**|Zhenxuan Zeng et.al.|[2605.09619](http://arxiv.org/abs/2605.09619)|null|
 |**2026-05-04**|**HY-Himmel Technical Report: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding**|Haopeng Jin et.al.|[2605.08158](http://arxiv.org/abs/2605.08158)|null|
 |**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
-|**2026-05-08**|**Towards Intelligent Low-Altitude Wireless Network Deployment: Differentiable Channel Knowledge Map Construction and Trajectory Design**|Le Zhao et.al.|[2605.07163](http://arxiv.org/abs/2605.07163)|null|
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling**|Zhaoning Shi et.al.|[2606.27831](http://arxiv.org/abs/2606.27831)|null|
+|**2026-06-26**|**Explainable AI for Biodiversity Monitoring and Ecological Image Analysis**|Brinnae Bent et.al.|[2606.27667](http://arxiv.org/abs/2606.27667)|null|
+|**2026-06-25**|**Radar Guided Camera Verification for Automatic Emergency Braking Rethinking Object Detection in Radar Camera Fusion**|Ram Charan Akula et.al.|[2606.27556](http://arxiv.org/abs/2606.27556)|null|
 |**2026-06-25**|**Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection**|Ke Chen et.al.|[2606.26849](http://arxiv.org/abs/2606.26849)|null|
 |**2026-06-25**|**Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction**|Philipp Allgeuer et.al.|[2606.26829](http://arxiv.org/abs/2606.26829)|null|
 |**2026-06-25**|**Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation**|Amjad Hussain et.al.|[2606.26743](http://arxiv.org/abs/2606.26743)|null|
-|**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|**[link](https://github.com/jimmy9704/TaskTok)**|
+|**2026-06-25**|**TaskTok: Delving into Task Tokens for Task-driven Image Restoration**|Hongjae Lee et.al.|[2606.26615](http://arxiv.org/abs/2606.26615)|null|
 |**2026-06-24**|**$S^{2}$ -FracMix: Label-Preserving Self-Saliency Mixup Augmentation**|Khawar Islam et.al.|[2606.25784](http://arxiv.org/abs/2606.25784)|null|
 |**2026-06-24**|**Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling**|Yifei Qu et.al.|[2606.25732](http://arxiv.org/abs/2606.25732)|null|
 |**2026-06-24**|**Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform**|Mario Finkbeiner et.al.|[2606.25652](http://arxiv.org/abs/2606.25652)|null|
@@ -122,16 +125,15 @@
 |**2026-06-15**|**PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation**|Jihoon Hong et.al.|[2606.16232](http://arxiv.org/abs/2606.16232)|null|
 |**2026-06-15**|**MOSAIC: Mobile Object Segmentation under Adverse Imaging Conditions for Rapid L-PBF Keyhole Behavior Characterization**|Garrett Mathesen et.al.|[2606.16186](http://arxiv.org/abs/2606.16186)|null|
 |**2026-06-14**|**A Dual-Branch Collaborative Framework for Joint Optimization of Underwater Image Enhancement and Object Detection**|Liyuan Cao et.al.|[2606.15857](http://arxiv.org/abs/2606.15857)|null|
-|**2026-06-13**|**Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection**|Aoting Zhang et.al.|[2606.15253](http://arxiv.org/abs/2606.15253)|null|
-|**2026-06-13**|**Multi-view feature High-order Fusion for Space Weak Object Detection and Segmentation**|Weilong Guo et.al.|[2606.15118](http://arxiv.org/abs/2606.15118)|null|
-|**2026-06-13**|**Learn Temporal Consistency For Robust Satellite Video Detector**|Weilong Guo et.al.|[2606.15112](http://arxiv.org/abs/2606.15112)|null|
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-25**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
+|**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811](http://arxiv.org/abs/2606.27811)|null|
+|**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
+|**2026-06-26**|**RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation**|Minghao Yin et.al.|[2606.27345](http://arxiv.org/abs/2606.27345)|null|
 |**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|null|
 |**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Alexander Schperberg et.al.|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
 |**2026-06-24**|**DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild**|Ahmad Kourani et.al.|[2606.25953](http://arxiv.org/abs/2606.25953)|null|
@@ -179,9 +181,7 @@
 |**2026-06-04**|**S23DR 2026 Winning Solution**|Jan Skvrna et.al.|[2606.06695](http://arxiv.org/abs/2606.06695)|null|
 |**2026-06-04**|**RadiusFPS: Efficient Farthest Point Sampling on CPUs and GPUs via Spherical Voxel Pruning**|Ziyang Yu et.al.|[2606.06255](http://arxiv.org/abs/2606.06255)|null|
 |**2026-06-04**|**Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM**|Davide Ceriola et.al.|[2606.06250](http://arxiv.org/abs/2606.06250)|null|
-|**2026-06-04**|**Towards Realistic 3D Sonar Simulation**|Youssef Attia et.al.|[2606.06130](http://arxiv.org/abs/2606.06130)|null|
-|**2026-06-03**|**Teaching Robots to Say 'I Don't Know' : SENTINEL for Uncertainty-Aware SLAM**|Abhishek S et.al.|[2606.04853](http://arxiv.org/abs/2606.04853)|null|
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
