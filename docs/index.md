@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**CSympNet-ID: conformal-symplectic map learning for linearly damped Hamiltonian systems**|Jiale Gong et.al.|[2607.03339](http://arxiv.org/abs/2607.03339)|null|
 |**2026-07-02**|**CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation**|Haokun Liu et.al.|[2607.02222](http://arxiv.org/abs/2607.02222)|null|
 |**2026-07-02**|**Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion**|Lizhou Liu et.al.|[2607.01777](http://arxiv.org/abs/2607.01777)|null|
 |**2026-07-01**|**MapDreamer: Aerial Imagery Conditioned Latent Diffusion for Lane-Level Map Generation**|Julian Brandes et.al.|[2607.01370](http://arxiv.org/abs/2607.01370)|null|
@@ -178,6 +179,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**PKS 2155-304: Long-Term Optical Photometric Monitoring and Variability Analysis**|J. L. Weiss et.al.|[2607.03420](http://arxiv.org/abs/2607.03420)|null|
+|**2026-07-03**|**REAL-OW: Rehearsal-free Open World Object Detection with Low-Rank Adaptation and Dual-Stage Objectness Modeling**|Huazhong Zhang et.al.|[2607.03004](http://arxiv.org/abs/2607.03004)|null|
+|**2026-07-02**|**Signal from Space: Detecting Schools and Towers to Bridge the Digital Divide**|Zakarya Elmimouni et.al.|[2607.02724](http://arxiv.org/abs/2607.02724)|null|
+|**2026-07-02**|**Aircraft Detection in Satellite Imagery using Deep Learning Object Detectors**|Mujahir Hussain Abbasi et.al.|[2607.02699](http://arxiv.org/abs/2607.02699)|null|
+|**2026-07-02**|**Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data**|Daniel M. Jimenez-Gutierrez et.al.|[2607.02636](http://arxiv.org/abs/2607.02636)|null|
+|**2026-06-30**|**Classroom Behavior Monitoring with YOLO An Empirical Study in Higher Education Settings**|Sinh Vu Trong et.al.|[2607.02580](http://arxiv.org/abs/2607.02580)|null|
 |**2026-07-02**|**Q-GAIN: A Python Package for Machine Learning and Physically Informed Analysis Applications**|M. Doris et.al.|[2607.02413](http://arxiv.org/abs/2607.02413)|null|
 |**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Adwait Chandorkar et.al.|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
 |**2026-07-02**|**Evaluating Vision-Language Models as a Zero-Shot Learning Alternative to You Only Look Once and Optical Character Recognition for Nigerian License Plate Recognition**|Ismail Ismail Tijjani et.al.|[2607.02025](http://arxiv.org/abs/2607.02025)|null|
@@ -834,8 +841,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**Fast 3D Foundation Model Initialized Gaussian Splatting**|Anurag Dalal et.al.|[2607.03209](http://arxiv.org/abs/2607.03209)|null|
+|**2026-07-03**|**E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras**|Juwei Shen et.al.|[2607.02866](http://arxiv.org/abs/2607.02866)|null|
+|**2026-07-02**|**LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering**|Nina Hosseini-Kivanani et.al.|[2607.02763](http://arxiv.org/abs/2607.02763)|null|
 |**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005](http://arxiv.org/abs/2607.02005)|null|
-|**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860](http://arxiv.org/abs/2607.01860)|null|
+|**2026-07-03**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860](http://arxiv.org/abs/2607.01860)|null|
 |**2026-07-02**|**DL-VINS-Factory: A Modular Framework for Learned Visual Front-Ends in Visual-Inertial SLAM**|Shoon Kit Lim et.al.|[2607.01757](http://arxiv.org/abs/2607.01757)|null|
 |**2026-07-01**|**EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization**|Mattia D'Urso et.al.|[2607.00579](http://arxiv.org/abs/2607.00579)|null|
 |**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189](http://arxiv.org/abs/2607.00189)|null|
@@ -844,7 +854,7 @@ layout: default
 |**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
 |**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
 |**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](http://arxiv.org/abs/2606.30436)|null|
-|**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**|Ambrosio-Cestero et.al.|[2606.30293](http://arxiv.org/abs/2606.30293)|null|
+|**2026-06-29**|**CSAR: Containerized System Architecture for Robotics**| Ambrosio-Cestero et.al.|[2606.30293](http://arxiv.org/abs/2606.30293)|null|
 |**2026-06-29**|**Self-supervised Geometry Reasoning for LiDAR Simultaneous Localization and Mapping**|Jiwoo Kim et.al.|[2606.30166](http://arxiv.org/abs/2606.30166)|null|
 |**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058](http://arxiv.org/abs/2606.30058)|null|
 |**2026-06-29**|**MSFA-Net: An Advanced Deep Learning Model for Identifying Blue Horizontal-Branch Stars from LAMOST DR12**|Mingyuan Wang et.al.|[2606.29918](http://arxiv.org/abs/2606.29918)|null|
@@ -855,7 +865,7 @@ layout: default
 |**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](http://arxiv.org/abs/2606.29237)|null|
 |**2026-06-27**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](http://arxiv.org/abs/2606.29031)|null|
 |**2026-06-27**|**J-LAW: Joint Localization and Actionable World Modeling via Coupled Latent Factor Graphs**|Guanqun Cao et.al.|[2606.28712](http://arxiv.org/abs/2606.28712)|null|
-|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
+|**2026-07-02**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
 |**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607](http://arxiv.org/abs/2606.28607)|null|
 |**2026-06-26**|**Improvement of Robot's Simultaneous Localization and Mapping Using an Effective Transformation to Achieve Linear Model**|Seyed Farzad Bahreinian et.al.|[2606.28475](http://arxiv.org/abs/2606.28475)|null|
 |**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811](http://arxiv.org/abs/2606.27811)|null|
