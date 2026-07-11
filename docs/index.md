@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.09
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|**[link](https://github.com/chrisyan/RZDG)**|
+|**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|null|
 |**2026-07-05**|**Agentic-V2X: Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G/6G Networks**|Gerasimos Papanikolaou-Ntais et.al.|[2607.04290](http://arxiv.org/abs/2607.04290)|null|
 |**2026-07-03**|**CSympNet-ID: conformal-symplectic map learning for linearly damped Hamiltonian systems**|Jiale Gong et.al.|[2607.03339](http://arxiv.org/abs/2607.03339)|null|
 |**2026-07-02**|**CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation**|Haokun Liu et.al.|[2607.02222](http://arxiv.org/abs/2607.02222)|null|
@@ -35,7 +35,7 @@ layout: default
 |**2026-06-11**|**HRDX: A Large-Scale Vector HD-Map Dataset**|Sahith Reddy Chada et.al.|[2606.17080](http://arxiv.org/abs/2606.17080)|null|
 |**2026-06-14**|**ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation**|Marwan Farag et.al.|[2606.15930](http://arxiv.org/abs/2606.15930)|null|
 |**2026-06-14**|**Amortized mean-shift interacting particles**|Ali Siahkoohi et.al.|[2606.15871](http://arxiv.org/abs/2606.15871)|null|
-|**2026-06-14**|**Toward the Whole Picture: Accumulative Fingerprint Mapping and Reconstruction for Small-Area Mobile Sensors**|Xiongjun Guan et.al.|[2606.15574](http://arxiv.org/abs/2606.15574)|null|
+|**2026-06-14**|**Toward the Whole Picture: Accumulative Fingerprint Mapping and Reconstruction for Small-Area Mobile Sensors**|Xiongjun Guan et.al.|[2606.15574](http://arxiv.org/abs/2606.15574)|**[link](https://github.com/XiongjunGuan/FpReconstruction)**|
 |**2026-06-13**|**A Corridor-Scale CARLA-VISSIM Co-Simulation Framework for Multi-Intersection Urban Traffic**|Sima Ashayer et.al.|[2606.15431](http://arxiv.org/abs/2606.15431)|null|
 |**2026-06-11**|**Electric-Field Mapping of Optically Perturbed CdTe Radiation Detectors**|Adriano Cola et.al.|[2606.13622](http://arxiv.org/abs/2606.13622)|null|
 |**2026-06-13**|**Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models**|Joseph Keshet et.al.|[2606.13441](http://arxiv.org/abs/2606.13441)|null|
@@ -181,6 +181,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval**|ZhiXin Sun et.al.|[2607.08541](http://arxiv.org/abs/2607.08541)|null|
+|**2026-07-09**|**On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection**|Ahmet Soyyigit et.al.|[2607.08391](http://arxiv.org/abs/2607.08391)|null|
+|**2026-07-09**|**Dual-Correlation Hypergraph Network for Unaligned RGBT Video Object Detection and A Large-scale Benchmark**|Qishun Wang et.al.|[2607.08191](http://arxiv.org/abs/2607.08191)|null|
+|**2026-07-09**|**LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection**|Wenhao Dong et.al.|[2607.08076](http://arxiv.org/abs/2607.08076)|null|
+|**2026-07-09**|**LOGOS: Language-guided Oriented Object Detection in Aerial Scenes**|Trong-Thuan Nguyen et.al.|[2607.08004](http://arxiv.org/abs/2607.08004)|null|
+|**2026-07-08**|**Monocular Vision Based Control Framework for Grasping**|Shail Jadav et.al.|[2607.07897](http://arxiv.org/abs/2607.07897)|null|
 |**2026-07-08**|**HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting**|Reem AlYabis et.al.|[2607.07322](http://arxiv.org/abs/2607.07322)|null|
 |**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192](http://arxiv.org/abs/2607.07192)|null|
 |**2026-07-08**|**Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model**|Yilong Chen et.al.|[2607.06896](http://arxiv.org/abs/2607.06896)|null|
@@ -862,6 +868,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Deep Spectroscopic Follow-Up of Maisie's Galaxy -- A Typical Galaxy in the Early Universe**|Rebecca L. Larson et.al.|[2607.08749](http://arxiv.org/abs/2607.08749)|null|
+|**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](http://arxiv.org/abs/2607.08408)|null|
+|**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115](http://arxiv.org/abs/2607.08115)|null|
+|**2026-07-08**|**STEMbot: A Compliant Robot for Under-Canopy Plant Navigation**|Zachary Charlick et.al.|[2607.07873](http://arxiv.org/abs/2607.07873)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](http://arxiv.org/abs/2607.07452)|null|
 |**2026-07-08**|**PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments**|Seunghun Lee et.al.|[2607.07374](http://arxiv.org/abs/2607.07374)|null|
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
@@ -902,7 +912,7 @@ layout: default
 |**2026-06-28**|**VCS-SLAM: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM**|Raman Jha et.al.|[2606.29494](http://arxiv.org/abs/2606.29494)|null|
 |**2026-06-28**|**PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping**|Jiawei Xia et.al.|[2606.29259](http://arxiv.org/abs/2606.29259)|null|
 |**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](http://arxiv.org/abs/2606.29237)|null|
-|**2026-06-27**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](http://arxiv.org/abs/2606.29031)|null|
+|**2026-07-09**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](http://arxiv.org/abs/2606.29031)|null|
 |**2026-06-27**|**J-LAW: Joint Localization and Actionable World Modeling via Coupled Latent Factor Graphs**|Guanqun Cao et.al.|[2606.28712](http://arxiv.org/abs/2606.28712)|null|
 |**2026-07-02**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637](http://arxiv.org/abs/2606.28637)|null|
 |**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607](http://arxiv.org/abs/2606.28607)|null|
