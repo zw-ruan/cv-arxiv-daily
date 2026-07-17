@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.15
+## Updated on 2026.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping**|Tianchen Deng et.al.|[2607.15048](http://arxiv.org/abs/2607.15048)|null|
 |**2026-07-14**|**Differentiable Clone-Structured Causal Graphs for End-to-End Cognitive Map Learning from Image Sequences**|Arash Nikzad et.al.|[2607.12382](http://arxiv.org/abs/2607.12382)|null|
 |**2026-07-08**|**BDFlow-3DRM: Height-Coherent 3D Radio Map Construction via Bi-Dynamical Flow Matching**|Jun Yu et.al.|[2607.09778](http://arxiv.org/abs/2607.09778)|null|
 |**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|**[link](https://github.com/chrisyan/RZDG)**|
@@ -183,6 +184,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Towards Hierarchical Structure Understanding of Newspaper Images**|William Mocaër et.al.|[2607.15082](http://arxiv.org/abs/2607.15082)|null|
+|**2026-07-16**|**Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion**|Wenqi Si et.al.|[2607.15041](http://arxiv.org/abs/2607.15041)|null|
+|**2026-07-16**|**An Intelligent-Cloud Edge Multimodal Interaction System for Robots**|Zihan Guo et.al.|[2607.14675](http://arxiv.org/abs/2607.14675)|null|
+|**2026-07-16**|**Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection**|Peisheng Qian et.al.|[2607.14560](http://arxiv.org/abs/2607.14560)|null|
+|**2026-07-16**|**Cotton-SF YOLO: Learning Structural and Frequency Cues for Early Cotton Square Detection in Complex Field Environments**|Chengjia Zhang et.al.|[2607.14445](http://arxiv.org/abs/2607.14445)|null|
+|**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](http://arxiv.org/abs/2607.13891)|null|
+|**2026-07-15**|**Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection**|Mingyue Zeng et.al.|[2607.13452](http://arxiv.org/abs/2607.13452)|null|
+|**2026-07-14**|**C-Norm: Cell-Distribution Normalization Enables Precision Recognition of Medical-Cell Image**|Yang Qianl et.al.|[2607.13116](http://arxiv.org/abs/2607.13116)|null|
+|**2026-07-14**|**No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA**|Suraj Karki et.al.|[2607.13106](http://arxiv.org/abs/2607.13106)|null|
+|**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Haojie Ren et.al.|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
 |**2026-07-14**|**Metric-Guided Synthetic Image Data Rendering for Deep Learning compatible with Agentic AI**|Martina Radoynova et.al.|[2607.12874](http://arxiv.org/abs/2607.12874)|null|
 |**2026-07-14**|**Autonomous Tracking and Terminal Guidance of Moving Targets for Fixed-Wing UAVs**|Wei-Hao Liou et.al.|[2607.12801](http://arxiv.org/abs/2607.12801)|null|
 |**2026-07-14**|**MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26**|Sheng-Wei Chan et.al.|[2607.12681](http://arxiv.org/abs/2607.12681)|null|
@@ -194,7 +205,7 @@ layout: default
 |**2026-07-13**|**GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting**|Yilong Yang et.al.|[2607.11732](http://arxiv.org/abs/2607.11732)|null|
 |**2026-07-13**|**Antineutron reconstruction in electromagnetic calorimeters with mixed-representation learning**|Yangu Li et.al.|[2607.11139](http://arxiv.org/abs/2607.11139)|null|
 |**2026-07-13**|**Confidence Scores in Open-Vocabulary Detection Are a Biased Mixture of Scale and Semantics**|Yi Tang Soon et.al.|[2607.10993](http://arxiv.org/abs/2607.10993)|null|
-|**2026-07-12**|**Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts**|Parikshit Singh Rathore et.al.|[2607.10949](http://arxiv.org/abs/2607.10949)|null|
+|**2026-07-15**|**Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts**|Parikshit Singh Rathore et.al.|[2607.10949](http://arxiv.org/abs/2607.10949)|null|
 |**2026-07-12**|**Water Reflection Detection Using Symmetric Attention**|Shuxuan Yao et.al.|[2607.10749](http://arxiv.org/abs/2607.10749)|null|
 |**2026-07-12**|**Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality**|Melanie Wille et.al.|[2607.10575](http://arxiv.org/abs/2607.10575)|null|
 |**2026-07-11**|**DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence**|Ziyang Zhang et.al.|[2607.10098](http://arxiv.org/abs/2607.10098)|null|
@@ -892,11 +903,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
+|**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
+|**2026-07-15**|**SeeSE3: Emergence of 3D Space in Vision Features**|Caroline Chen et.al.|[2607.14228](http://arxiv.org/abs/2607.14228)|null|
+|**2026-07-15**|**Improving Map Consistency in Graph-Based LiDAR SLAM Through Information-Aware Odometry and Retroactive Loop Closure**|Saurabh Gupta et.al.|[2607.13516](http://arxiv.org/abs/2607.13516)|null|
+|**2026-07-15**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
 |**2026-07-14**|**PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops**|Sarthak Chittawar et.al.|[2607.12811](http://arxiv.org/abs/2607.12811)|null|
 |**2026-07-14**|**DiffRadar: Differentiable Physics-Aware Radar SLAM with Gaussian Fields**|Gaurav Bagwe et.al.|[2607.12265](http://arxiv.org/abs/2607.12265)|null|
 |**2026-07-13**|**Self-Healing Visual Recovery for Autonomous Ground Vehicles Using Camera-Only Visual Odometry**|Jakob Solberg Berntzen et.al.|[2607.11686](http://arxiv.org/abs/2607.11686)|null|
-|**2026-07-13**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
+|**2026-07-15**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
 |**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099](http://arxiv.org/abs/2607.11099)|null|
 |**2026-07-12**|**Mapping Pamir: Multi-Session Visual-Inertial SLAM and 3D Reconstruction of an Underwater Shipwreck**|Michalis Chatzispyrou et.al.|[2607.10925](http://arxiv.org/abs/2607.10925)|null|
