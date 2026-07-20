@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-05-20**|**Bridging Structure and Language: Graph-Based Visual Reasoning for Autonomous Road Understanding**|Lena Wild et.al.|[2605.20942](http://arxiv.org/abs/2605.20942)|null|
 |**2026-05-19**|**FPED: A Functional-Network Prior-Guided Mixture-of-Experts Framework for Interpretable Brain Decoding**|Yudan Ren et.al.|[2605.19279](http://arxiv.org/abs/2605.19279)|null|
 |**2026-05-18**|**Geo-Data-Driven HD Map Generation Workflow with Integrated Reference-Free Constraint-Based Verification**|Ruidi He et.al.|[2605.18921](http://arxiv.org/abs/2605.18921)|null|
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-07-06**|**Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing**|Manish Kolachalam et.al.|[2607.04921](http://arxiv.org/abs/2607.04921)|null|
 |**2026-07-06**|**RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather**|Heejun Park et.al.|[2607.04587](http://arxiv.org/abs/2607.04587)|null|
 |**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|null|
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189](http://arxiv.org/abs/2607.00189)|null|
 |**2026-06-30**|**PRISM-VO: Scale-Aware Visual Odometry Using Photometric Plenoptic Bundle Adjustment**|Aymeric Fleith et.al.|[2607.00176](http://arxiv.org/abs/2607.00176)|null|
 |**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979](http://arxiv.org/abs/2606.31979)|null|
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
