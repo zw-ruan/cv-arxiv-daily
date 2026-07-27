@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.25
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -189,6 +189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments**|Ali Salmasi et.al.|[2607.22226](http://arxiv.org/abs/2607.22226)|null|
 |**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-23**|**Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection**|Yanyan Peng et.al.|[2607.21032](http://arxiv.org/abs/2607.21032)|null|
 |**2026-07-23**|**RECO: Region-Aware Compensation for Extrinsic Perturbations in Roadside 3D Detection**|Junsheng Du et.al.|[2607.20947](http://arxiv.org/abs/2607.20947)|null|
@@ -197,7 +198,7 @@ layout: default
 |**2026-07-22**|**Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training**|Qiwei Ma et.al.|[2607.20238](http://arxiv.org/abs/2607.20238)|null|
 |**2026-07-22**|**Real-Time EEG Cap Electrode Detection for Guided Point-of-Care Placement**|William Lehn-Schiøler et.al.|[2607.20142](http://arxiv.org/abs/2607.20142)|null|
 |**2026-07-22**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
-|**2026-07-22**|**TargetFinder: Detecting Widgets from Pixels on Desktop Interfaces**|Ahmed Ben Akouche et.al.|[2607.19907](http://arxiv.org/abs/2607.19907)|null|
+|**2026-07-22**|**TargetFinder: Detecting Widgets from Pixels on Desktop Interfaces**|Ahmed Ben Akouche et.al.|[2607.19907](http://arxiv.org/abs/2607.19907)|**[link](https://github.com/ahmedbenakouche/target_finder_toolkit)**|
 |**2026-07-22**|**PRISM-DR: Per-lesion Retinal Inference with Specialist Models for Diabetic Retinopathy**|Zübeyr Özeren et.al.|[2607.19864](http://arxiv.org/abs/2607.19864)|null|
 |**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036](http://arxiv.org/abs/2607.19036)|null|
 |**2026-07-21**|**CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV**|Karan Sharma et.al.|[2607.18779](http://arxiv.org/abs/2607.18779)|null|

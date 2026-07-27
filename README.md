@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.25
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,12 +69,13 @@
 |**2026-05-25**|**Long-Term Clustering Pattern of Solar Active Regions and Their Potential Connection with Magneto-Rossby Waves**|Junwei Zhao et.al.|[2605.25501](http://arxiv.org/abs/2605.25501)|null|
 |**2026-05-21**|**Scene Reconstruction as Mapping Priors for 3D Detection**|Yang Fu et.al.|[2605.22997](http://arxiv.org/abs/2605.22997)|null|
 |**2026-05-21**|**OctCGS: Octree-Contextual Gaussian Splatting with Explicit Multi-Order Propagation Modeling for Channel Knowledge Map Construction**|Jinghan Zhang et.al.|[2605.22961](http://arxiv.org/abs/2605.22961)|null|
-<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments**|Ali Salmasi et.al.|[2607.22226](http://arxiv.org/abs/2607.22226)|null|
 |**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-23**|**Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection**|Yanyan Peng et.al.|[2607.21032](http://arxiv.org/abs/2607.21032)|null|
 |**2026-07-23**|**RECO: Region-Aware Compensation for Extrinsic Perturbations in Roadside 3D Detection**|Junsheng Du et.al.|[2607.20947](http://arxiv.org/abs/2607.20947)|null|
@@ -83,7 +84,7 @@
 |**2026-07-22**|**Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training**|Qiwei Ma et.al.|[2607.20238](http://arxiv.org/abs/2607.20238)|null|
 |**2026-07-22**|**Real-Time EEG Cap Electrode Detection for Guided Point-of-Care Placement**|William Lehn-Schiøler et.al.|[2607.20142](http://arxiv.org/abs/2607.20142)|null|
 |**2026-07-22**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
-|**2026-07-22**|**TargetFinder: Detecting Widgets from Pixels on Desktop Interfaces**|Ahmed Ben Akouche et.al.|[2607.19907](http://arxiv.org/abs/2607.19907)|null|
+|**2026-07-22**|**TargetFinder: Detecting Widgets from Pixels on Desktop Interfaces**|Ahmed Ben Akouche et.al.|[2607.19907](http://arxiv.org/abs/2607.19907)|**[link](https://github.com/ahmedbenakouche/target_finder_toolkit)**|
 |**2026-07-22**|**PRISM-DR: Per-lesion Retinal Inference with Specialist Models for Diabetic Retinopathy**|Zübeyr Özeren et.al.|[2607.19864](http://arxiv.org/abs/2607.19864)|null|
 |**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036](http://arxiv.org/abs/2607.19036)|null|
 |**2026-07-21**|**CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV**|Karan Sharma et.al.|[2607.18779](http://arxiv.org/abs/2607.18779)|null|
@@ -124,8 +125,7 @@
 |**2026-07-12**|**Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality**|Melanie Wille et.al.|[2607.10575](http://arxiv.org/abs/2607.10575)|null|
 |**2026-07-11**|**DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence**|Ziyang Zhang et.al.|[2607.10098](http://arxiv.org/abs/2607.10098)|null|
 |**2026-07-10**|**Does YOLO26 Truly Offer Advantages Over Its Predecessors for Edge Deployment? A Benchmark Study in Aquaculture**|Rakesh Ranjan et.al.|[2607.09835](http://arxiv.org/abs/2607.09835)|null|
-|**2026-07-14**|**A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback**|Gabrielle Marion et.al.|[2607.09807](http://arxiv.org/abs/2607.09807)|null|
-<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-07-07**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847](http://arxiv.org/abs/2607.04847)|null|
 |**2026-07-06**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
 |**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](http://arxiv.org/abs/2607.04722)|null|
-<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
