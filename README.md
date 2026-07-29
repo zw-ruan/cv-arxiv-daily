@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.27
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-22**|**Hard Guarantees at a Measured Price: Entropy-Stable Learned Finite Volumes for Compressible Flow**|Denis Gueyffier et.al.|[2607.20171](http://arxiv.org/abs/2607.20171)|null|
+|**2026-07-27**|**SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception**|Goodarz Mehr et.al.|[2607.23910](http://arxiv.org/abs/2607.23910)|null|
+|**2026-07-26**|**RoadVGGT: Road-Structure-Aware Feed-Forward Road Surface Reconstruction**|Han Jiao et.al.|[2607.23758](http://arxiv.org/abs/2607.23758)|null|
+|**2026-07-26**|**Learning Traversability-Aware Global Planners for Long Horizon Off-Road Navigation**|Kasi Viswanath et.al.|[2607.23743](http://arxiv.org/abs/2607.23743)|null|
+|**2026-07-27**|**Hard Guarantees at a Measured Price: Entropy-Stable Learned Finite Volumes for Compressible Flow**|Denis Gueyffier et.al.|[2607.20171](http://arxiv.org/abs/2607.20171)|null|
 |**2026-07-21**|**Gaze-DETR: Top-Down Guidance Through Priority Maps for Infrared Weak-Small UAV Detection with DETR**|Nian Liu et.al.|[2607.19040](http://arxiv.org/abs/2607.19040)|null|
 |**2026-07-21**|**NaviAIS: A Scenario-Level Vessel Trajectory Prediction Dataset withVectorized Lane Priors and the NaviLane Forecasting Framework**|Yuan Gui et.al.|[2607.18887](http://arxiv.org/abs/2607.18887)|null|
 |**2026-07-22**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332](http://arxiv.org/abs/2607.17332)|null|
@@ -27,7 +30,7 @@
 |**2026-07-16**|**RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping**|Tianchen Deng et.al.|[2607.15048](http://arxiv.org/abs/2607.15048)|null|
 |**2026-07-14**|**Differentiable Clone-Structured Causal Graphs for End-to-End Cognitive Map Learning from Image Sequences**|Arash Nikzad et.al.|[2607.12382](http://arxiv.org/abs/2607.12382)|null|
 |**2026-07-08**|**BDFlow-3DRM: Height-Coherent 3D Radio Map Construction via Bi-Dynamical Flow Matching**|Jun Yu et.al.|[2607.09778](http://arxiv.org/abs/2607.09778)|null|
-|**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|**[link](https://github.com/chrisyan/RZDG)**|
+|**2026-07-05**|**Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization**|Zhiran Yan et.al.|[2607.04330](http://arxiv.org/abs/2607.04330)|null|
 |**2026-07-05**|**Agentic-V2X: Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G/6G Networks**|Gerasimos Papanikolaou-Ntais et.al.|[2607.04290](http://arxiv.org/abs/2607.04290)|null|
 |**2026-07-03**|**CSympNet-ID: conformal-symplectic map learning for linearly damped Hamiltonian systems**|Jiale Gong et.al.|[2607.03339](http://arxiv.org/abs/2607.03339)|null|
 |**2026-07-02**|**CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation**|Haokun Liu et.al.|[2607.02222](http://arxiv.org/abs/2607.02222)|null|
@@ -66,15 +69,22 @@
 |**2026-05-29**|**Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error**|Markus Gross et.al.|[2605.31438](http://arxiv.org/abs/2605.31438)|null|
 |**2026-05-28**|**Perturbative Nicolai-Map Diagrammatics: Application to Poincaré Supergravity**|Ji-Seong Chae et.al.|[2605.29990](http://arxiv.org/abs/2605.29990)|null|
 |**2026-05-28**|**CityGen: Structure-Guided City-Style Synthesis for Cross-City Autonomous Driving**|Zezhong Qian et.al.|[2605.29935](http://arxiv.org/abs/2605.29935)|null|
-|**2026-05-25**|**Long-Term Clustering Pattern of Solar Active Regions and Their Potential Connection with Magneto-Rossby Waves**|Junwei Zhao et.al.|[2605.25501](http://arxiv.org/abs/2605.25501)|null|
-|**2026-05-21**|**Scene Reconstruction as Mapping Priors for 3D Detection**|Yang Fu et.al.|[2605.22997](http://arxiv.org/abs/2605.22997)|null|
-|**2026-05-21**|**OctCGS: Octree-Contextual Gaussian Splatting with Explicit Multi-Order Propagation Modeling for Channel Knowledge Map Construction**|Jinghan Zhang et.al.|[2605.22961](http://arxiv.org/abs/2605.22961)|null|
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Image Quality Dependent Degradation for AI Systems**|Yannick Kees et.al.|[2607.25736](http://arxiv.org/abs/2607.25736)|null|
+|**2026-07-28**|**Multi-Sensor Alignment for Weather Simulations**|Samsad Alam et.al.|[2607.25612](http://arxiv.org/abs/2607.25612)|null|
+|**2026-07-28**|**Reading Legends on Ancient Coins: An Object Detection Approach for Character Recognition on a Novel Roman Republican Dataset**|Hafeez Anwar et.al.|[2607.25455](http://arxiv.org/abs/2607.25455)|null|
+|**2026-07-28**|**RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection**|Tianyu Li et.al.|[2607.25392](http://arxiv.org/abs/2607.25392)|null|
+|**2026-07-28**|**CD-RMOT-Bench: Benchmarking the Cross-Domain Referring Multi-Object Tracking**|Xiangqun Zhang et.al.|[2607.25239](http://arxiv.org/abs/2607.25239)|null|
+|**2026-07-27**|**Construction of entropy satisfying Active Flux-type methods**|Remi Abgrall et.al.|[2607.25111](http://arxiv.org/abs/2607.25111)|null|
+|**2026-07-27**|**Multimodal Semantic-Probabilistic Objectness for Open World Object Detection**|Weijun Tian et.al.|[2607.23981](http://arxiv.org/abs/2607.23981)|null|
+|**2026-07-26**|**Neuromorphic Object Detection: An In-Depth Study and Future Directions**|Jianing Li et.al.|[2607.23576](http://arxiv.org/abs/2607.23576)|null|
+|**2026-07-25**|**GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection**|Ji He et.al.|[2607.23059](http://arxiv.org/abs/2607.23059)|null|
+|**2026-07-24**|**Small-Pollinator Detection in Cluttered Field Video**|Onur Onal et.al.|[2607.22913](http://arxiv.org/abs/2607.22913)|null|
 |**2026-07-24**|**Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments**|Ali Salmasi et.al.|[2607.22226](http://arxiv.org/abs/2607.22226)|null|
 |**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-23**|**Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection**|Yanyan Peng et.al.|[2607.21032](http://arxiv.org/abs/2607.21032)|null|
@@ -83,15 +93,15 @@
 |**2026-07-22**|**How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection**|Kun Zhao et.al.|[2607.20263](http://arxiv.org/abs/2607.20263)|null|
 |**2026-07-22**|**Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training**|Qiwei Ma et.al.|[2607.20238](http://arxiv.org/abs/2607.20238)|null|
 |**2026-07-22**|**Real-Time EEG Cap Electrode Detection for Guided Point-of-Care Placement**|William Lehn-Schiøler et.al.|[2607.20142](http://arxiv.org/abs/2607.20142)|null|
-|**2026-07-22**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
-|**2026-07-22**|**TargetFinder: Detecting Widgets from Pixels on Desktop Interfaces**|Ahmed Ben Akouche et.al.|[2607.19907](http://arxiv.org/abs/2607.19907)|**[link](https://github.com/ahmedbenakouche/target_finder_toolkit)**|
+|**2026-07-27**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
+|**2026-07-22**|**TargetFinder: Detecting Widgets from Pixels on Desktop Interfaces**|Ahmed Ben Akouche et.al.|[2607.19907](http://arxiv.org/abs/2607.19907)|null|
 |**2026-07-22**|**PRISM-DR: Per-lesion Retinal Inference with Specialist Models for Diabetic Retinopathy**|Zübeyr Özeren et.al.|[2607.19864](http://arxiv.org/abs/2607.19864)|null|
 |**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036](http://arxiv.org/abs/2607.19036)|null|
 |**2026-07-21**|**CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV**|Karan Sharma et.al.|[2607.18779](http://arxiv.org/abs/2607.18779)|null|
 |**2026-07-21**|**Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection**|Robert James Brock et.al.|[2607.18700](http://arxiv.org/abs/2607.18700)|null|
 |**2026-07-20**|**Optimization of sim-to-real transfer in the humanoid robot NICO**|Juraj Gavura et.al.|[2607.18210](http://arxiv.org/abs/2607.18210)|null|
 |**2026-07-20**|**Technical Design Review of Duke Robotics Club's Oogway & Crush: AUVs for RoboSub 2026**|Patrick Zheng et.al.|[2607.18075](http://arxiv.org/abs/2607.18075)|null|
-|**2026-07-20**|**Toward Optimal Adenovirus Detection Using YOLO26**|Olivier Rukundo et.al.|[2607.17799](http://arxiv.org/abs/2607.17799)|null|
+|**2026-07-27**|**Toward Optimal Adenovirus Detection Using YOLO26**|Olivier Rukundo et.al.|[2607.17799](http://arxiv.org/abs/2607.17799)|null|
 |**2026-07-20**|**Attention from Above: A Multimodal Model for Drone-Based Object Localization**|Hyun-Ki Jung et.al.|[2607.17669](http://arxiv.org/abs/2607.17669)|null|
 |**2026-07-19**|**Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection**|Aoting Zhang et.al.|[2607.17340](http://arxiv.org/abs/2607.17340)|null|
 |**2026-07-19**|**AdvSerial: Physical Adversarial Attacks on Infrastructure-mounted Pedestrian Detectors via Semantic Feature Suppression**|Yuanhao Huang et.al.|[2607.17069](http://arxiv.org/abs/2607.17069)|null|
@@ -115,22 +125,19 @@
 |**2026-07-14**|**MAGE: Color-Invariant and Spatial Knowledge Distillation for Gastric Neoplasm Classification**|Jiho Jun et.al.|[2607.12663](http://arxiv.org/abs/2607.12663)|null|
 |**2026-07-14**|**DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection**|Haifa Zhang et.al.|[2607.12419](http://arxiv.org/abs/2607.12419)|null|
 |**2026-07-14**|**GeoSEAN: Explainable Country-Level Image Geolocation for ASEAN Regions**|Muhamad Syukron et.al.|[2607.12284](http://arxiv.org/abs/2607.12284)|null|
-|**2026-07-13**|**ACZ-GSeg: Adaptive Concentric Zone-based Two-stage Ground Segmentation for LiDAR Point Clouds**|Ge Zhang Chunyang Wang Bin Liu et.al.|[2607.12110](http://arxiv.org/abs/2607.12110)|null|
-|**2026-07-13**|**MicroCharNet: Less is More for License Plate Character Detection**|Huy Che et.al.|[2607.11830](http://arxiv.org/abs/2607.11830)|null|
-|**2026-07-13**|**GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting**|Yilong Yang et.al.|[2607.11732](http://arxiv.org/abs/2607.11732)|null|
-|**2026-07-13**|**Antineutron reconstruction in electromagnetic calorimeters with mixed-representation learning**|Yangu Li et.al.|[2607.11139](http://arxiv.org/abs/2607.11139)|null|
-|**2026-07-13**|**Confidence Scores in Open-Vocabulary Detection Are a Biased Mixture of Scale and Semantics**|Yi Tang Soon et.al.|[2607.10993](http://arxiv.org/abs/2607.10993)|null|
-|**2026-07-15**|**Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts**|Parikshit Singh Rathore et.al.|[2607.10949](http://arxiv.org/abs/2607.10949)|null|
-|**2026-07-12**|**Water Reflection Detection Using Symmetric Attention**|Shuxuan Yao et.al.|[2607.10749](http://arxiv.org/abs/2607.10749)|null|
-|**2026-07-12**|**Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality**|Melanie Wille et.al.|[2607.10575](http://arxiv.org/abs/2607.10575)|null|
-|**2026-07-11**|**DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence**|Ziyang Zhang et.al.|[2607.10098](http://arxiv.org/abs/2607.10098)|null|
-|**2026-07-10**|**Does YOLO26 Truly Offer Advantages Over Its Predecessors for Edge Deployment? A Benchmark Study in Aquaculture**|Rakesh Ranjan et.al.|[2607.09835](http://arxiv.org/abs/2607.09835)|null|
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Macroscopic wall pressure and microscopic contact load in crowds without egress: social-group cohesion and boundary buffering**|Bo-Shiun Shen et.al.|[2607.25780](http://arxiv.org/abs/2607.25780)|null|
+|**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389](http://arxiv.org/abs/2607.25389)|null|
+|**2026-07-27**|**NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction**|Jiaheng Li et.al.|[2607.24495](http://arxiv.org/abs/2607.24495)|null|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
+|**2026-07-27**|**SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces**|Tianyuan Du et.al.|[2607.23901](http://arxiv.org/abs/2607.23901)|null|
+|**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|null|
+|**2026-07-24**|**Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping**|Bibhutibhusan Nayak et.al.|[2607.21986](http://arxiv.org/abs/2607.21986)|null|
 |**2026-07-23**|**GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition**|Panagiotis Mermigkas et.al.|[2607.21416](http://arxiv.org/abs/2607.21416)|null|
 |**2026-07-22**|**DINS-IO: Learned Inertial Odometry via Differentiable INS Consistency**|Hao Qiao et.al.|[2607.20232](http://arxiv.org/abs/2607.20232)|null|
 |**2026-07-21**|**Identifying and Determining Atmospheric Parameters of BHB Stars Based on LAMOST DR11**|Xiao-Long Wang et.al.|[2607.19175](http://arxiv.org/abs/2607.19175)|null|
@@ -174,14 +181,7 @@
 |**2026-07-07**|**CILC: Cryptographically-secure Inter-agent Loop Closure Candidate Detection for Multi-Agent Collaborative SLAM**|Andrew Fishberg et.al.|[2607.06700](http://arxiv.org/abs/2607.06700)|null|
 |**2026-07-07**|**MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices**|Parsa Hassani Shariat Panahi et.al.|[2607.06600](http://arxiv.org/abs/2607.06600)|null|
 |**2026-07-07**|**Hilti-Trimble-Oxford Dataset: 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization**|Samuele Centanni et.al.|[2607.06464](http://arxiv.org/abs/2607.06464)|null|
-|**2026-07-07**|**APVI-SLAM: Real-Time Acoustic-Pressure-Visual-Inertial Localization and Photorealistic Mapping System in Complex Underwater Environment**|Hanwen Zhang et.al.|[2607.06222](http://arxiv.org/abs/2607.06222)|null|
-|**2026-07-12**|**Deep far-UV observations of the ELAIS N1 field using AstroSat: Source catalogue, spectral energy distribution modelling and star formation**|Pranjal Chaturvedi et.al.|[2607.06143](http://arxiv.org/abs/2607.06143)|null|
-|**2026-07-07**|**Why does Deep Learning Improve Visual SLAM?**|Giovanni Cioffi et.al.|[2607.06023](http://arxiv.org/abs/2607.06023)|null|
-|**2026-07-06**|**Geometry-Aware Visual Odometry for Bronchoscopic Navigation via High-Gain Observer Fusion**|Mohammadreza Kasaei et.al.|[2607.05162](http://arxiv.org/abs/2607.05162)|null|
-|**2026-07-07**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847](http://arxiv.org/abs/2607.04847)|null|
-|**2026-07-06**|**SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR**|Kenta Tsukahara et.al.|[2607.04764](http://arxiv.org/abs/2607.04764)|null|
-|**2026-07-06**|**Reference-Induced Consensus for Selective Posed-Reference Visual Localization**|Wonseok Kang et.al.|[2607.04722](http://arxiv.org/abs/2607.04722)|null|
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
