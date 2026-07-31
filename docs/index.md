@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.29
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Radar-Aided Near-Field Beam Prediction via Beam Map Learning for XL-MIMO V2I Communications**|Jiali Nie et.al.|[2607.27643](http://arxiv.org/abs/2607.27643)|null|
+|**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
 |**2026-07-27**|**SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception**|Goodarz Mehr et.al.|[2607.23910](http://arxiv.org/abs/2607.23910)|null|
 |**2026-07-26**|**RoadVGGT: Road-Structure-Aware Feed-Forward Road Surface Reconstruction**|Han Jiao et.al.|[2607.23758](http://arxiv.org/abs/2607.23758)|null|
 |**2026-07-26**|**Learning Traversability-Aware Global Planners for Long Horizon Off-Road Navigation**|Kasi Viswanath et.al.|[2607.23743](http://arxiv.org/abs/2607.23743)|null|
@@ -192,6 +194,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures**|Sweta Banerjee et.al.|[2607.28007](http://arxiv.org/abs/2607.28007)|null|
+|**2026-07-30**|**VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection**|Songsong Duan et.al.|[2607.27843](http://arxiv.org/abs/2607.27843)|null|
+|**2026-07-29**|**Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications**|Piyush Jain et.al.|[2607.27145](http://arxiv.org/abs/2607.27145)|null|
+|**2026-07-29**|**Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation**|Danning Zhu et.al.|[2607.27058](http://arxiv.org/abs/2607.27058)|null|
+|**2026-07-29**|**From Keypoints to Predictive Distributions: Post-Hoc Uncertainty for YOLO-Pose Models**|Alexej Klushyn et.al.|[2607.26921](http://arxiv.org/abs/2607.26921)|null|
 |**2026-07-28**|**Image Quality Dependent Degradation for AI Systems**|Yannick Kees et.al.|[2607.25736](http://arxiv.org/abs/2607.25736)|null|
 |**2026-07-28**|**Multi-Sensor Alignment for Weather Simulations**|Samsad Alam et.al.|[2607.25612](http://arxiv.org/abs/2607.25612)|null|
 |**2026-07-28**|**Reading Legends on Ancient Coins: An Object Detection Approach for Character Recognition on a Novel Roman Republican Dataset**|Hafeez Anwar et.al.|[2607.25455](http://arxiv.org/abs/2607.25455)|null|
@@ -945,6 +952,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
+|**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
+|**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895](http://arxiv.org/abs/2607.25895)|null|
 |**2026-07-28**|**Macroscopic wall pressure and microscopic contact load in crowds without egress: social-group cohesion and boundary buffering**|Bo-Shiun Shen et.al.|[2607.25780](http://arxiv.org/abs/2607.25780)|null|
 |**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389](http://arxiv.org/abs/2607.25389)|null|
 |**2026-07-27**|**NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction**|Jiaheng Li et.al.|[2607.24495](http://arxiv.org/abs/2607.24495)|null|
