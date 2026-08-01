@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -194,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[2607.28589](http://arxiv.org/abs/2607.28589)|null|
 |**2026-07-30**|**Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures**|Sweta Banerjee et.al.|[2607.28007](http://arxiv.org/abs/2607.28007)|null|
 |**2026-07-30**|**VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection**|Songsong Duan et.al.|[2607.27843](http://arxiv.org/abs/2607.27843)|null|
 |**2026-07-29**|**Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications**|Piyush Jain et.al.|[2607.27145](http://arxiv.org/abs/2607.27145)|null|
@@ -204,7 +205,7 @@ layout: default
 |**2026-07-28**|**Reading Legends on Ancient Coins: An Object Detection Approach for Character Recognition on a Novel Roman Republican Dataset**|Hafeez Anwar et.al.|[2607.25455](http://arxiv.org/abs/2607.25455)|null|
 |**2026-07-28**|**RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection**|Tianyu Li et.al.|[2607.25392](http://arxiv.org/abs/2607.25392)|null|
 |**2026-07-28**|**CD-RMOT-Bench: Benchmarking the Cross-Domain Referring Multi-Object Tracking**|Xiangqun Zhang et.al.|[2607.25239](http://arxiv.org/abs/2607.25239)|null|
-|**2026-07-27**|**Construction of entropy satisfying Active Flux-type methods**|Remi Abgrall et.al.|[2607.25111](http://arxiv.org/abs/2607.25111)|null|
+|**2026-07-30**|**Construction of entropy satisfying Active Flux-type methods**|Remi Abgrall et.al.|[2607.25111](http://arxiv.org/abs/2607.25111)|null|
 |**2026-07-27**|**Multimodal Semantic-Probabilistic Objectness for Open World Object Detection**|Weijun Tian et.al.|[2607.23981](http://arxiv.org/abs/2607.23981)|null|
 |**2026-07-26**|**Neuromorphic Object Detection: An In-Depth Study and Future Directions**|Jianing Li et.al.|[2607.23576](http://arxiv.org/abs/2607.23576)|null|
 |**2026-07-25**|**GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection**|Ji He et.al.|[2607.23059](http://arxiv.org/abs/2607.23059)|null|
@@ -952,7 +953,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|**[link](https://github.com/cvg/vidmap)**|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895](http://arxiv.org/abs/2607.25895)|null|
 |**2026-07-28**|**Macroscopic wall pressure and microscopic contact load in crowds without egress: social-group cohesion and boundary buffering**|Bo-Shiun Shen et.al.|[2607.25780](http://arxiv.org/abs/2607.25780)|null|
