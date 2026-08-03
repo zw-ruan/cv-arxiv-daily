@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.01
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -194,6 +194,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?**|Wenzhuo Zhao et.al.|[2607.29222](http://arxiv.org/abs/2607.29222)|null|
+|**2026-07-31**|**SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift**|Sagar Lekhak et.al.|[2607.28996](http://arxiv.org/abs/2607.28996)|null|
 |**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[2607.28589](http://arxiv.org/abs/2607.28589)|null|
 |**2026-07-30**|**Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures**|Sweta Banerjee et.al.|[2607.28007](http://arxiv.org/abs/2607.28007)|null|
 |**2026-07-30**|**VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection**|Songsong Duan et.al.|[2607.27843](http://arxiv.org/abs/2607.27843)|null|
@@ -953,7 +955,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|**[link](https://github.com/cvg/vidmap)**|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895](http://arxiv.org/abs/2607.25895)|null|
 |**2026-07-28**|**Macroscopic wall pressure and microscopic contact load in crowds without egress: social-group cohesion and boundary buffering**|Bo-Shiun Shen et.al.|[2607.25780](http://arxiv.org/abs/2607.25780)|null|

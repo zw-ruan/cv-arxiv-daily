@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.01
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,12 +69,14 @@
 |**2026-06-01**|**FlatVPR: Plug-and-play Geo-linear Residual Adapter for Geometric Rectification of Foundation Model Feature Manifolds**|Rai Hisada et.al.|[2606.01734](http://arxiv.org/abs/2606.01734)|null|
 |**2026-05-29**|**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**|Zhiyu Huang et.al.|[2605.31572](http://arxiv.org/abs/2605.31572)|null|
 |**2026-05-29**|**Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error**|Markus Gross et.al.|[2605.31438](http://arxiv.org/abs/2605.31438)|null|
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?**|Wenzhuo Zhao et.al.|[2607.29222](http://arxiv.org/abs/2607.29222)|null|
+|**2026-07-31**|**SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift**|Sagar Lekhak et.al.|[2607.28996](http://arxiv.org/abs/2607.28996)|null|
 |**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[2607.28589](http://arxiv.org/abs/2607.28589)|null|
 |**2026-07-30**|**Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures**|Sweta Banerjee et.al.|[2607.28007](http://arxiv.org/abs/2607.28007)|null|
 |**2026-07-30**|**VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection**|Songsong Duan et.al.|[2607.27843](http://arxiv.org/abs/2607.27843)|null|
@@ -123,15 +125,13 @@
 |**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](http://arxiv.org/abs/2607.13891)|null|
 |**2026-07-15**|**Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection**|Mingyue Zeng et.al.|[2607.13452](http://arxiv.org/abs/2607.13452)|null|
 |**2026-07-14**|**C-Norm: Cell-Distribution Normalization Enables Precision Recognition of Medical-Cell Image**|Yang Qianl et.al.|[2607.13116](http://arxiv.org/abs/2607.13116)|null|
-|**2026-07-14**|**No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA**|Suraj Karki et.al.|[2607.13106](http://arxiv.org/abs/2607.13106)|null|
-|**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Haojie Ren et.al.|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|**[link](https://github.com/cvg/vidmap)**|
+|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895](http://arxiv.org/abs/2607.25895)|null|
 |**2026-07-28**|**Macroscopic wall pressure and microscopic contact load in crowds without egress: social-group cohesion and boundary buffering**|Bo-Shiun Shen et.al.|[2607.25780](http://arxiv.org/abs/2607.25780)|null|
@@ -181,7 +181,7 @@
 |**2026-07-17**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
 |**2026-07-08**|**The MAGPI Survey: Evidence for Non-Universal Resolved Dust Attenuation Relations Beyond the Local Universe**|A. Mailvaganam et.al.|[2607.07122](http://arxiv.org/abs/2607.07122)|null|
 |**2026-07-08**|**Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model**|Yilong Chen et.al.|[2607.06896](http://arxiv.org/abs/2607.06896)|null|
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
