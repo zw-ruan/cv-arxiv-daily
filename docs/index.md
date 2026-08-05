@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.03
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Driver2Map: Imitating Human Driving for Online High-Definition Map Construction**|Pan Yin et.al.|[2608.01338](http://arxiv.org/abs/2608.01338)|**[link](https://github.com/UserBits/Driver2Map)**|
+|**2026-08-01**|**SIPTraj: Map-Free End-to-End Trajectory Prediction via Physics-Guided Scene Interaction**|Feifei Liu et.al.|[2608.00779](http://arxiv.org/abs/2608.00779)|null|
+|**2026-08-01**|**Modeling Unknown Nonlocal PDE Systems via Flow Map Learning**|Zhongshu Xu et.al.|[2608.00400](http://arxiv.org/abs/2608.00400)|null|
 |**2026-07-30**|**Radar-Aided Near-Field Beam Prediction via Beam Map Learning for XL-MIMO V2I Communications**|Jiali Nie et.al.|[2607.27643](http://arxiv.org/abs/2607.27643)|null|
 |**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
 |**2026-07-27**|**SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception**|Goodarz Mehr et.al.|[2607.23910](http://arxiv.org/abs/2607.23910)|null|
@@ -194,6 +197,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence**|Longji He et.al.|[2608.03728](http://arxiv.org/abs/2608.03728)|null|
+|**2026-08-04**|**Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation**|Quoc Cuong Ninh et.al.|[2608.03490](http://arxiv.org/abs/2608.03490)|null|
+|**2026-08-04**|**FreqAdapt: Frequency-Adaptive Processing for RAW Object Detection**|Hanxi Li et.al.|[2608.03385](http://arxiv.org/abs/2608.03385)|null|
+|**2026-08-04**|**DRPFNet: Dual-domain Residual Progressive Fusion Network for RGB-Thermal Object Detection**|Zian Wang et.al.|[2608.03370](http://arxiv.org/abs/2608.03370)|null|
+|**2026-08-04**|**Frozen High-Resolution Inference for Cross-City Object Detection: An AI City Challenge 2026 Study**|Jaeuk Kim et.al.|[2608.03136](http://arxiv.org/abs/2608.03136)|null|
+|**2026-08-04**|**FaithIR: Rethinking Infrared Image Super-Resolution from Perceptual Sharpness to Task Relevant Fidelity**|Axi Niu et.al.|[2608.03106](http://arxiv.org/abs/2608.03106)|null|
+|**2026-08-03**|**Fast Object Removal Attacks on Safety-Critical Video-based Perception Systems**|Mohammad Imtiaz Hasan et.al.|[2608.02806](http://arxiv.org/abs/2608.02806)|null|
+|**2026-08-03**|**DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation**|Zihan Yang et.al.|[2608.02495](http://arxiv.org/abs/2608.02495)|null|
+|**2026-08-03**|**UAV-Based Environmental Monitoring of Rip-Current Indicators Using Wavelet-Derived Texture Features**|Yonatan Ben Avraham et.al.|[2608.02448](http://arxiv.org/abs/2608.02448)|null|
+|**2026-08-03**|**GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes**|Fanyu Wang et.al.|[2608.02177](http://arxiv.org/abs/2608.02177)|null|
+|**2026-08-03**|**Two Sides of the Same Coin: Co-Evolving Search for Cross-Task Attacks on Vision-Language Models**|Xuanhui Lin et.al.|[2608.02137](http://arxiv.org/abs/2608.02137)|null|
+|**2026-08-03**|**Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion**|Guandi Wang et.al.|[2608.02092](http://arxiv.org/abs/2608.02092)|null|
+|**2026-08-03**|**Assessing the Benefits of Combining Advanced Deep Learning Techniques for Post-Disaster Building Damage Assessment from UAV Imagery**|Huy Quang Ung et.al.|[2608.01906](http://arxiv.org/abs/2608.01906)|null|
+|**2026-08-02**|**Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection**|Linhai Zhuo et.al.|[2608.01348](http://arxiv.org/abs/2608.01348)|null|
+|**2026-08-02**|**Beyond Symmetric Fusion: Exploiting Task-Dependent Modality Strengths for RGB-Event Small Object Detection**|Ziheng Wang et.al.|[2608.01302](http://arxiv.org/abs/2608.01302)|null|
+|**2026-08-02**|**Extended KAFR: A kinematic-adaptive paradigm for the efficient analysis of surgical video**|Huu Phong Nguyen et.al.|[2608.01058](http://arxiv.org/abs/2608.01058)|null|
+|**2026-08-01**|**Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance**|Amir Belder et.al.|[2608.00652](http://arxiv.org/abs/2608.00652)|null|
+|**2026-08-01**|**RadYOLO: Computationally Efficient 3D Object Detection and Segmentation in CT and MRI**|Kai Geissler et.al.|[2608.00508](http://arxiv.org/abs/2608.00508)|null|
+|**2026-07-31**|**MDWD: A Street-Level Dataset for Municipal Solid Waste Detection in Dense Urban Environments**|Andrea Filiberto Lucas et.al.|[2608.00257](http://arxiv.org/abs/2608.00257)|null|
+|**2026-07-31**|**RPL-UIE: Reliable Prior Learning for Underwater Image Enhancement**|Yifan Chen et.al.|[2608.00137](http://arxiv.org/abs/2608.00137)|null|
 |**2026-07-31**|**Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?**|Wenzhuo Zhao et.al.|[2607.29222](http://arxiv.org/abs/2607.29222)|null|
 |**2026-07-31**|**SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift**|Sagar Lekhak et.al.|[2607.28996](http://arxiv.org/abs/2607.28996)|null|
 |**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[2607.28589](http://arxiv.org/abs/2607.28589)|null|
@@ -955,6 +978,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SLAMFormer- $\infty$ : Infinite SLAM Transformer for Unbounded Frontend and Backend Processing**|Zhijian Fang et.al.|[2608.03429](http://arxiv.org/abs/2608.03429)|null|
+|**2026-08-03**|**Loggia dei Lanzi: AI Thermography Enhancement Comparisons through 3D Photogrammetry**|Scott McAvoy et.al.|[2608.02404](http://arxiv.org/abs/2608.02404)|null|
+|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|null|
+|**2026-08-03**|**UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization**|Inha Lee et.al.|[2608.01706](http://arxiv.org/abs/2608.01706)|null|
+|**2026-08-02**|**Swimm3R: Splatting with Medium-aware SfM for Underwater 3D Reconstruction**|Minseong Kweon et.al.|[2608.00950](http://arxiv.org/abs/2608.00950)|null|
+|**2026-08-02**|**Stipple: Real-Time Incremental Gaussian Splatting with Visual-Inertial Tracking**|Kilian Northoff et.al.|[2608.00931](http://arxiv.org/abs/2608.00931)|null|
+|**2026-08-02**|**Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM**|Zhuang Xiong et.al.|[2608.00925](http://arxiv.org/abs/2608.00925)|null|
 |**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|null|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Simple AI et.al.|[2607.25895](http://arxiv.org/abs/2607.25895)|null|
