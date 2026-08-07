@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.05
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**LoDA: A Level of Detection Aware Method and a Multimodal Sensing Benchmark for Object Level Change Detection**|Haitian Wang et.al.|[2608.05356](http://arxiv.org/abs/2608.05356)|null|
+|**2026-08-05**|**MapTCL: Temporal Consistency Learning via Bidirectional Alignment for Vectorized HD Map Construction**|Hyeonseo Kim et.al.|[2608.05209](http://arxiv.org/abs/2608.05209)|null|
+|**2026-08-05**|**TwinIR: Coordinated Invisible Dual-Point Attacks on Online HD Map Construction**|Haibo Hu et.al.|[2608.04453](http://arxiv.org/abs/2608.04453)|null|
 |**2026-08-02**|**Driver2Map: Imitating Human Driving for Online High-Definition Map Construction**|Pan Yin et.al.|[2608.01338](http://arxiv.org/abs/2608.01338)|**[link](https://github.com/UserBits/Driver2Map)**|
 |**2026-08-01**|**SIPTraj: Map-Free End-to-End Trajectory Prediction via Physics-Guided Scene Interaction**|Feifei Liu et.al.|[2608.00779](http://arxiv.org/abs/2608.00779)|null|
 |**2026-08-01**|**Modeling Unknown Nonlocal PDE Systems via Flow Map Learning**|Zhongshu Xu et.al.|[2608.00400](http://arxiv.org/abs/2608.00400)|null|
@@ -197,6 +200,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection**|Nima Hatami et.al.|[2608.06205](http://arxiv.org/abs/2608.06205)|null|
+|**2026-08-06**|**Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion**|Badha Rathna Sabhapathy et.al.|[2608.05858](http://arxiv.org/abs/2608.05858)|null|
+|**2026-08-05**|**NeuroAdaptTrainer: A Fiji/ImageJ Plugin for YOLO-Based Neuron Segmentation, InteractiveCorrection and Transfer Learning**|Daniela Eraso-Casas et.al.|[2608.05226](http://arxiv.org/abs/2608.05226)|null|
+|**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
+|**2026-08-05**|**RegisterBridgeMM: A Register-Centric Framework for RGB-Infrared Object Detection**|Zian Wang et.al.|[2608.04833](http://arxiv.org/abs/2608.04833)|null|
+|**2026-08-05**|**From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline**|Shijun Ding et.al.|[2608.04769](http://arxiv.org/abs/2608.04769)|null|
+|**2026-08-05**|**FUSEP: A Multi-Center Benchmark for Diverse Tasks in Early Pregnancy Fetal Ultrasound Screening**|Bin Pu et.al.|[2608.04766](http://arxiv.org/abs/2608.04766)|null|
+|**2026-08-05**|**Simile Understanding in Text-to-Image Models: An Evaluation Framework**|Luecheng Wang et.al.|[2608.04750](http://arxiv.org/abs/2608.04750)|null|
+|**2026-08-05**|**YOLO-PVC: 2D-to-3D Consolidation of Slice-wise Detections for Volumetric Liver Tumor Localization in MRI**|Talha Waqas et.al.|[2608.04642](http://arxiv.org/abs/2608.04642)|null|
+|**2026-08-05**|**ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection**|Tiannuo Guo et.al.|[2608.04559](http://arxiv.org/abs/2608.04559)|null|
+|**2026-08-05**|**Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection**|Zijian Zhuang et.al.|[2608.04394](http://arxiv.org/abs/2608.04394)|null|
+|**2026-08-04**|**Interpretable Fuzzy Inference for UAV Target Tracking Using Bounding-Box Geometry**|Reza Ahmari et.al.|[2608.04121](http://arxiv.org/abs/2608.04121)|null|
+|**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042](http://arxiv.org/abs/2608.04042)|null|
+|**2026-08-04**|**NCGR: Noise-Conditional Gated Rectification for Camera Extrinsic Perturbations in BEV 3D Object Detection**|Wenbin Pan et.al.|[2608.03895](http://arxiv.org/abs/2608.03895)|null|
 |**2026-08-04**|**SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence**|Longji He et.al.|[2608.03728](http://arxiv.org/abs/2608.03728)|null|
 |**2026-08-04**|**Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation**|Quoc Cuong Ninh et.al.|[2608.03490](http://arxiv.org/abs/2608.03490)|null|
 |**2026-08-04**|**FreqAdapt: Frequency-Adaptive Processing for RAW Object Detection**|Hanxi Li et.al.|[2608.03385](http://arxiv.org/abs/2608.03385)|null|
@@ -210,7 +227,7 @@ layout: default
 |**2026-08-03**|**Two Sides of the Same Coin: Co-Evolving Search for Cross-Task Attacks on Vision-Language Models**|Xuanhui Lin et.al.|[2608.02137](http://arxiv.org/abs/2608.02137)|null|
 |**2026-08-03**|**Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion**|Guandi Wang et.al.|[2608.02092](http://arxiv.org/abs/2608.02092)|null|
 |**2026-08-03**|**Assessing the Benefits of Combining Advanced Deep Learning Techniques for Post-Disaster Building Damage Assessment from UAV Imagery**|Huy Quang Ung et.al.|[2608.01906](http://arxiv.org/abs/2608.01906)|null|
-|**2026-08-02**|**Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection**|Linhai Zhuo et.al.|[2608.01348](http://arxiv.org/abs/2608.01348)|null|
+|**2026-08-06**|**Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection**|Linhai Zhuo et.al.|[2608.01348](http://arxiv.org/abs/2608.01348)|null|
 |**2026-08-02**|**Beyond Symmetric Fusion: Exploiting Task-Dependent Modality Strengths for RGB-Event Small Object Detection**|Ziheng Wang et.al.|[2608.01302](http://arxiv.org/abs/2608.01302)|null|
 |**2026-08-02**|**Extended KAFR: A kinematic-adaptive paradigm for the efficient analysis of surgical video**|Huu Phong Nguyen et.al.|[2608.01058](http://arxiv.org/abs/2608.01058)|null|
 |**2026-08-01**|**Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance**|Amir Belder et.al.|[2608.00652](http://arxiv.org/abs/2608.00652)|null|
