@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -200,7 +200,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-06**|**CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection**|Nima Hatami et.al.|[2608.06205](http://arxiv.org/abs/2608.06205)|null|
+|**2026-08-07**|**SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline**|Md. Zahid Hasan Riad et.al.|[2608.07382](http://arxiv.org/abs/2608.07382)|null|
+|**2026-08-07**|**YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family**|Xu Lin et.al.|[2608.07051](http://arxiv.org/abs/2608.07051)|null|
+|**2026-08-07**|**RegionDet: A Benchmark for Region Detection Beyond Object Instances**|Liang Wan et.al.|[2608.06850](http://arxiv.org/abs/2608.06850)|null|
+|**2026-08-07**|**ECAD: Expanding Class-Agnostic Detection Beyond Thing-Centric Objectness**|Liang Wan et.al.|[2608.06841](http://arxiv.org/abs/2608.06841)|null|
+|**2026-08-07**|**Corrupting Attention: Evasion-Based Adversarial Attacks on Encoder Attention in Detection Transformers**|Ridma Jayasundara et.al.|[2608.06674](http://arxiv.org/abs/2608.06674)|null|
+|**2026-08-06**|**CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection**|Nima Hatami et.al.|[2608.06205](http://arxiv.org/abs/2608.06205)|**[link](https://github.com/NimaHatami99/CFGPNet)**|
 |**2026-08-06**|**Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion**|Badha Rathna Sabhapathy et.al.|[2608.05858](http://arxiv.org/abs/2608.05858)|null|
 |**2026-08-05**|**NeuroAdaptTrainer: A Fiji/ImageJ Plugin for YOLO-Based Neuron Segmentation, InteractiveCorrection and Transfer Learning**|Daniela Eraso-Casas et.al.|[2608.05226](http://arxiv.org/abs/2608.05226)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
@@ -208,6 +213,7 @@ layout: default
 |**2026-08-05**|**From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline**|Shijun Ding et.al.|[2608.04769](http://arxiv.org/abs/2608.04769)|null|
 |**2026-08-05**|**FUSEP: A Multi-Center Benchmark for Diverse Tasks in Early Pregnancy Fetal Ultrasound Screening**|Bin Pu et.al.|[2608.04766](http://arxiv.org/abs/2608.04766)|null|
 |**2026-08-05**|**Simile Understanding in Text-to-Image Models: An Evaluation Framework**|Luecheng Wang et.al.|[2608.04750](http://arxiv.org/abs/2608.04750)|null|
+|**2026-08-07**|**YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions**|Jinling Jia et.al.|[2608.04720](http://arxiv.org/abs/2608.04720)|null|
 |**2026-08-05**|**YOLO-PVC: 2D-to-3D Consolidation of Slice-wise Detections for Volumetric Liver Tumor Localization in MRI**|Talha Waqas et.al.|[2608.04642](http://arxiv.org/abs/2608.04642)|null|
 |**2026-08-05**|**ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection**|Tiannuo Guo et.al.|[2608.04559](http://arxiv.org/abs/2608.04559)|null|
 |**2026-08-05**|**Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection**|Zijian Zhuang et.al.|[2608.04394](http://arxiv.org/abs/2608.04394)|null|
@@ -995,6 +1001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**A Low-Latency ASIC Architecture for Real-Time Line Segment Detection**|Amir Hossein Jalilvand et.al.|[2608.06439](http://arxiv.org/abs/2608.06439)|null|
 |**2026-08-06**|**Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction**|Hongyu Zhou et.al.|[2608.06117](http://arxiv.org/abs/2608.06117)|null|
 |**2026-08-06**|**KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots**|Jixin Gao et.al.|[2608.05647](http://arxiv.org/abs/2608.05647)|null|
 |**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Jihoon Oh et.al.|[2608.05215](http://arxiv.org/abs/2608.05215)|null|

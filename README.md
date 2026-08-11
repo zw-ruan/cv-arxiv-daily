@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,13 +69,18 @@
 |**2026-06-07**|**Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature Indexing**|Luca Cirfeta et.al.|[2606.09933](http://arxiv.org/abs/2606.09933)|null|
 |**2026-06-03**|**MAD: Mapping-Aware World Models for Agile Quadrotor Flight**|Xinhong Zhang et.al.|[2606.04534](http://arxiv.org/abs/2606.04534)|null|
 |**2026-06-16**|**MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation**|Deguo Xia et.al.|[2606.04513](http://arxiv.org/abs/2606.04513)|null|
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-06**|**CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection**|Nima Hatami et.al.|[2608.06205](http://arxiv.org/abs/2608.06205)|null|
+|**2026-08-07**|**SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline**|Md. Zahid Hasan Riad et.al.|[2608.07382](http://arxiv.org/abs/2608.07382)|null|
+|**2026-08-07**|**YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family**|Xu Lin et.al.|[2608.07051](http://arxiv.org/abs/2608.07051)|null|
+|**2026-08-07**|**RegionDet: A Benchmark for Region Detection Beyond Object Instances**|Liang Wan et.al.|[2608.06850](http://arxiv.org/abs/2608.06850)|null|
+|**2026-08-07**|**ECAD: Expanding Class-Agnostic Detection Beyond Thing-Centric Objectness**|Liang Wan et.al.|[2608.06841](http://arxiv.org/abs/2608.06841)|null|
+|**2026-08-07**|**Corrupting Attention: Evasion-Based Adversarial Attacks on Encoder Attention in Detection Transformers**|Ridma Jayasundara et.al.|[2608.06674](http://arxiv.org/abs/2608.06674)|null|
+|**2026-08-06**|**CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection**|Nima Hatami et.al.|[2608.06205](http://arxiv.org/abs/2608.06205)|**[link](https://github.com/NimaHatami99/CFGPNet)**|
 |**2026-08-06**|**Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion**|Badha Rathna Sabhapathy et.al.|[2608.05858](http://arxiv.org/abs/2608.05858)|null|
 |**2026-08-05**|**NeuroAdaptTrainer: A Fiji/ImageJ Plugin for YOLO-Based Neuron Segmentation, InteractiveCorrection and Transfer Learning**|Daniela Eraso-Casas et.al.|[2608.05226](http://arxiv.org/abs/2608.05226)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
@@ -83,6 +88,7 @@
 |**2026-08-05**|**From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline**|Shijun Ding et.al.|[2608.04769](http://arxiv.org/abs/2608.04769)|null|
 |**2026-08-05**|**FUSEP: A Multi-Center Benchmark for Diverse Tasks in Early Pregnancy Fetal Ultrasound Screening**|Bin Pu et.al.|[2608.04766](http://arxiv.org/abs/2608.04766)|null|
 |**2026-08-05**|**Simile Understanding in Text-to-Image Models: An Evaluation Framework**|Luecheng Wang et.al.|[2608.04750](http://arxiv.org/abs/2608.04750)|null|
+|**2026-08-07**|**YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions**|Jinling Jia et.al.|[2608.04720](http://arxiv.org/abs/2608.04720)|null|
 |**2026-08-05**|**YOLO-PVC: 2D-to-3D Consolidation of Slice-wise Detections for Volumetric Liver Tumor Localization in MRI**|Talha Waqas et.al.|[2608.04642](http://arxiv.org/abs/2608.04642)|null|
 |**2026-08-05**|**ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection**|Tiannuo Guo et.al.|[2608.04559](http://arxiv.org/abs/2608.04559)|null|
 |**2026-08-05**|**Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection**|Zijian Zhuang et.al.|[2608.04394](http://arxiv.org/abs/2608.04394)|null|
@@ -119,18 +125,13 @@
 |**2026-07-29**|**From Keypoints to Predictive Distributions: Post-Hoc Uncertainty for YOLO-Pose Models**|Alexej Klushyn et.al.|[2607.26921](http://arxiv.org/abs/2607.26921)|null|
 |**2026-07-28**|**Image Quality Dependent Degradation for AI Systems**|Yannick Kees et.al.|[2607.25736](http://arxiv.org/abs/2607.25736)|null|
 |**2026-07-28**|**Multi-Sensor Alignment for Weather Simulations**|Samsad Alam et.al.|[2607.25612](http://arxiv.org/abs/2607.25612)|null|
-|**2026-07-28**|**Reading Legends on Ancient Coins: An Object Detection Approach for Character Recognition on a Novel Roman Republican Dataset**|Hafeez Anwar et.al.|[2607.25455](http://arxiv.org/abs/2607.25455)|null|
-|**2026-07-28**|**RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection**|Tianyu Li et.al.|[2607.25392](http://arxiv.org/abs/2607.25392)|null|
-|**2026-07-28**|**CD-RMOT-Bench: Benchmarking the Cross-Domain Referring Multi-Object Tracking**|Xiangqun Zhang et.al.|[2607.25239](http://arxiv.org/abs/2607.25239)|null|
-|**2026-07-30**|**Construction of entropy satisfying Active Flux-type methods**|Remi Abgrall et.al.|[2607.25111](http://arxiv.org/abs/2607.25111)|null|
-|**2026-07-27**|**Multimodal Semantic-Probabilistic Objectness for Open World Object Detection**|Weijun Tian et.al.|[2607.23981](http://arxiv.org/abs/2607.23981)|null|
-|**2026-07-26**|**Neuromorphic Object Detection: An In-Depth Study and Future Directions**|Jianing Li et.al.|[2607.23576](http://arxiv.org/abs/2607.23576)|null|
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**A Low-Latency ASIC Architecture for Real-Time Line Segment Detection**|Amir Hossein Jalilvand et.al.|[2608.06439](http://arxiv.org/abs/2608.06439)|null|
 |**2026-08-06**|**Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction**|Hongyu Zhou et.al.|[2608.06117](http://arxiv.org/abs/2608.06117)|null|
 |**2026-08-06**|**KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots**|Jixin Gao et.al.|[2608.05647](http://arxiv.org/abs/2608.05647)|null|
 |**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Jihoon Oh et.al.|[2608.05215](http://arxiv.org/abs/2608.05215)|null|
@@ -180,8 +181,7 @@
 |**2026-07-10**|**DGSfM: Depth-Guided Scale-Aware Global Structure-from-Motion**|Sithu Aung et.al.|[2607.09507](http://arxiv.org/abs/2607.09507)|null|
 |**2026-07-10**|**What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility**|Filippo Ziliotto et.al.|[2607.09503](http://arxiv.org/abs/2607.09503)|null|
 |**2026-07-20**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Timofei Kozlov et.al.|[2607.09260](http://arxiv.org/abs/2607.09260)|null|
-|**2026-07-10**|**Glob3R: Global Structure-from-Motion with 3D Foundation Models**|Junyuan Deng et.al.|[2607.09225](http://arxiv.org/abs/2607.09225)|null|
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
