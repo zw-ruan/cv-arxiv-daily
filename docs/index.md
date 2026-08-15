@@ -7,17 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.13
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**PseudoMapLabeler: Confidence-Aware Pseudo-Label Generation for Semi-Supervised Online Mapping**|Chikao Tsuchiya et.al.|[2608.12600](http://arxiv.org/abs/2608.12600)|null|
+|**2026-08-12**|**RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation**|Yueyuan Li et.al.|[2608.11580](http://arxiv.org/abs/2608.11580)|null|
+|**2026-08-11**|**Click2Poly: A VLM for vector mapping buildings and walls**|Nicolas Girard et.al.|[2608.11424](http://arxiv.org/abs/2608.11424)|null|
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|null|
 |**2026-08-11**|**Absolutely continuous invariant measures and the Collet-Eckmann condition for long-branched Sturmian unimodal maps**|Jorge Olivares-Vinales et.al.|[2608.10655](http://arxiv.org/abs/2608.10655)|null|
 |**2026-08-08**|**Auditing Instruction-Trajectory Mismatches in Multimodal Robot Demonstrations**|Simon Holk et.al.|[2608.07895](http://arxiv.org/abs/2608.07895)|null|
-|**2026-08-05**|**LoDA: A Level of Detection Aware Method and a Multimodal Sensing Benchmark for Object Level Change Detection**|Haitian Wang et.al.|[2608.05356](http://arxiv.org/abs/2608.05356)|null|
+|**2026-08-12**|**LoDA: A Level of Detection Aware Method and a Multimodal Sensing Benchmark for Object Level Change Detection**|Haitian Wang et.al.|[2608.05356](http://arxiv.org/abs/2608.05356)|null|
 |**2026-08-05**|**MapTCL: Temporal Consistency Learning via Bidirectional Alignment for Vectorized HD Map Construction**|Hyeonseo Kim et.al.|[2608.05209](http://arxiv.org/abs/2608.05209)|null|
 |**2026-08-05**|**TwinIR: Coordinated Invisible Dual-Point Attacks on Online HD Map Construction**|Haibo Hu et.al.|[2608.04453](http://arxiv.org/abs/2608.04453)|null|
 |**2026-08-02**|**Driver2Map: Imitating Human Driving for Online High-Definition Map Construction**|Pan Yin et.al.|[2608.01338](http://arxiv.org/abs/2608.01338)|null|
@@ -47,9 +50,9 @@ layout: default
 |**2026-06-30**|**GaussianMap: Learning Gaussian Representation for Multi-Sensor Online HD Map Construction**|Hongyu Lyu et.al.|[2606.31177](http://arxiv.org/abs/2606.31177)|null|
 |**2026-06-29**|**Active Learning for Channel Knowledge Map Construction via Bayesian Inference Diffusion Models**|Yunzhe Zhu et.al.|[2606.29862](http://arxiv.org/abs/2606.29862)|null|
 |**2026-06-26**|**RPM-Distill: Physiology-guided Adaptive Cross-modal Distillation for Robust Remote Physiological Measurement**|Jiyao Wang et.al.|[2606.28089](http://arxiv.org/abs/2606.28089)|null|
-|**2026-06-26**|**Coarse-to-Fine: A Hybrid Self-Supervised Method for Non-rigid 3D Shape Matching**|Feifan Luo et.al.|[2606.26557](http://arxiv.org/abs/2606.26557)|null|
+|**2026-06-26**|**Coarse-to-Fine: A Hybrid Self-Supervised Method for Non-rigid 3D Shape Matching**|Feifan Luo et.al.|[2606.26557](http://arxiv.org/abs/2606.26557)|**[link](https://github.com/LuoFeifan77/Coarse-to-Fine-Hybrid-Self-Supervised-Matching)**|
 |**2026-06-23**|**AerialFusionMapNet: Online HD Map Construction with Aerial-Onboard BEV Fusion**|Daniel Lengerer et.al.|[2606.24784](http://arxiv.org/abs/2606.24784)|null|
-|**2026-06-22**|**Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views**|Jiho Choi et.al.|[2606.23557](http://arxiv.org/abs/2606.23557)|null|
+|**2026-06-22**|**Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views**|Jiho Choi et.al.|[2606.23557](http://arxiv.org/abs/2606.23557)|**[link](https://github.com/kaist-cvml/DR-MV3D)**|
 |**2026-06-22**|**Measuring Behavior Portability in Large Language Models**|Tianjia Dong et.al.|[2606.22797](http://arxiv.org/abs/2606.22797)|null|
 |**2026-06-17**|**D2HDMap: Non-visible Driveline Map Prior for Online Vectorized HD Map Prediction**|Seojun Shon et.al.|[2606.20725](http://arxiv.org/abs/2606.20725)|null|
 |**2026-06-18**|**Route-Constrained Robust Fusion Estimation for MEMS/GNSS Integrated Navigation of Unmanned Ground Vehicles in GNSS Degraded Environments**|Jingzhi Cui et.al.|[2606.19687](http://arxiv.org/abs/2606.19687)|null|
@@ -203,6 +206,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage**|Christos Chatzisavvas et.al.|[2608.13343](http://arxiv.org/abs/2608.13343)|null|
+|**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
+|**2026-08-13**|**P2Fusion: Prompt-based Progressive Infrared-Visible Image Fusion via Dual-Prior Distillation**|Yi Shi et.al.|[2608.13045](http://arxiv.org/abs/2608.13045)|null|
+|**2026-08-13**|**Towards Sparsely Annotated Open-World Object Detection**|HeeJu Han et.al.|[2608.12714](http://arxiv.org/abs/2608.12714)|null|
+|**2026-08-13**|**Class Geometry as Supervision for Sample-Efficient Open-World Detection**|Akash Rao et.al.|[2608.12698](http://arxiv.org/abs/2608.12698)|null|
+|**2026-08-13**|**The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis**|Danial Sharifrazi et.al.|[2608.12677](http://arxiv.org/abs/2608.12677)|null|
+|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|null|
+|**2026-08-12**|**Do Not Forget the Obvious - RISC: A Risk-Informed Slice-Coverage Protocol for Safe Autonomous Driving**|Fabian Hüger et.al.|[2608.12051](http://arxiv.org/abs/2608.12051)|null|
+|**2026-08-12**|**EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection**|Cunzheng Fan et.al.|[2608.11685](http://arxiv.org/abs/2608.11685)|null|
+|**2026-08-12**|**Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming**|Hossein Khalili et.al.|[2608.11645](http://arxiv.org/abs/2608.11645)|null|
+|**2026-08-12**|**ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection**|Xiangqi Chen et.al.|[2608.11595](http://arxiv.org/abs/2608.11595)|null|
+|**2026-08-12**|**A Hybrid Framework of Vision Transformer and Gated Recurrent Unit for Detection of Mosquito Diseases**|Danial Sharifrazi et.al.|[2608.11582](http://arxiv.org/abs/2608.11582)|null|
 |**2026-08-11**|**Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection**|Huafeng Chen et.al.|[2608.11135](http://arxiv.org/abs/2608.11135)|null|
 |**2026-08-11**|**A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa**|Ismail Ismail Tijjani et.al.|[2608.11053](http://arxiv.org/abs/2608.11053)|null|
 |**2026-08-11**|**Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers**|Hongsen Cao et.al.|[2608.10989](http://arxiv.org/abs/2608.10989)|null|
@@ -1025,6 +1040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis**|Sanjay Bhargav Dharavath et.al.|[2608.12442](http://arxiv.org/abs/2608.12442)|null|
 |**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620](http://arxiv.org/abs/2608.09620)|null|
 |**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|null|
 |**2026-08-10**|**ROEVO: Robust Organized Edge Feature-based Visual Odometry Using RGB-D Cameras**|Mingrui Liu et.al.|[2608.09112](http://arxiv.org/abs/2608.09112)|null|
