@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.21
+## Updated on 2026.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,12 +69,14 @@
 |**2026-06-14**|**ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation**|Marwan Farag et.al.|[2606.15930](http://arxiv.org/abs/2606.15930)|null|
 |**2026-06-14**|**Amortized mean-shift interacting particles**|Ali Siahkoohi et.al.|[2606.15871](http://arxiv.org/abs/2606.15871)|null|
 |**2026-06-14**|**Toward the Whole Picture: Accumulative Fingerprint Mapping and Reconstruction for Small-Area Mobile Sensors**|Xiongjun Guan et.al.|[2606.15574](http://arxiv.org/abs/2606.15574)|null|
-<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training**|Shangbo Yuan et.al.|[2608.19973](http://arxiv.org/abs/2608.19973)|null|
+|**2026-08-19**|**CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios**|Sparsh Garg et.al.|[2608.19380](http://arxiv.org/abs/2608.19380)|null|
 |**2026-08-19**|**Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift**|Longtian Wang et.al.|[2608.19088](http://arxiv.org/abs/2608.19088)|null|
 |**2026-08-19**|**SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection**|Changshun Wu et.al.|[2608.19080](http://arxiv.org/abs/2608.19080)|null|
 |**2026-08-19**|**SED-FOD: Scattering-Aware Expert Decomposition for Few-Shot Cross-Sensor SAR Object Detection**|Shu Yang et.al.|[2608.18755](http://arxiv.org/abs/2608.18755)|null|
@@ -103,7 +105,7 @@
 |**2026-08-13**|**Towards Sparsely Annotated Open-World Object Detection**|HeeJu Han et.al.|[2608.12714](http://arxiv.org/abs/2608.12714)|null|
 |**2026-08-13**|**Class Geometry as Supervision for Sample-Efficient Open-World Detection**|Akash Rao et.al.|[2608.12698](http://arxiv.org/abs/2608.12698)|null|
 |**2026-08-13**|**The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis**|Danial Sharifrazi et.al.|[2608.12677](http://arxiv.org/abs/2608.12677)|null|
-|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|null|
+|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|**[link](https://github.com/cvg/Map-Det3D)**|
 |**2026-08-12**|**Do Not Forget the Obvious - RISC: A Risk-Informed Slice-Coverage Protocol for Safe Autonomous Driving**|Fabian Hüger et.al.|[2608.12051](http://arxiv.org/abs/2608.12051)|null|
 |**2026-08-12**|**EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection**|Cunzheng Fan et.al.|[2608.11685](http://arxiv.org/abs/2608.11685)|null|
 |**2026-08-12**|**Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming**|Hossein Khalili et.al.|[2608.11645](http://arxiv.org/abs/2608.11645)|null|
@@ -123,14 +125,13 @@
 |**2026-08-16**|**Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration**|Xinkai Lu et.al.|[2608.09311](http://arxiv.org/abs/2608.09311)|null|
 |**2026-08-10**|**RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection**|Zhihao Zhang et.al.|[2608.09147](http://arxiv.org/abs/2608.09147)|null|
 |**2026-08-09**|**Integrated Multimodal AI System for Retrieval-Augmented Reasoning, Object Sensing, and Damage Analysis**|Kalelo Dukuray et.al.|[2608.08935](http://arxiv.org/abs/2608.08935)|null|
-|**2026-08-09**|**Zero-Shot Traffic Accident Detection via a Coarse-to-Fine VLM-Tracking Pipeline**|Dipit Saha et.al.|[2608.08867](http://arxiv.org/abs/2608.08867)|null|
-|**2026-08-09**|**Anchor-Based AI Approach for Pre-Crash Object Detection Utilizing Micro-Doppler Signatures in Automotive Radar**|Patrick Zaumseil et.al.|[2608.08701](http://arxiv.org/abs/2608.08701)|null|
-<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
 |**2026-08-19**|**LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding**|Yumin Lee et.al.|[2608.19059](http://arxiv.org/abs/2608.19059)|null|
 |**2026-08-19**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|null|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|null|
@@ -180,8 +181,7 @@
 |**2026-07-20**|**Ergodicity of FIRE: star formation variations within and between simulated galaxies**|Fraser M. Smith et.al.|[2607.18005](http://arxiv.org/abs/2607.18005)|null|
 |**2026-07-20**|**Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling**|Michael M. Bilevich et.al.|[2607.17852](http://arxiv.org/abs/2607.17852)|null|
 |**2026-07-20**|**SLAM in Low-Light Environments: Project Report**|Oleh Basystyi et.al.|[2607.17699](http://arxiv.org/abs/2607.17699)|null|
-|**2026-07-20**|**Toward Site-Aware MR Art Exhibitions: A SLAM-Based Deployment Pipeline for Spatial Coherence and Exhibition Experience**|Yawei Zhao et.al.|[2607.17665](http://arxiv.org/abs/2607.17665)|null|
-<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

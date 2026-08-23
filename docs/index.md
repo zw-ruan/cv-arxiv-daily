@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.21
+## Updated on 2026.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -209,6 +209,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training**|Shangbo Yuan et.al.|[2608.19973](http://arxiv.org/abs/2608.19973)|null|
+|**2026-08-19**|**CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios**|Sparsh Garg et.al.|[2608.19380](http://arxiv.org/abs/2608.19380)|null|
 |**2026-08-19**|**Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift**|Longtian Wang et.al.|[2608.19088](http://arxiv.org/abs/2608.19088)|null|
 |**2026-08-19**|**SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection**|Changshun Wu et.al.|[2608.19080](http://arxiv.org/abs/2608.19080)|null|
 |**2026-08-19**|**SED-FOD: Scattering-Aware Expert Decomposition for Few-Shot Cross-Sensor SAR Object Detection**|Shu Yang et.al.|[2608.18755](http://arxiv.org/abs/2608.18755)|null|
@@ -237,7 +239,7 @@ layout: default
 |**2026-08-13**|**Towards Sparsely Annotated Open-World Object Detection**|HeeJu Han et.al.|[2608.12714](http://arxiv.org/abs/2608.12714)|null|
 |**2026-08-13**|**Class Geometry as Supervision for Sample-Efficient Open-World Detection**|Akash Rao et.al.|[2608.12698](http://arxiv.org/abs/2608.12698)|null|
 |**2026-08-13**|**The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis**|Danial Sharifrazi et.al.|[2608.12677](http://arxiv.org/abs/2608.12677)|null|
-|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|null|
+|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|**[link](https://github.com/cvg/Map-Det3D)**|
 |**2026-08-12**|**Do Not Forget the Obvious - RISC: A Risk-Informed Slice-Coverage Protocol for Safe Autonomous Driving**|Fabian Hüger et.al.|[2608.12051](http://arxiv.org/abs/2608.12051)|null|
 |**2026-08-12**|**EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection**|Cunzheng Fan et.al.|[2608.11685](http://arxiv.org/abs/2608.11685)|null|
 |**2026-08-12**|**Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming**|Hossein Khalili et.al.|[2608.11645](http://arxiv.org/abs/2608.11645)|null|
@@ -1065,6 +1067,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
 |**2026-08-19**|**LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding**|Yumin Lee et.al.|[2608.19059](http://arxiv.org/abs/2608.19059)|null|
 |**2026-08-19**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|null|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|null|
