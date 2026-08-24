@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-06-14**|**ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation**|Marwan Farag et.al.|[2606.15930](http://arxiv.org/abs/2606.15930)|null|
 |**2026-06-14**|**Amortized mean-shift interacting particles**|Ali Siahkoohi et.al.|[2606.15871](http://arxiv.org/abs/2606.15871)|null|
 |**2026-06-14**|**Toward the Whole Picture: Accumulative Fingerprint Mapping and Reconstruction for Small-Area Mobile Sensors**|Xiongjun Guan et.al.|[2606.15574](http://arxiv.org/abs/2606.15574)|null|
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-08-16**|**Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration**|Xinkai Lu et.al.|[2608.09311](http://arxiv.org/abs/2608.09311)|null|
 |**2026-08-10**|**RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection**|Zhihao Zhang et.al.|[2608.09147](http://arxiv.org/abs/2608.09147)|null|
 |**2026-08-09**|**Integrated Multimodal AI System for Retrieval-Augmented Reasoning, Object Sensing, and Damage Analysis**|Kalelo Dukuray et.al.|[2608.08935](http://arxiv.org/abs/2608.08935)|null|
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-07-20**|**Ergodicity of FIRE: star formation variations within and between simulated galaxies**|Fraser M. Smith et.al.|[2607.18005](http://arxiv.org/abs/2607.18005)|null|
 |**2026-07-20**|**Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling**|Michael M. Bilevich et.al.|[2607.17852](http://arxiv.org/abs/2607.17852)|null|
 |**2026-07-20**|**SLAM in Low-Light Environments: Project Report**|Oleh Basystyi et.al.|[2607.17699](http://arxiv.org/abs/2607.17699)|null|
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
