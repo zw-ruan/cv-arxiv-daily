@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.01
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,10 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
+|**2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Stefan Ramdhan et.al.|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
+|**2026-08-31**|**What Emerges and What Breaks in Self-Play Driving**|Laur Sisask et.al.|[2608.30819](http://arxiv.org/abs/2608.30819)|null|
 |**2026-08-26**|**Quasi two dimensional magnetic structure of the triclinic double perovskite Ca $_2$CuWO$_6$**|Bangye Qin et.al.|[2608.25778](http://arxiv.org/abs/2608.25778)|null|
 |**2026-08-18**|**Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics**|Ran Chen et.al.|[2608.21440](http://arxiv.org/abs/2608.21440)|null|
-|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|null|
-|**2026-08-17**|**Towards Real-Time and Adaptable LiDAR Scene Completion**|Azhar Hussian et.al.|[2608.16490](http://arxiv.org/abs/2608.16490)|null|
+|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://github.com/Li00147/SPVC)**|
+|**2026-08-17**|**Towards Real-Time and Adaptable LiDAR Scene Completion**|Azhar Hussian et.al.|[2608.16490](http://arxiv.org/abs/2608.16490)|**[link](https://github.com/AzharSindhi/RapidLiDAR)**|
 |**2026-08-17**|**RadioVIL: Anomaly-Aware Diffusion Models for Radio Map Inpainting and Zero-Shot Vehicle Localization**|Ruixin Zhao et.al.|[2608.16167](http://arxiv.org/abs/2608.16167)|null|
 |**2026-08-12**|**PseudoMapLabeler: Confidence-Aware Pseudo-Label Generation for Semi-Supervised Online Mapping**|Chikao Tsuchiya et.al.|[2608.12600](http://arxiv.org/abs/2608.12600)|null|
 |**2026-08-12**|**RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation**|Yueyuan Li et.al.|[2608.11580](http://arxiv.org/abs/2608.11580)|null|
@@ -53,7 +56,7 @@
 |**2026-07-05**|**Agentic-V2X: Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G/6G Networks**|Gerasimos Papanikolaou-Ntais et.al.|[2607.04290](http://arxiv.org/abs/2607.04290)|null|
 |**2026-07-03**|**CSympNet-ID: conformal-symplectic map learning for linearly damped Hamiltonian systems**|Jiale Gong et.al.|[2607.03339](http://arxiv.org/abs/2607.03339)|null|
 |**2026-07-02**|**CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation**|Haokun Liu et.al.|[2607.02222](http://arxiv.org/abs/2607.02222)|null|
-|**2026-07-02**|**Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion**|Lizhou Liu et.al.|[2607.01777](http://arxiv.org/abs/2607.01777)|null|
+|**2026-08-31**|**Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion**|Lizhou Liu et.al.|[2607.01777](http://arxiv.org/abs/2607.01777)|null|
 |**2026-07-01**|**MapDreamer: Aerial Imagery Conditioned Latent Diffusion for Lane-Level Map Generation**|Julian Brandes et.al.|[2607.01370](http://arxiv.org/abs/2607.01370)|null|
 |**2026-07-01**|**SD-RouteFusion: Ego-Trajectory Prediction with SD-Map Route Conditioning**|Sviatoslav Voloshyn et.al.|[2607.01139](http://arxiv.org/abs/2607.01139)|null|
 |**2026-07-01**|**A Text-Steerable Instrument for Sketching Procedural Soundscapes via Language Models**|Prabal Gupta et.al.|[2607.00309](http://arxiv.org/abs/2607.00309)|null|
@@ -66,17 +69,31 @@
 |**2026-06-22**|**Measuring Behavior Portability in Large Language Models**|Tianjia Dong et.al.|[2606.22797](http://arxiv.org/abs/2606.22797)|null|
 |**2026-06-17**|**D2HDMap: Non-visible Driveline Map Prior for Online Vectorized HD Map Prediction**|Seojun Shon et.al.|[2606.20725](http://arxiv.org/abs/2606.20725)|null|
 |**2026-06-18**|**Route-Constrained Robust Fusion Estimation for MEMS/GNSS Integrated Navigation of Unmanned Ground Vehicles in GNSS Degraded Environments**|Jingzhi Cui et.al.|[2606.19687](http://arxiv.org/abs/2606.19687)|null|
-|**2026-06-16**|**OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation**|Zijie Meng et.al.|[2606.17536](http://arxiv.org/abs/2606.17536)|null|
-|**2026-06-11**|**HRDX: A Large-Scale Vector HD-Map Dataset**|Sahith Reddy Chada et.al.|[2606.17080](http://arxiv.org/abs/2606.17080)|null|
-|**2026-06-14**|**ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation**|Marwan Farag et.al.|[2606.15930](http://arxiv.org/abs/2606.15930)|null|
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation**|Seung-Hyun Song et.al.|[2609.02560](http://arxiv.org/abs/2609.02560)|null|
+|**2026-09-02**|**Information Density Imbalance in Visual Object Detection**|Ziwei Zhao et.al.|[2609.02369](http://arxiv.org/abs/2609.02369)|null|
+|**2026-09-02**|**Domain shift-robust object detection with GenAI image editing**|Isabel D. Stein et.al.|[2609.02299](http://arxiv.org/abs/2609.02299)|null|
+|**2026-09-02**|**If It Moves, Radar Knows: A Physics-Aware Radar Transformer for Class-Agnostic Moving-Object Detection**|Yinghao Sun et.al.|[2609.02289](http://arxiv.org/abs/2609.02289)|null|
+|**2026-09-02**|**Hardware-Accelerated Instance Segmentation for Resource-Constrained Space Robotics with Criticality Analysis**|Siddhant Shete et.al.|[2609.02219](http://arxiv.org/abs/2609.02219)|null|
+|**2026-09-01**|**DESA-TTA: Dynamic EMA and Source Anchoring for Test-Time Adaptation**|Atif Belal et.al.|[2609.01795](http://arxiv.org/abs/2609.01795)|null|
+|**2026-09-01**|**CoViT: Instance-Correspondence Contrastive Learning for Vision Transformer**|Yisen Wang et.al.|[2609.01787](http://arxiv.org/abs/2609.01787)|null|
+|**2026-09-01**|**UAV Thermal Imagery for Inert Ordnance Screening: Multi Campaign Dataset Development,Object Detection, and Practical Recommendations**|Chad Melton et.al.|[2609.01738](http://arxiv.org/abs/2609.01738)|null|
+|**2026-09-01**|**Vision-Based Leader-Follower Formation Control for Cooperative UAVs in GPS-Degraded Environments**|Deekshitha Angadi et.al.|[2609.01420](http://arxiv.org/abs/2609.01420)|null|
+|**2026-09-01**|**The fraction of clumpy star-forming galaxies in nearby galaxies from CLAUDS and HSC-SSP**|Jürgen J. Popp et.al.|[2609.01152](http://arxiv.org/abs/2609.01152)|null|
+|**2026-09-01**|**RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing**|Kaiyue Kang et.al.|[2609.00814](http://arxiv.org/abs/2609.00814)|null|
+|**2026-08-31**|**Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving**|Xin Zhou et.al.|[2609.00111](http://arxiv.org/abs/2609.00111)|null|
+|**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074](http://arxiv.org/abs/2608.31074)|null|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821](http://arxiv.org/abs/2608.30821)|null|
+|**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817](http://arxiv.org/abs/2608.30817)|null|
+|**2026-08-31**|**RailGen: Improving Railway Intrusion Detection via Agent-Guided Small-Scale Foreign Object Generation**|Quan Hao et.al.|[2608.30727](http://arxiv.org/abs/2608.30727)|null|
+|**2026-08-31**|**RailSyn: Diagnosis-Guided Image Generation for Traceable Data Completion in Railway Foreign Object Detection**|Quan Hao et.al.|[2608.30709](http://arxiv.org/abs/2608.30709)|null|
 |**2026-08-31**|**Real-Time Scene-Adaptive Tone Mapping for High-Dynamic Range Object Detection**|Gongzhe Li et.al.|[2608.30400](http://arxiv.org/abs/2608.30400)|null|
-|**2026-08-31**|**Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum**|Avi Gupta et.al.|[2608.30355](http://arxiv.org/abs/2608.30355)|null|
+|**2026-08-31**|**Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum**|Avi Gupta et.al.|[2608.30355](http://arxiv.org/abs/2608.30355)|**[link](https://github.com/avigupta2798/MSFormer)**|
 |**2026-08-30**|**A Lightweight Phenology-Aware YOLOv5 Framework for Tomato Growth Stage Detection in Resource-Constrained Bhutanese Greenhouse Environments**|Sherab Gocha et.al.|[2608.30088](http://arxiv.org/abs/2608.30088)|null|
 |**2026-08-30**|**SynCrash: A Multi-Stage Pipeline for Zero-Shot Accident Detection and Localization in Traffic Surveillance Video**|Arkya Jyoti Bagchi et.al.|[2608.29759](http://arxiv.org/abs/2608.29759)|null|
 |**2026-08-30**|**SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images**|Yi Xu et.al.|[2608.29626](http://arxiv.org/abs/2608.29626)|null|
@@ -108,29 +125,18 @@
 |**2026-08-25**|**SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions**|Yicheng Zhu et.al.|[2608.24094](http://arxiv.org/abs/2608.24094)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**ROI-Gated SAHI: Content-Adaptive Slicing-Based Inference for Efficient Object Detection**|Rashid Riyadh et.al.|[2608.23923](http://arxiv.org/abs/2608.23923)|null|
-|**2026-08-23**|**Cross-Generation Optimization of YOLOv26, YOLOv11, and YOLOv8 for Fine-Grained Small-Object Detection and Instance Segmentation in Complex Orchards**|Ranjan Sapkota et.al.|[2608.23636](http://arxiv.org/abs/2608.23636)|null|
-|**2026-08-24**|**An Energy-Proportional Multimodal and Context-Aware Vision IoT Node**|Julian Moosmann et.al.|[2608.23192](http://arxiv.org/abs/2608.23192)|null|
-|**2026-08-24**|**A Cosmic Muon Tomography System with Machine Learning based Momentum Measurement for Multi-Object Reconstruction and Material Characterization**|Bharat Kumar Sirasva et.al.|[2608.23141](http://arxiv.org/abs/2608.23141)|null|
-|**2026-08-24**|**Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning**|Simon Hakenes et.al.|[2608.23055](http://arxiv.org/abs/2608.23055)|null|
-|**2026-08-24**|**Hyperbolic Hierarchical Clustering for Visual Representation Learning**|Jianan Wei et.al.|[2608.22665](http://arxiv.org/abs/2608.22665)|null|
-|**2026-08-23**|**DiD It in 87 Minutes: A Label-Free Softmax-to-Linear Adaptation of Vision Transformers for Object Detection**|Huaiyuan Qin et.al.|[2608.22368](http://arxiv.org/abs/2608.22368)|null|
-|**2026-08-22**|**Spiking Neural Networks for Energy-Efficient Object Detection in Forward-Looking Sonar Imagery**|Gwenevere Frank et.al.|[2608.22072](http://arxiv.org/abs/2608.22072)|null|
-|**2026-08-22**|**C $^2$ Path: Class-Conditional Pathway Decoupling for Vision-Language Incremental Object Detection**|Lecheng Xu et.al.|[2608.21937](http://arxiv.org/abs/2608.21937)|null|
-|**2026-08-21**|**Radio Galaxies detection and characterization using deep learning techniques**|Sanjay Khatik et.al.|[2608.21474](http://arxiv.org/abs/2608.21474)|null|
-|**2026-08-20**|**FigmaTrace: Capturing Creative Nuances in Human Figma Design Workflows**|Darshan Deshpande et.al.|[2608.21460](http://arxiv.org/abs/2608.21460)|null|
-|**2026-08-20**|**CLSC DETR: Reliable Candidate Ranking via Cross Layer Geometric Support for UAV Small Object Detection**|Junyan Lin et.al.|[2608.21457](http://arxiv.org/abs/2608.21457)|null|
-|**2026-08-21**|**On the Transferability of Agricultural Weed Detection Under Cross-Field Distribution Shift**|Nikhilesh Prabhakar et.al.|[2608.21254](http://arxiv.org/abs/2608.21254)|null|
-|**2026-08-24**|**Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds**|Lars Benedikt Kaesberg et.al.|[2608.21170](http://arxiv.org/abs/2608.21170)|null|
-|**2026-08-21**|**A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans**|Simon Vincent Abel et.al.|[2608.21140](http://arxiv.org/abs/2608.21140)|null|
-|**2026-08-21**|**A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration**|Jiekang Feng et.al.|[2608.21099](http://arxiv.org/abs/2608.21099)|null|
-|**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066](http://arxiv.org/abs/2608.21066)|null|
-|**2026-08-21**|**PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration**|Chen-Yu Lin et.al.|[2608.21031](http://arxiv.org/abs/2608.21031)|null|
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Inside-out growth and the kiloparsec-scale star formation main sequence for low-surface-brightness disk galaxies in MaNGA**|Bing-qing Zhang et.al.|[2609.02378](http://arxiv.org/abs/2609.02378)|null|
+|**2026-09-01**|**TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views**|Skanda Koppula et.al.|[2609.01899](http://arxiv.org/abs/2609.01899)|null|
+|**2026-09-01**|**Linking neutral gas inflows and outflows to offsets in the star-forming main sequence and mass-metallicity relation**|S. Weng et.al.|[2609.01707](http://arxiv.org/abs/2609.01707)|null|
+|**2026-09-01**|**Monocular Depth Estimation from a Single Image: Progress and Opportunities**|Muxin Liu et.al.|[2609.01172](http://arxiv.org/abs/2609.01172)|null|
+|**2026-09-01**|**VOIM: Training-Free Open-Vocabulary 3D Instance Mapping for RGB-D and Monocular SLAM**|Sangmin Song et.al.|[2609.00775](http://arxiv.org/abs/2609.00775)|null|
+|**2026-08-31**|**Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions**|Abhay Skaria Thomas et.al.|[2608.30690](http://arxiv.org/abs/2608.30690)|null|
 |**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927](http://arxiv.org/abs/2608.29927)|null|
 |**2026-08-30**|**XDG: Accelerated Visual Disambiguation**|Gonglin Chen et.al.|[2608.29733](http://arxiv.org/abs/2608.29733)|null|
 |**2026-08-29**|**Ground-to-Satellite Localization in Unconstrained Image Collections for 3D Scene Reconstruction**|Angel Daruna et.al.|[2608.29211](http://arxiv.org/abs/2608.29211)|null|
@@ -175,13 +181,7 @@
 |**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027](http://arxiv.org/abs/2608.14027)|null|
 |**2026-08-14**|**MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis**|Sanjay Bhargav Dharavath et.al.|[2608.12442](http://arxiv.org/abs/2608.12442)|null|
 |**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620](http://arxiv.org/abs/2608.09620)|null|
-|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|null|
-|**2026-08-10**|**ROEVO: Robust Organized Edge Feature-based Visual Odometry Using RGB-D Cameras**|Mingrui Liu et.al.|[2608.09112](http://arxiv.org/abs/2608.09112)|null|
-|**2026-08-09**|**EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition**|Nuo Chen et.al.|[2608.08949](http://arxiv.org/abs/2608.08949)|null|
-|**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|null|
-|**2026-08-06**|**A Low-Latency ASIC Architecture for Real-Time Line Segment Detection**|Amir Hossein Jalilvand et.al.|[2608.06439](http://arxiv.org/abs/2608.06439)|null|
-|**2026-08-06**|**Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction**|Hongyu Zhou et.al.|[2608.06117](http://arxiv.org/abs/2608.06117)|null|
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
