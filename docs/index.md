@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.05
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -20,7 +20,7 @@ layout: default
 |**2026-08-26**|**Quasi two dimensional magnetic structure of the triclinic double perovskite Ca $_2$CuWO$_6$**|Bangye Qin et.al.|[2608.25778](http://arxiv.org/abs/2608.25778)|null|
 |**2026-08-18**|**Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics**|Ran Chen et.al.|[2608.21440](http://arxiv.org/abs/2608.21440)|null|
 |**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://github.com/Li00147/SPVC)**|
-|**2026-08-17**|**Towards Real-Time and Adaptable LiDAR Scene Completion**|Azhar Hussian et.al.|[2608.16490](http://arxiv.org/abs/2608.16490)|null|
+|**2026-08-17**|**Towards Real-Time and Adaptable LiDAR Scene Completion**|Azhar Hussian et.al.|[2608.16490](http://arxiv.org/abs/2608.16490)|**[link](https://github.com/AzharSindhi/RapidLiDAR)**|
 |**2026-08-17**|**RadioVIL: Anomaly-Aware Diffusion Models for Radio Map Inpainting and Zero-Shot Vehicle Localization**|Ruixin Zhao et.al.|[2608.16167](http://arxiv.org/abs/2608.16167)|null|
 |**2026-08-12**|**PseudoMapLabeler: Confidence-Aware Pseudo-Label Generation for Semi-Supervised Online Mapping**|Chikao Tsuchiya et.al.|[2608.12600](http://arxiv.org/abs/2608.12600)|null|
 |**2026-08-12**|**RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation**|Yueyuan Li et.al.|[2608.11580](http://arxiv.org/abs/2608.11580)|null|
@@ -214,8 +214,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](http://arxiv.org/abs/2609.05323)|null|
+|**2026-09-04**|**Efficient Multi-Timescale Event Representations for Feed-Forward Object Detection**|Fredrik Lundell et.al.|[2609.05049](http://arxiv.org/abs/2609.05049)|null|
+|**2026-09-04**|**Task-oriented Framework for Communication-Efficient Federated Learning: From Isolated Optimization to Holistic Synergy**|Fuqiang Pan et.al.|[2609.04945](http://arxiv.org/abs/2609.04945)|null|
+|**2026-09-04**|**SimFuse3D: Source-Guided Target Simulation and Confidence-Guided Multi-Stage Localization Reweighting for Cross-Platform 3D Object Detection**|Yongchun Lin et.al.|[2609.04886](http://arxiv.org/abs/2609.04886)|null|
+|**2026-09-03**|**Object Concepts Emerge from Motion**|Boshi Li et.al.|[2609.04348](http://arxiv.org/abs/2609.04348)|null|
+|**2026-09-03**|**Supernova microlensing as a probe of ultracompact minihalos and primordial cosmology**|Djuna Croon et.al.|[2609.04308](http://arxiv.org/abs/2609.04308)|null|
 |**2026-09-03**|**A hybrid pipeline for dynamic ontology-based semantic mapping**|Konstantinos Dimitropoulos et.al.|[2609.03891](http://arxiv.org/abs/2609.03891)|null|
-|**2026-09-03**|**Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language**|Julian Truetsch et.al.|[2609.03677](http://arxiv.org/abs/2609.03677)|**[link](https://github.com/KIT-MRT/AD-Diff)**|
+|**2026-09-03**|**Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language**|Julian Truetsch et.al.|[2609.03677](http://arxiv.org/abs/2609.03677)|null|
 |**2026-09-03**|**Residual Optimal Transport-Based Experts Collaboration Towards Modality-Aware Infrared-Visible Object Detection**|Yue Zhao et.al.|[2609.03516](http://arxiv.org/abs/2609.03516)|null|
 |**2026-09-03**|**When Depth Hurts: Reliability-Aware Geometry Distillation for Depth-Free RGB-D Salient Object Detection**|Xuehao Wang et.al.|[2609.03378](http://arxiv.org/abs/2609.03378)|null|
 |**2026-09-02**|**Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation**|Seung-Hyun Song et.al.|[2609.02560](http://arxiv.org/abs/2609.02560)|null|
@@ -1148,6 +1154,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement**|Kun Hu et.al.|[2609.05325](http://arxiv.org/abs/2609.05325)|null|
+|**2026-09-04**|**BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors**|Vincent Leroy et.al.|[2609.05210](http://arxiv.org/abs/2609.05210)|null|
+|**2026-09-04**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Tianyidan Xie et.al.|[2609.04802](http://arxiv.org/abs/2609.04802)|null|
+|**2026-09-04**|**HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction**|Ziding Zhao et.al.|[2609.04718](http://arxiv.org/abs/2609.04718)|null|
 |**2026-09-03**|**A hybrid pipeline for dynamic ontology-based semantic mapping**|Konstantinos Dimitropoulos et.al.|[2609.03891](http://arxiv.org/abs/2609.03891)|null|
 |**2026-09-03**|**A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement**|SeyedMohammadAmin Nabi Pour et.al.|[2609.03794](http://arxiv.org/abs/2609.03794)|null|
 |**2026-09-03**|**RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback**|Gabriel Manuel Garcia et.al.|[2609.03720](http://arxiv.org/abs/2609.03720)|null|
