@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.11
+## Updated on 2026.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-06-26**|**RPM-Distill: Physiology-guided Adaptive Cross-modal Distillation for Robust Remote Physiological Measurement**|Jiyao Wang et.al.|[2606.28089](http://arxiv.org/abs/2606.28089)|null|
 |**2026-06-26**|**Coarse-to-Fine: A Hybrid Self-Supervised Method for Non-rigid 3D Shape Matching**|Feifan Luo et.al.|[2606.26557](http://arxiv.org/abs/2606.26557)|null|
 |**2026-06-23**|**AerialFusionMapNet: Online HD Map Construction with Aerial-Onboard BEV Fusion**|Daniel Lengerer et.al.|[2606.24784](http://arxiv.org/abs/2606.24784)|null|
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-09-01**|**RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing**|Kaiyue Kang et.al.|[2609.00814](http://arxiv.org/abs/2609.00814)|null|
 |**2026-08-31**|**Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving**|Xin Zhou et.al.|[2609.00111](http://arxiv.org/abs/2609.00111)|null|
 |**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074](http://arxiv.org/abs/2608.31074)|null|
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-08-21**|**3D Point Cloud from Close-Range Photogrammetry for Defect Characterisation of Rubberised Concrete**|Jiacheng Liu et.al.|[2608.21468](http://arxiv.org/abs/2608.21468)|null|
 |**2026-08-11**|**Social Graph Mamba: Forecasting Pedestrian Movements Based on Social Context**|Hong-Son Nguyen et.al.|[2608.21411](http://arxiv.org/abs/2608.21411)|null|
 |**2026-08-20**|**RIPE++: Reinforced Keypoint Learning from Positive Pairs Only**|Johannes Künzel et.al.|[2608.19693](http://arxiv.org/abs/2608.19693)|null|
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
