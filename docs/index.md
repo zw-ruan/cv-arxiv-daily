@@ -7,20 +7,24 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.17
+## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher**|Damiano Da Col et.al.|[2609.20756](http://arxiv.org/abs/2609.20756)|null|
+|**2026-07-31**|**Implementation of Tightly-Coupled SLAM Fusion of GPS, IMU, and LiDAR for Autonomous Vehicles**|Amr O. Elmehrath et.al.|[2609.20321](http://arxiv.org/abs/2609.20321)|null|
+|**2026-09-16**|**Dynamic-LIVO: A Dynamic-Aware LiDAR-Inertial-Visual Odometry System Using Spatio-Temporal Normals**|Zhixin Zhang et.al.|[2609.19336](http://arxiv.org/abs/2609.19336)|null|
+|**2026-09-16**|**Laplacian U-Processes for Multiple Change-Point Detection in Dependent Text Networks: An Application to Historical Chinese Articles**|Fanghua Chen et.al.|[2609.19306](http://arxiv.org/abs/2609.19306)|null|
 |**2026-09-14**|**How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning**|Max W. Shen et.al.|[2609.16222](http://arxiv.org/abs/2609.16222)|null|
 |**2026-09-14**|**A Corpus-Aligned Uthmani-to-Standard Quranic Word Mapping and a Deterministic Recitation Validator**|Yahya Mohamed Elnawasany et.al.|[2609.14967](http://arxiv.org/abs/2609.14967)|null|
 |**2026-09-10**|**MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images**|Vladislav Diuzhev et.al.|[2609.11717](http://arxiv.org/abs/2609.11717)|null|
 |**2026-09-10**|**Radio Map Construction with Post-Hoc Location Calibration under Quasi-Static Positioning Errors: Joint Estimation, Performance Bounds, and GNSS-Based Evaluation**|Koki Kanzaki et.al.|[2609.11142](http://arxiv.org/abs/2609.11142)|null|
 |**2026-09-09**|**Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration**|Mohammadjavad Matinkia et.al.|[2609.10789](http://arxiv.org/abs/2609.10789)|null|
 |**2026-09-09**|**A Foundation Model for Large-Scale Wireless Network Planning , Operation and Optimization**|Xinyu Qin et.al.|[2609.08482](http://arxiv.org/abs/2609.08482)|null|
-|**2026-09-07**|**Generation of Vectorized Maps Beyond Vehicle View**|Clara Gomez et.al.|[2609.07511](http://arxiv.org/abs/2609.07511)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-09-07**|**Generation of Vectorized Maps Beyond Vehicle View**|Clara Gomez et.al.|[2609.07511](http://arxiv.org/abs/2609.07511)|null|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
 |**2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Stefan Ramdhan et.al.|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
 |**2026-08-31**|**What Emerges and What Breaks in Self-Play Driving**|Laur Sisask et.al.|[2608.30819](http://arxiv.org/abs/2608.30819)|null|
@@ -221,6 +225,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604](http://arxiv.org/abs/2609.20604)|null|
+|**2026-09-17**|**Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels**|Shuoyuan Sun et.al.|[2609.20150](http://arxiv.org/abs/2609.20150)|null|
+|**2026-09-17**|**Physical properties of star-forming clumps in nearby galaxies from CLAUDS and HSC-SSP**|Jürgen J. Popp et.al.|[2609.20079](http://arxiv.org/abs/2609.20079)|null|
+|**2026-09-17**|**PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation**|Zongze Wu et.al.|[2609.20066](http://arxiv.org/abs/2609.20066)|null|
+|**2026-09-17**|**Enhanced Knowledge Distillation for Detection Transformer via Teacher Prediction Refinement**|Yitong Xing et.al.|[2609.19964](http://arxiv.org/abs/2609.19964)|null|
+|**2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Chunpeng Li et.al.|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
+|**2026-09-17**|**Socialized UAV Cross-Task Learning: Towards Cross-Granularity Collaboration through Hierarchical Interaction**|Xinjie Yao et.al.|[2609.19867](http://arxiv.org/abs/2609.19867)|null|
+|**2026-09-17**|**Federated Learning Framework for Privacy-Preserving Kidney Stone Detection**|Najiyya Younas et.al.|[2609.19740](http://arxiv.org/abs/2609.19740)|null|
+|**2026-09-17**|**BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems**|Shunsuke Ito et.al.|[2609.19699](http://arxiv.org/abs/2609.19699)|null|
+|**2026-09-17**|**Selective Cotton Boll Localization for Robotic Harvesting: Evaluation of Deep Learning Vision Models Under Field Conditions**|Thevathayarajh Thayananthan et.al.|[2609.19592](http://arxiv.org/abs/2609.19592)|null|
+|**2026-09-16**|**Efficient Unified Multimodal Understanding (EUMU): Winning Solution for the MUMU Track at the 8th LSVOS Challenge**|Dayoung Kil et.al.|[2609.19451](http://arxiv.org/abs/2609.19451)|null|
+|**2026-09-16**|**Open-vocabulary 3D object detection with promptable segmentation**|Ömer Faruk Deniz et.al.|[2609.19358](http://arxiv.org/abs/2609.19358)|null|
+|**2026-09-16**|**4D Radar Perception Algorithms for Autonomous Driving: A Review**|Xumin Wu et.al.|[2609.19216](http://arxiv.org/abs/2609.19216)|null|
 |**2026-09-16**|**DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation**|Mengze Xu et.al.|[2609.18773](http://arxiv.org/abs/2609.18773)|null|
 |**2026-09-16**|**Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems**|Woo-Jin Jung et.al.|[2609.18542](http://arxiv.org/abs/2609.18542)|null|
 |**2026-09-16**|**Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation**|Yanan Ma et.al.|[2609.18511](http://arxiv.org/abs/2609.18511)|null|
@@ -1220,6 +1237,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604](http://arxiv.org/abs/2609.20604)|null|
+|**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|null|
+|**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Enpeng Li et.al.|[2609.20012](http://arxiv.org/abs/2609.20012)|null|
+|**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628](http://arxiv.org/abs/2609.19628)|null|
+|**2026-09-17**|**OmniCalib: Target-Free, Task-Structured Self-Calibration for Humanoid Robots**|Kaixiang Lu et.al.|[2609.19582](http://arxiv.org/abs/2609.19582)|null|
+|**2026-09-17**|**SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints**|Mohamed Hefny et.al.|[2609.19533](http://arxiv.org/abs/2609.19533)|null|
+|**2026-09-17**|**AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend**|Hengyi Wang et.al.|[2609.19518](http://arxiv.org/abs/2609.19518)|null|
+|**2026-09-16**|**Dynamic-LIVO: A Dynamic-Aware LiDAR-Inertial-Visual Odometry System Using Spatio-Temporal Normals**|Zhixin Zhang et.al.|[2609.19336](http://arxiv.org/abs/2609.19336)|null|
+|**2026-09-16**|**RAUL: Reference-Assisted Ureteroscopy Localization for Skill Assessment**|Fangjie Li et.al.|[2609.19236](http://arxiv.org/abs/2609.19236)|null|
 |**2026-09-16**|**SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM**|Kalvik Jakkala et.al.|[2609.18893](http://arxiv.org/abs/2609.18893)|null|
 |**2026-09-15**|**Co-occurrence-Aware Quadratic Assignment for Local Feature Matching in Simultaneous Localization and Mapping**|Yutaka Yamada et.al.|[2609.17905](http://arxiv.org/abs/2609.17905)|null|
 |**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|null|
