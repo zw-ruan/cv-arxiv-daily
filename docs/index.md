@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.23
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**HelloWorld: Towards Practical Applications of Generative Driving World Models**|Fan Lu et.al.|[2609.28931](http://arxiv.org/abs/2609.28931)|null|
+|**2026-09-23**|**Active Learning for Low-Altitude Radio Map Construction via Plug-and-Play Flow Matching**|Hao Sun et.al.|[2609.27486](http://arxiv.org/abs/2609.27486)|null|
 |**2026-09-22**|**Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping**|Markus Käppeler et.al.|[2609.26325](http://arxiv.org/abs/2609.26325)|null|
 |**2026-09-22**|**Neural Approximation by Function Composition: Rigidity and Doubly Exponential Convergence**|Wentao Huang et.al.|[2609.25874](http://arxiv.org/abs/2609.25874)|null|
 |**2026-08-12**|**AdaMem: Adaptive Memory Token Allocation for Soft Compression in Retrieval-Augmented Generation**|Artem Sakhno et.al.|[2609.22100](http://arxiv.org/abs/2609.22100)|null|
@@ -27,7 +29,7 @@ layout: default
 |**2026-09-10**|**MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images**|Vladislav Diuzhev et.al.|[2609.11717](http://arxiv.org/abs/2609.11717)|null|
 |**2026-09-10**|**Radio Map Construction with Post-Hoc Location Calibration under Quasi-Static Positioning Errors: Joint Estimation, Performance Bounds, and GNSS-Based Evaluation**|Koki Kanzaki et.al.|[2609.11142](http://arxiv.org/abs/2609.11142)|null|
 |**2026-09-09**|**Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration**|Mohammadjavad Matinkia et.al.|[2609.10789](http://arxiv.org/abs/2609.10789)|null|
-|**2026-09-09**|**A Foundation Model for Large-Scale Wireless Network Planning , Operation and Optimization**|Xinyu Qin et.al.|[2609.08482](http://arxiv.org/abs/2609.08482)|null|
+|**2026-09-24**|**A Foundation Model for Large-Scale Wireless Network Planning , Operation and Optimization**|Xinyu Qin et.al.|[2609.08482](http://arxiv.org/abs/2609.08482)|null|
 |**2026-09-07**|**Generation of Vectorized Maps Beyond Vehicle View**|Clara Gomez et.al.|[2609.07511](http://arxiv.org/abs/2609.07511)|null|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
 |**2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Stefan Ramdhan et.al.|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
@@ -229,6 +231,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding**|Byounggun Park et.al.|[2609.29835](http://arxiv.org/abs/2609.29835)|null|
+|**2026-09-24**|**SARFusion: Scene-Aware Routing Fusion for Robust Camera-LiDAR 3D Object Detection**|Yuting Zhao et.al.|[2609.29235](http://arxiv.org/abs/2609.29235)|null|
+|**2026-09-24**|**FoCal: Frequency-Oriented Cross-Modal Interaction and Spectral Calibration for Aerial Visible-Infrared Object Detection**|Ben Liang et.al.|[2609.29125](http://arxiv.org/abs/2609.29125)|null|
+|**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
+|**2026-09-23**|**Integrating Local Detail and Global Context: A Dual-Input Multi-Task Learning Framework for Bone Tumor Diagnosis**|S. M. Nasif Uddin et.al.|[2609.28732](http://arxiv.org/abs/2609.28732)|null|
+|**2026-09-23**|**MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference**|Romain Facq et.al.|[2609.28358](http://arxiv.org/abs/2609.28358)|null|
+|**2026-09-23**|**ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus**|Li Zeng et.al.|[2609.28239](http://arxiv.org/abs/2609.28239)|null|
+|**2026-09-23**|**MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction**|Raul Taranco et.al.|[2609.27706](http://arxiv.org/abs/2609.27706)|null|
+|**2026-09-23**|**CasCVS-Net: A Staged Multi-Task Cascade for Critical View of Safety Assessment**|Bock-Zien Toh et.al.|[2609.27681](http://arxiv.org/abs/2609.27681)|null|
+|**2026-09-23**|**SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection**|Xiaokai Bai et.al.|[2609.27671](http://arxiv.org/abs/2609.27671)|null|
+|**2026-09-23**|**S2A:Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection**|Qiangqiang Zhou et.al.|[2609.27413](http://arxiv.org/abs/2609.27413)|null|
+|**2026-09-22**|**Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing**|Anthony Girmenia et.al.|[2609.27140](http://arxiv.org/abs/2609.27140)|null|
+|**2026-09-22**|**A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis**|Sourav Shome et.al.|[2609.26923](http://arxiv.org/abs/2609.26923)|null|
+|**2026-09-22**|**Bend the Clock: Predicting Ahead to Beat Latency in Event-Based Object Detection**|Biswadeep Sen et.al.|[2609.26919](http://arxiv.org/abs/2609.26919)|null|
 |**2026-09-22**|**Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes**|Jose Moises Araya-Martinez et.al.|[2609.26505](http://arxiv.org/abs/2609.26505)|null|
 |**2026-09-22**|**Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping**|Markus Käppeler et.al.|[2609.26325](http://arxiv.org/abs/2609.26325)|null|
 |**2026-09-22**|**A Geometry-Aware Framework for Clustering Cylindrical Data**|Giuseppe Pandolfo et.al.|[2609.26321](http://arxiv.org/abs/2609.26321)|null|
@@ -1269,6 +1285,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**FMCW-LIO: A Doppler LiDAR-Inertial Odometry**|Mingle Zhao et.al.|[2609.29374](http://arxiv.org/abs/2609.29374)|null|
+|**2026-09-23**|**PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs**|Zhiqi Ai et.al.|[2609.28727](http://arxiv.org/abs/2609.28727)|null|
+|**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|null|
+|**2026-09-23**|**DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping**|Jaafar Mahmoud et.al.|[2609.27702](http://arxiv.org/abs/2609.27702)|null|
+|**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
 |**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
 |**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|null|
 |**2026-09-22**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932](http://arxiv.org/abs/2609.25932)|null|
