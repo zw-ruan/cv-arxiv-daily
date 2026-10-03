@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.01
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
+|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
 |**2026-09-28**|**Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation**|Ping Xiong et.al.|[2609.35128](http://arxiv.org/abs/2609.35128)|null|
@@ -239,6 +241,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Localisation-Aware Uncertainty for Pretrained Object Detection**|Charmaine Barker et.al.|[2610.01409](http://arxiv.org/abs/2610.01409)|null|
+|**2026-10-01**|**Robust Evidential Learning Through Latent Consistency**|Charmaine Barker et.al.|[2610.01384](http://arxiv.org/abs/2610.01384)|null|
+|**2026-10-01**|**Open Vocabulary Word Recognition From Transcribed Bangla Texts**|Faias Satter et.al.|[2610.01134](http://arxiv.org/abs/2610.01134)|null|
+|**2026-10-01**|**Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability**|Ashik E Rasul et.al.|[2610.01067](http://arxiv.org/abs/2610.01067)|null|
+|**2026-09-29**|**Vmem- $\varphi$ : Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics**|Arul Rana et.al.|[2610.00350](http://arxiv.org/abs/2610.00350)|null|
+|**2026-09-29**|**EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception**|Lingzhao Kong et.al.|[2610.00319](http://arxiv.org/abs/2610.00319)|null|
 |**2026-09-30**|**Introduction to Computer Vision**|Stan Birchfield et.al.|[2609.39627](http://arxiv.org/abs/2609.39627)|null|
 |**2026-09-30**|**PCB-MC: Missing Component Analysis in Printed Circuit Boards**|Betsy Villa Brochero et.al.|[2609.39427](http://arxiv.org/abs/2609.39427)|null|
 |**2026-09-30**|**FORTE: Forecasting Occupancy for Spatiotemporal Risk-Aware Planning in Dynamic Environments**|Hahjin Lee et.al.|[2609.39305](http://arxiv.org/abs/2609.39305)|null|
@@ -249,7 +257,7 @@ layout: default
 |**2026-09-29**|**GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection**|Taufiq Ahmed et.al.|[2609.38116](http://arxiv.org/abs/2609.38116)|null|
 |**2026-09-29**|**From Unity Simulation to Diffusion-Based Augmentation: Quantifying Dataset Balance for Robust Object Detection**|Mohamed Benkedadra et.al.|[2609.38010](http://arxiv.org/abs/2609.38010)|null|
 |**2026-09-29**|**HandAnthro: Automated Hand Anthropometry from a Single Image**|Fan Zhou et.al.|[2609.37855](http://arxiv.org/abs/2609.37855)|null|
-|**2026-09-29**|**ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding**|Thomas A. O'Shea-Wheller et.al.|[2609.37801](http://arxiv.org/abs/2609.37801)|null|
+|**2026-10-01**|**ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding**|Thomas A. O'Shea-Wheller et.al.|[2609.37801](http://arxiv.org/abs/2609.37801)|null|
 |**2026-09-29**|**VesselBench-800K: A Large-scale Perception Benchmark for Multimodal Vessel Detection, Counting, and Density Estimation**|Danfeng Hong et.al.|[2609.37003](http://arxiv.org/abs/2609.37003)|null|
 |**2026-09-28**|**LEGO-Anything: Coding Agents for 3D Scene Reconstruction**|Xirui Li et.al.|[2609.36380](http://arxiv.org/abs/2609.36380)|null|
 |**2026-09-28**|**CHAMPS: Data Reduction and Detection of ~3300 Dusty Galaxies at 1.2 mm**|Felix Martinez et.al.|[2609.36076](http://arxiv.org/abs/2609.36076)|null|
@@ -1322,6 +1330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
+|**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
 |**2026-09-30**|**BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph**|Jan Steckel et.al.|[2609.40085](http://arxiv.org/abs/2609.40085)|null|
 |**2026-09-30**|**Introduction to Computer Vision**|Stan Birchfield et.al.|[2609.39627](http://arxiv.org/abs/2609.39627)|null|
 |**2026-09-30**|**MVP-SLAM: Multi-Camera Visual-Inertial Floorplan-Prior SLAM**|Asier Bikandi-Noya et.al.|[2609.39596](http://arxiv.org/abs/2609.39596)|null|
