@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.03
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
+|**2026-09-27**|**Generalizable single-cell perturbation response prediction using energy-guided flow matching**|Jianan Wei et.al.|[2610.02232](http://arxiv.org/abs/2610.02232)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
@@ -67,17 +69,17 @@
 |**2026-08-01**|**SIPTraj: Map-Free End-to-End Trajectory Prediction via Physics-Guided Scene Interaction**|Feifei Liu et.al.|[2608.00779](http://arxiv.org/abs/2608.00779)|null|
 |**2026-08-01**|**Modeling Unknown Nonlocal PDE Systems via Flow Map Learning**|Zhongshu Xu et.al.|[2608.00400](http://arxiv.org/abs/2608.00400)|null|
 |**2026-07-30**|**Radar-Aided Near-Field Beam Prediction via Beam Map Learning for XL-MIMO V2I Communications**|Jiali Nie et.al.|[2607.27643](http://arxiv.org/abs/2607.27643)|null|
-|**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
-|**2026-07-27**|**SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception**|Goodarz Mehr et.al.|[2607.23910](http://arxiv.org/abs/2607.23910)|null|
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models**|Elad Dror Cohen et.al.|[2610.03218](http://arxiv.org/abs/2610.03218)|null|
+|**2026-10-02**|**BeeWhere: Segmenting Bumble Bee Colonies to Quantify Behavioral Effects**|Roberta Hunt et.al.|[2610.03051](http://arxiv.org/abs/2610.03051)|null|
 |**2026-10-01**|**Localisation-Aware Uncertainty for Pretrained Object Detection**|Charmaine Barker et.al.|[2610.01409](http://arxiv.org/abs/2610.01409)|null|
 |**2026-10-01**|**Robust Evidential Learning Through Latent Consistency**|Charmaine Barker et.al.|[2610.01384](http://arxiv.org/abs/2610.01384)|null|
-|**2026-10-01**|**Open Vocabulary Word Recognition From Transcribed Bangla Texts**|Faias Satter et.al.|[2610.01134](http://arxiv.org/abs/2610.01134)|null|
+|**2026-10-02**|**Open Vocabulary Word Recognition From Transcribed Bangla Texts**|Faias Satter et.al.|[2610.01134](http://arxiv.org/abs/2610.01134)|null|
 |**2026-10-01**|**Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability**|Ashik E Rasul et.al.|[2610.01067](http://arxiv.org/abs/2610.01067)|null|
 |**2026-09-29**|**Vmem- $\varphi$ : Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics**|Arul Rana et.al.|[2610.00350](http://arxiv.org/abs/2610.00350)|null|
 |**2026-09-29**|**EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception**|Lingzhao Kong et.al.|[2610.00319](http://arxiv.org/abs/2610.00319)|null|
@@ -103,7 +105,7 @@
 |**2026-09-26**|**Synthetic Thermal Image Generation for Real-Time Animal Detection Under Low-Visibility Conditions**|James Momoh et.al.|[2609.32944](http://arxiv.org/abs/2609.32944)|null|
 |**2026-09-26**|**Precision As You Need: Stochastic Computing Is a Dense Adaptive Quantizer**|Haoran Jin et.al.|[2609.32922](http://arxiv.org/abs/2609.32922)|null|
 |**2026-09-26**|**SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data**|Yulu Wu et.al.|[2609.32863](http://arxiv.org/abs/2609.32863)|null|
-|**2026-09-26**|**Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling**|Krzysztof Marcin Choromanski et.al.|[2609.32824](http://arxiv.org/abs/2609.32824)|null|
+|**2026-10-02**|**Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling**|Krzysztof Marcin Choromanski et.al.|[2609.32824](http://arxiv.org/abs/2609.32824)|null|
 |**2026-09-26**|**Attribution Gaps in Zero-Training LLM+OVOD Pipelines: A Fine-Grained Analysis of the CAAP--SNAP Discrepancy**|Yu-Feng Yen et.al.|[2609.32567](http://arxiv.org/abs/2609.32567)|null|
 |**2026-09-26**|**PQR3D: Progressive Query Refinement over Reference-Conditioned Temporal Windows for Multi-View 3D Object Detection**|Hui Ye et.al.|[2609.32163](http://arxiv.org/abs/2609.32163)|null|
 |**2026-09-19**|**CLC-YOLO: A Compact Channel-Gated Prototype Network for Real-Time Leakage-Aware Breast Ultrasound Lesion Segmentation**|M. Fazri Nizar et.al.|[2609.31702](http://arxiv.org/abs/2609.31702)|null|
@@ -123,14 +125,13 @@
 |**2026-09-23**|**S2A:Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection**|Qiangqiang Zhou et.al.|[2609.27413](http://arxiv.org/abs/2609.27413)|null|
 |**2026-09-22**|**Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing**|Anthony Girmenia et.al.|[2609.27140](http://arxiv.org/abs/2609.27140)|null|
 |**2026-09-22**|**A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis**|Sourav Shome et.al.|[2609.26923](http://arxiv.org/abs/2609.26923)|null|
-|**2026-09-22**|**Bend the Clock: Predicting Ahead to Beat Latency in Event-Based Object Detection**|Biswadeep Sen et.al.|[2609.26919](http://arxiv.org/abs/2609.26919)|null|
-|**2026-09-22**|**Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes**|Jose Moises Araya-Martinez et.al.|[2609.26505](http://arxiv.org/abs/2609.26505)|null|
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression**|Nikan Nobari et.al.|[2610.02601](http://arxiv.org/abs/2610.02601)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
 |**2026-09-30**|**BatSLAM 2.0: Sequence-Verified Sonar Place Recognition in a Robust Pose Graph**|Jan Steckel et.al.|[2609.40085](http://arxiv.org/abs/2609.40085)|null|
@@ -171,7 +172,7 @@
 |**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846](http://arxiv.org/abs/2609.24846)|null|
 |**2026-09-21**|**SPARSER: Sparse Variable Projection by Exploiting Separable Structure in Robotic Perception**|Nikolas R. Sanderson et.al.|[2609.24708](http://arxiv.org/abs/2609.24708)|null|
 |**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|null|
-|**2026-09-20**|**Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM**|Rui Zhou et.al.|[2609.23491](http://arxiv.org/abs/2609.23491)|null|
+|**2026-09-20**|**Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM**|Rui Zhou et.al.|[2609.23491](http://arxiv.org/abs/2609.23491)|**[link](https://github.com/RuiZhou-cn/Elevator-VIGS)**|
 |**2026-09-18**|**SFVO: Decoupled Confidence-Guided Stereo-Flow Visual Odometry with Bidirectional PnP**|Kai Zhang et.al.|[2609.21754](http://arxiv.org/abs/2609.21754)|null|
 |**2026-09-18**|**HAT: Hypothesis-Anchored Tracking for Video Monocular Spacecraft Pose Estimation**|André Lopo et.al.|[2609.21597](http://arxiv.org/abs/2609.21597)|null|
 |**2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Tianchen Deng et.al.|[2609.21502](http://arxiv.org/abs/2609.21502)|null|
@@ -180,8 +181,7 @@
 |**2026-09-17**|**MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments**|Haozhe Lei et.al.|[2609.21026](http://arxiv.org/abs/2609.21026)|null|
 |**2026-09-17**|**Towards Effective Visual-Inertial SLAM with Passive-Only Sensors for Low-Cost Autonomous Underwater Vehicles**|Grant Schwidder et.al.|[2609.21015](http://arxiv.org/abs/2609.21015)|null|
 |**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|null|
-|**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604](http://arxiv.org/abs/2609.20604)|null|
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
