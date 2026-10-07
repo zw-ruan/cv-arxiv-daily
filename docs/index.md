@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.05
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Neural Petri flows for chemical reactions**|Jose Eduardo Escrig Molina et.al.|[2610.08750](http://arxiv.org/abs/2610.08750)|null|
+|**2026-10-06**|**Vector Map Quality Metrics for Contextual Autonomous Driving Systems**|Marie-Ngoïe Badibanga Kalenda et.al.|[2610.08043](http://arxiv.org/abs/2610.08043)|null|
+|**2026-10-05**|**Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation**|Siyuan Liu et.al.|[2610.06171](http://arxiv.org/abs/2610.06171)|null|
 |**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
 |**2026-09-27**|**Generalizable single-cell perturbation response prediction using energy-guided flow matching**|Jianan Wei et.al.|[2610.02232](http://arxiv.org/abs/2610.02232)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
@@ -243,7 +246,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error**|Iván Verdugo Guerra et.al.|[2610.08756](http://arxiv.org/abs/2610.08756)|null|
+|**2026-10-06**|**A Space-Agnostic Visual Game Analytics Tool with Adaptive Spatial Reconstruction for Mixed Reality Game Development**|Nahian Rifaat et.al.|[2610.08619](http://arxiv.org/abs/2610.08619)|null|
+|**2026-10-06**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Lei Yang et.al.|[2610.08573](http://arxiv.org/abs/2610.08573)|null|
+|**2026-10-06**|**Supermarket Product Detection and Recognition: Utilizing Deep Learning with Rectified Imagery**|Mayank Sah et.al.|[2610.08126](http://arxiv.org/abs/2610.08126)|null|
+|**2026-10-06**|**Towards benchmarking Western Bluebird detection in the wild**|Estela Monserrat Arriaga Santana et.al.|[2610.07802](http://arxiv.org/abs/2610.07802)|null|
+|**2026-10-05**|**BRAHMa: Bar Recognition And Hatching using Machine learning -- a framework for oriented bounding box detection of galactic bars**|Rajit Shrivastava et.al.|[2610.07410](http://arxiv.org/abs/2610.07410)|null|
+|**2026-10-05**|**Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems**|Rohan Mehra et.al.|[2610.06596](http://arxiv.org/abs/2610.06596)|null|
+|**2026-10-05**|**AUTOPILOT An Advanced Perception, Localization and Path Planning Techniques for Autonomous Vehicles Using YOLOv7 and MiDaS**|Harshkumar Devmurari et.al.|[2610.06232](http://arxiv.org/abs/2610.06232)|null|
+|**2026-10-05**|**Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS**|Ondrej Tybl et.al.|[2610.06167](http://arxiv.org/abs/2610.06167)|null|
+|**2026-10-05**|**Vision-enabled detection of safety helmet compliance in construction zones**|Tri Nhut Do* et.al.|[2610.05756](http://arxiv.org/abs/2610.05756)|null|
+|**2026-10-04**|**MGPO: Manifold-Guided Diffusion Alignment for Task-Aware Dataset Distillation**|Yunyi Chen et.al.|[2610.05252](http://arxiv.org/abs/2610.05252)|null|
+|**2026-10-04**|**Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection**|Shengjian Wu et.al.|[2610.05191](http://arxiv.org/abs/2610.05191)|null|
+|**2026-10-03**|**Task-Sensitive Geometry of Representation Transfer for Object Detection under Image Degradation**|Van Vung Pham et.al.|[2610.04627](http://arxiv.org/abs/2610.04627)|null|
+|**2026-10-03**|**Any-scale Object Detection using Arbitrary-scaled Images**|Kazutoshi Akita et.al.|[2610.04346](http://arxiv.org/abs/2610.04346)|null|
+|**2026-10-02**|**Beyond Completion Time: A Multimodal Approach to Characterizing Eye-Hand Coordination During the Nine-Hole Peg Test in Multiple Sclerosis**|Mahya Beheshti et.al.|[2610.04145](http://arxiv.org/abs/2610.04145)|null|
 |**2026-10-02**|**VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models**|Elad Dror Cohen et.al.|[2610.03218](http://arxiv.org/abs/2610.03218)|null|
+|**2026-10-05**|**Lightweight and Resource-Efficient Perception for Robotic Guide Dogs**|Jinse Kwon et.al.|[2610.03187](http://arxiv.org/abs/2610.03187)|null|
 |**2026-10-02**|**BeeWhere: Segmenting Bumble Bee Colonies to Quantify Behavioral Effects**|Roberta Hunt et.al.|[2610.03051](http://arxiv.org/abs/2610.03051)|null|
 |**2026-10-01**|**Localisation-Aware Uncertainty for Pretrained Object Detection**|Charmaine Barker et.al.|[2610.01409](http://arxiv.org/abs/2610.01409)|null|
 |**2026-10-01**|**Robust Evidential Learning Through Latent Consistency**|Charmaine Barker et.al.|[2610.01384](http://arxiv.org/abs/2610.01384)|null|
@@ -1334,6 +1353,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|null|
+|**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|null|
+|**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
+|**2026-10-05**|**Stellarators Linking Axisymmetric Mirrors Part 1: Coil Design, MHD Equilibrium, and Physics Metrics**|Rahul Gaur et.al.|[2610.06085](http://arxiv.org/abs/2610.06085)|null|
+|**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|null|
+|**2026-10-05**|**Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM**|Junhyun Nam et.al.|[2610.05757](http://arxiv.org/abs/2610.05757)|null|
+|**2026-10-04**|**Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization**|Aref Mousavi et.al.|[2610.05310](http://arxiv.org/abs/2610.05310)|**[link](https://github.com/arefmousavi/hierarchical-robust-sfm)**|
+|**2026-10-04**|**F $^2$ SLAM: Turning Feed-Forward Geometry into Persistent Factors for SLAM**|Zhisong Xu et.al.|[2610.05207](http://arxiv.org/abs/2610.05207)|null|
 |**2026-10-01**|**Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression**|Nikan Nobari et.al.|[2610.02601](http://arxiv.org/abs/2610.02601)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
@@ -1346,7 +1374,7 @@ layout: default
 |**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|null|
 |**2026-09-29**|**NIDAR: NIR-Guided Intrinsic Decomposition for Scalable Scene-Agnostic LiDAR Intensity Reconstruction**|Junjie Zhang et.al.|[2609.36878](http://arxiv.org/abs/2609.36878)|null|
 |**2026-09-29**|**Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM**|Minseo Kim et.al.|[2609.36753](http://arxiv.org/abs/2609.36753)|null|
-|**2026-09-29**|**SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence**|Gyeonggwan Lee et.al.|[2609.36545](http://arxiv.org/abs/2609.36545)|null|
+|**2026-10-03**|**SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence**|Gyeonggwan Lee et.al.|[2609.36545](http://arxiv.org/abs/2609.36545)|null|
 |**2026-09-28**|**OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute**|Brandon Leblanc et.al.|[2609.36374](http://arxiv.org/abs/2609.36374)|null|
 |**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Kerui Ren et.al.|[2609.35743](http://arxiv.org/abs/2609.35743)|null|
 |**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|null|
