@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.09
+## Updated on 2026.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|null|
 |**2026-08-11**|**Absolutely continuous invariant measures and the Collet-Eckmann condition for long-branched Sturmian unimodal maps**|Jorge Olivares-Vinales et.al.|[2608.10655](http://arxiv.org/abs/2608.10655)|null|
 |**2026-08-08**|**Auditing Instruction-Trajectory Mismatches in Multimodal Robot Demonstrations**|Simon Holk et.al.|[2608.07895](http://arxiv.org/abs/2608.07895)|null|
-<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-09-27**|**A Multi-Dataset Benchmark of YOLO-Based Weed Detection in Precision Agriculture**|Hristina Zdraveska et.al.|[2609.33991](http://arxiv.org/abs/2609.33991)|null|
 |**2026-09-27**|**AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception**|Gautham Narayan Narasimhan et.al.|[2609.33230](http://arxiv.org/abs/2609.33230)|null|
 |**2026-09-26**|**Synthetic Thermal Image Generation for Real-Time Animal Detection Under Low-Visibility Conditions**|James Momoh et.al.|[2609.32944](http://arxiv.org/abs/2609.32944)|null|
-<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
 |**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
 |**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|null|
-<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
