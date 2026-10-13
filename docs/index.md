@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -24,7 +24,7 @@ layout: default
 |**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
 |**2026-09-27**|**Generalizable single-cell perturbation response prediction using energy-guided flow matching**|Jianan Wei et.al.|[2610.02232](http://arxiv.org/abs/2610.02232)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
-|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
+|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|**[link](https://github.com/ShenZheng2000/MapLightning.github.io)**|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
 |**2026-09-28**|**Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation**|Ping Xiong et.al.|[2609.35128](http://arxiv.org/abs/2609.35128)|null|
@@ -250,7 +250,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware**|Thomas Goudemant et.al.|[2610.12182](http://arxiv.org/abs/2610.12182)|null|
+|**2026-10-09**|**Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection**|Yiming Yang et.al.|[2610.13891](http://arxiv.org/abs/2610.13891)|null|
+|**2026-10-09**|**Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation**|Connor Hashemi et.al.|[2610.13697](http://arxiv.org/abs/2610.13697)|null|
+|**2026-10-09**|**First Experimental Results of Space Object Detection Using the InteRFeX Array**|Bhaskar Ahuja et.al.|[2610.13537](http://arxiv.org/abs/2610.13537)|null|
+|**2026-10-09**|**JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning**|Zhenhua Yu et.al.|[2610.12901](http://arxiv.org/abs/2610.12901)|null|
+|**2026-10-09**|**AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware**|Thomas Goudemant et.al.|[2610.12182](http://arxiv.org/abs/2610.12182)|null|
 |**2026-10-08**|**Reliability Characterization for N-version Object Detection**|Shunsuke Nagao et.al.|[2610.12149](http://arxiv.org/abs/2610.12149)|null|
 |**2026-10-08**|**What Output-Only Review Cannot Verify: Study Contracts for Research Agents**|Eitan Waks et.al.|[2610.11754](http://arxiv.org/abs/2610.11754)|null|
 |**2026-10-07**|**Hard, Yet Reducible: Controlled Forward Transfer for Synthetic Degradation Curation**|Chunming He et.al.|[2610.09849](http://arxiv.org/abs/2610.09849)|null|
@@ -1363,6 +1367,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|null|
 |**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
 |**2026-10-02**|**Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes**|Zekui Xue et.al.|[2610.10564](http://arxiv.org/abs/2610.10564)|null|

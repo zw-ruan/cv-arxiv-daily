@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
 |**2026-09-27**|**Generalizable single-cell perturbation response prediction using energy-guided flow matching**|Jianan Wei et.al.|[2610.02232](http://arxiv.org/abs/2610.02232)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
-|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
+|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|**[link](https://github.com/ShenZheng2000/MapLightning.github.io)**|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
 |**2026-09-28**|**Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation**|Ping Xiong et.al.|[2609.35128](http://arxiv.org/abs/2609.35128)|null|
@@ -69,13 +69,17 @@
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|null|
 |**2026-08-11**|**Absolutely continuous invariant measures and the Collet-Eckmann condition for long-branched Sturmian unimodal maps**|Jorge Olivares-Vinales et.al.|[2608.10655](http://arxiv.org/abs/2608.10655)|null|
 |**2026-08-08**|**Auditing Instruction-Trajectory Mismatches in Multimodal Robot Demonstrations**|Simon Holk et.al.|[2608.07895](http://arxiv.org/abs/2608.07895)|null|
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-08**|**AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware**|Thomas Goudemant et.al.|[2610.12182](http://arxiv.org/abs/2610.12182)|null|
+|**2026-10-09**|**Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection**|Yiming Yang et.al.|[2610.13891](http://arxiv.org/abs/2610.13891)|null|
+|**2026-10-09**|**Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation**|Connor Hashemi et.al.|[2610.13697](http://arxiv.org/abs/2610.13697)|null|
+|**2026-10-09**|**First Experimental Results of Space Object Detection Using the InteRFeX Array**|Bhaskar Ahuja et.al.|[2610.13537](http://arxiv.org/abs/2610.13537)|null|
+|**2026-10-09**|**JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning**|Zhenhua Yu et.al.|[2610.12901](http://arxiv.org/abs/2610.12901)|null|
+|**2026-10-09**|**AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware**|Thomas Goudemant et.al.|[2610.12182](http://arxiv.org/abs/2610.12182)|null|
 |**2026-10-08**|**Reliability Characterization for N-version Object Detection**|Shunsuke Nagao et.al.|[2610.12149](http://arxiv.org/abs/2610.12149)|null|
 |**2026-10-08**|**What Output-Only Review Cannot Verify: Study Contracts for Research Agents**|Eitan Waks et.al.|[2610.11754](http://arxiv.org/abs/2610.11754)|null|
 |**2026-10-07**|**Hard, Yet Reducible: Controlled Forward Transfer for Synthetic Degradation Curation**|Chunming He et.al.|[2610.09849](http://arxiv.org/abs/2610.09849)|null|
@@ -121,16 +125,13 @@
 |**2026-09-28**|**CHAMPS: Data Reduction and Detection of ~3300 Dusty Galaxies at 1.2 mm**|Felix Martinez et.al.|[2609.36076](http://arxiv.org/abs/2609.36076)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
 |**2026-09-28**|**Physics-Guided Spectral Distillation for Underwater Image Enhancement on Resource-Constrained Devices**|Yifan Chen et.al.|[2609.34795](http://arxiv.org/abs/2609.34795)|null|
-|**2026-09-28**|**Analytical and Convolutional Neural Network-Based Motion-Vector Propagation for Efficient Video Object Detection**|Ashiyana Abdul Majeed et.al.|[2609.34142](http://arxiv.org/abs/2609.34142)|null|
-|**2026-09-27**|**A Multi-Dataset Benchmark of YOLO-Based Weed Detection in Precision Agriculture**|Hristina Zdraveska et.al.|[2609.33991](http://arxiv.org/abs/2609.33991)|null|
-|**2026-09-27**|**AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception**|Gautham Narayan Narasimhan et.al.|[2609.33230](http://arxiv.org/abs/2609.33230)|null|
-|**2026-09-26**|**Synthetic Thermal Image Generation for Real-Time Animal Detection Under Low-Visibility Conditions**|James Momoh et.al.|[2609.32944](http://arxiv.org/abs/2609.32944)|null|
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|null|
 |**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
 |**2026-10-02**|**Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes**|Zekui Xue et.al.|[2610.10564](http://arxiv.org/abs/2610.10564)|null|
@@ -180,8 +181,7 @@
 |**2026-09-23**|**DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping**|Jaafar Mahmoud et.al.|[2609.27702](http://arxiv.org/abs/2609.27702)|null|
 |**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
 |**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
-|**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|null|
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
