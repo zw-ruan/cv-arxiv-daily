@@ -7,13 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.13
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Learning Individual Scientific Taste with Privileged Hindsight Distillation**|Hanwei Fan et.al.|[2610.19719](http://arxiv.org/abs/2610.19719)|null|
+|**2026-10-13**|**Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors**|Henry Che et.al.|[2610.19201](http://arxiv.org/abs/2610.19201)|null|
+|**2026-10-13**|**PrismStencil: Transforming Stencil Computations into Matrix Multiplications**|Xianmeng Jiang et.al.|[2610.18382](http://arxiv.org/abs/2610.18382)|null|
+|**2026-10-12**|**Measure Neural Mappings**|Ricardo Baptista et.al.|[2610.17384](http://arxiv.org/abs/2610.17384)|**[link](https://github.com/sayantann11/all-classification-templetes-for-ML)**|
+|**2026-10-12**|**Two-weight T1 theorem for fractional Riesz transforms: one measure supported on a $C^{1,\mathrm{Dini}}$ curve**|Ji Li et.al.|[2610.16123](http://arxiv.org/abs/2610.16123)|null|
+|**2026-10-12**|**Admissibility-Preserving Constraint Lifting for Conditional Deadbeat Control of Discrete-Time Nonlinear Systems**|Jhon Manuel Portella Delgado et.al.|[2610.16109](http://arxiv.org/abs/2610.16109)|null|
+|**2026-10-11**|**Developing the Statistical Mechanics of Evolving Assembly Spaces**|Anisha K. Yeddanapudi et.al.|[2610.15695](http://arxiv.org/abs/2610.15695)|null|
+|**2026-10-11**|**Receiver-Constrained Recovery Placement for Encoded-Qutrit Teleportation under Monitored Decay**|Yifan Shi et.al.|[2610.15317](http://arxiv.org/abs/2610.15317)|null|
 |**2026-10-07**|**Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy**|Xinze Yang et.al.|[2610.10255](http://arxiv.org/abs/2610.10255)|null|
 |**2026-10-07**|**Gaussian Material Fields for Volumetric Multi-Energy CT Decomposition**|Jian Lin et.al.|[2610.09492](http://arxiv.org/abs/2610.09492)|**[link](https://github.com/yqx7150/MGS)**|
 |**2026-10-06**|**FlightMagNav: An Open Dataset and Probabilistic Map Learning and Validation Framework for Outdoor Magnetic Field-Based Positioning**|Isaac Skog et.al.|[2610.08982](http://arxiv.org/abs/2610.08982)|null|
@@ -24,7 +32,7 @@ layout: default
 |**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
 |**2026-09-27**|**Generalizable single-cell perturbation response prediction using energy-guided flow matching**|Jianan Wei et.al.|[2610.02232](http://arxiv.org/abs/2610.02232)|null|
 |**2026-10-01**|**GlassGuard: Verified Glass Plane Mapping for Robot Navigation**|Hanwen Guo et.al.|[2610.02110](http://arxiv.org/abs/2610.02110)|null|
-|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|**[link](https://github.com/ShenZheng2000/MapLightning.github.io)**|
+|**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
 |**2026-09-28**|**Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation**|Ping Xiong et.al.|[2609.35128](http://arxiv.org/abs/2609.35128)|null|
@@ -48,7 +56,7 @@ layout: default
 |**2026-09-10**|**MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images**|Vladislav Diuzhev et.al.|[2609.11717](http://arxiv.org/abs/2609.11717)|null|
 |**2026-09-10**|**Radio Map Construction with Post-Hoc Location Calibration under Quasi-Static Positioning Errors: Joint Estimation, Performance Bounds, and GNSS-Based Evaluation**|Koki Kanzaki et.al.|[2609.11142](http://arxiv.org/abs/2609.11142)|null|
 |**2026-09-09**|**Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration**|Mohammadjavad Matinkia et.al.|[2609.10789](http://arxiv.org/abs/2609.10789)|null|
-|**2026-09-24**|**A Foundation Model for Large-Scale Wireless Network Planning , Operation and Optimization**|Xinyu Qin et.al.|[2609.08482](http://arxiv.org/abs/2609.08482)|null|
+|**2026-10-13**|**A Foundation Model for Large-Scale Wireless Network Planning , Operation and Optimization**|Xinyu Qin et.al.|[2609.08482](http://arxiv.org/abs/2609.08482)|null|
 |**2026-09-07**|**Generation of Vectorized Maps Beyond Vehicle View**|Clara Gomez et.al.|[2609.07511](http://arxiv.org/abs/2609.07511)|null|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
 |**2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Stefan Ramdhan et.al.|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
@@ -250,6 +258,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality**|Yanni Mei et.al.|[2610.19998](http://arxiv.org/abs/2610.19998)|null|
+|**2026-10-14**|**Quantifying Annotation Agreement in Object Detection with Optimal Transport**|Kirill Prokhorov et.al.|[2610.19912](http://arxiv.org/abs/2610.19912)|null|
+|**2026-10-14**|**LiDO: The Large inclination Distant Objects Survey**|Mike Alexandersen et.al.|[2610.19865](http://arxiv.org/abs/2610.19865)|null|
+|**2026-10-14**|**Identifying Planetary Nebulae Candidates from IPHAS and VPHAS+ Surveys via YOLO Deep Learning Models**|Titouan Sérandour et.al.|[2610.19760](http://arxiv.org/abs/2610.19760)|null|
+|**2026-10-14**|**F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation**|Seyed Ali Mirghasemi et.al.|[2610.19618](http://arxiv.org/abs/2610.19618)|null|
+|**2026-10-13**|**MonoMIP: Multi-Height Inverse Perspective Mapping for Monocular 3D Object Detection**|Emir Ulurak et.al.|[2610.19071](http://arxiv.org/abs/2610.19071)|null|
+|**2026-10-13**|**Context-aware Bayesian Fusion for Multimodal Object Detection**|Arunachalam Venkatachalam et.al.|[2610.18741](http://arxiv.org/abs/2610.18741)|null|
+|**2026-10-13**|**CryoTracer: A Synthetic-to-Real System for Filament Instance Tracing in Cryo-EM**|Radosław Kuczbański et.al.|[2610.18696](http://arxiv.org/abs/2610.18696)|null|
+|**2026-10-13**|**Prompt-Segmentation Meets ROI Encryption: Fine-Grained Video Protection Based on Diffusion Isolation**|Xiang Zhang et.al.|[2610.18558](http://arxiv.org/abs/2610.18558)|null|
+|**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|null|
+|**2026-10-13**|**Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar**|Shiva Agrawal et.al.|[2610.18417](http://arxiv.org/abs/2610.18417)|null|
+|**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|null|
+|**2026-10-13**|**InSight: A Mobile Assistant Helping Visually Impaired People Navigate Unfamiliar Environment**|Junwei Zheng et.al.|[2610.17660](http://arxiv.org/abs/2610.17660)|null|
+|**2026-10-12**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906](http://arxiv.org/abs/2610.16906)|null|
+|**2026-10-12**|**Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving**|Ce Zhou et.al.|[2610.16012](http://arxiv.org/abs/2610.16012)|null|
+|**2026-10-11**|**Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation**|Surya Prakash S. K et.al.|[2610.15763](http://arxiv.org/abs/2610.15763)|null|
+|**2026-10-11**|**Squeeze-Aware-YOLO: Early Channel Recalibration and Multi-Scale Fusion for Real-Time Traffic Sign Detection**|Mizbaul Haque Maruf et.al.|[2610.15604](http://arxiv.org/abs/2610.15604)|null|
+|**2026-10-10**|**VLCQ: Post-training quantization for deep neural networks using variable length coding**|Reem Abdel-Salam et.al.|[2610.15092](http://arxiv.org/abs/2610.15092)|null|
+|**2026-10-07**|**Safety-Oriented Trajectory Ranking from BEV Perception Outputs**|Leon Pohl et.al.|[2610.14066](http://arxiv.org/abs/2610.14066)|null|
 |**2026-10-09**|**Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection**|Yiming Yang et.al.|[2610.13891](http://arxiv.org/abs/2610.13891)|null|
 |**2026-10-09**|**Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation**|Connor Hashemi et.al.|[2610.13697](http://arxiv.org/abs/2610.13697)|null|
 |**2026-10-09**|**First Experimental Results of Space Object Detection Using the InteRFeX Array**|Bhaskar Ahuja et.al.|[2610.13537](http://arxiv.org/abs/2610.13537)|null|
@@ -1367,6 +1394,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Ana-Ştefania Kogălniceanu et.al.|[2610.19993](http://arxiv.org/abs/2610.19993)|null|
+|**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
+|**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
+|**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044](http://arxiv.org/abs/2610.19044)|null|
+|**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|null|
+|**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|null|
+|**2026-10-13**|**Gaussian Splatting for Real-Time Scene Reconstruction: Methods, Systems, and Trade-offs**|Ashim Dahal et.al.|[2610.17513](http://arxiv.org/abs/2610.17513)|null|
+|**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260](http://arxiv.org/abs/2610.17260)|null|
+|**2026-10-12**|**Dense Endoluminal Mapping and Localisation from Monocular Bronchoscopy**|Salvatore Esposito et.al.|[2610.16570](http://arxiv.org/abs/2610.16570)|null|
+|**2026-10-12**|**All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking**|Yewon Kim et.al.|[2610.16143](http://arxiv.org/abs/2610.16143)|null|
+|**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157](http://arxiv.org/abs/2610.15157)|null|
+|**2026-10-10**|**FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry**|Jin Rhee et.al.|[2610.14951](http://arxiv.org/abs/2610.14951)|null|
+|**2026-10-08**|**When pose graphs are not enough: a failure analysis of pose-graph-based camera estimation for Gaussian splatting**|Senthil Palanisamy et.al.|[2610.14090](http://arxiv.org/abs/2610.14090)|null|
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|null|
 |**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
@@ -1391,13 +1432,13 @@ layout: default
 |**2026-09-29**|**Beyond Monoscopic Viewing: A Study on 3D Gaussian Splatting Quality in VR**|Shreyas Shivakumara et.al.|[2609.38525](http://arxiv.org/abs/2609.38525)|null|
 |**2026-09-29**|**Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs**|Ganesh Pavan Kartikeya Bharadwaj Kolluri et.al.|[2609.38106](http://arxiv.org/abs/2609.38106)|null|
 |**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|null|
-|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|null|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|**[link](https://github.com/gandanlee/pdigs)**|
 |**2026-09-29**|**NIDAR: NIR-Guided Intrinsic Decomposition for Scalable Scene-Agnostic LiDAR Intensity Reconstruction**|Junjie Zhang et.al.|[2609.36878](http://arxiv.org/abs/2609.36878)|null|
 |**2026-09-29**|**Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM**|Minseo Kim et.al.|[2609.36753](http://arxiv.org/abs/2609.36753)|null|
-|**2026-10-03**|**SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence**|Gyeonggwan Lee et.al.|[2609.36545](http://arxiv.org/abs/2609.36545)|null|
-|**2026-09-28**|**OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute**|Brandon Leblanc et.al.|[2609.36374](http://arxiv.org/abs/2609.36374)|null|
+|**2026-10-03**|**SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence**|Gyeonggwan Lee et.al.|[2609.36545](http://arxiv.org/abs/2609.36545)|**[link](https://github.com/gandanlee/sccm)**|
+|**2026-09-28**|**OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute**|Brandon Leblanc et.al.|[2609.36374](http://arxiv.org/abs/2609.36374)|**[link](https://github.com/TheFourthKaramazov/OTT3R)**|
 |**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Kerui Ren et.al.|[2609.35743](http://arxiv.org/abs/2609.35743)|null|
-|**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|null|
+|**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|**[link](https://github.com/kanehub/DIBR-GS)**|
 |**2026-09-28**|**ForVis: An In-Field Dataset and Benchmark for VIO Using Under-Canopy UAV Flights in Forests**|Arman Kiani et.al.|[2609.35482](http://arxiv.org/abs/2609.35482)|null|
 |**2026-09-28**|**MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**|Hoyun Kim et.al.|[2609.34702](http://arxiv.org/abs/2609.34702)|null|
 |**2026-09-28**|**RRG-SLAM: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes**|Yong Liu et.al.|[2609.34527](http://arxiv.org/abs/2609.34527)|null|
