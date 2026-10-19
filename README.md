@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.17
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,12 +69,18 @@
 |**2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Stefan Ramdhan et.al.|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
 |**2026-08-31**|**What Emerges and What Breaks in Self-Play Driving**|Laur Sisask et.al.|[2608.30819](http://arxiv.org/abs/2608.30819)|null|
 |**2026-08-26**|**Quasi two dimensional magnetic structure of the triclinic double perovskite Ca $_2$CuWO$_6$**|Bangye Qin et.al.|[2608.25778](http://arxiv.org/abs/2608.25778)|null|
-<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Material and Defocus Cues for Occluded Object Localization in Single Hyperspectral Images: An Exploratory Study**|Ali Zia et.al.|[2610.23733](http://arxiv.org/abs/2610.23733)|null|
+|**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
+|**2026-10-16**|**Replay Pruning and Few-Bit Integer Inference for Hardware-Efficient Speed-Sign Recognition**|Se Un Park et.al.|[2610.22811](http://arxiv.org/abs/2610.22811)|null|
+|**2026-10-15**|**TriSAR-3D and PaintFusion: A Novel Trimodal LiDAR-RGB-Thermal Dataset and Method for 3D Person Detection in Search and Rescue**|Markus Kramer et.al.|[2610.22509](http://arxiv.org/abs/2610.22509)|null|
+|**2026-10-15**|**Adv-Camou: An Emissivity-based Physical Dynamic Adversarial Patch for Infrared Attack**|Zhuo Chen et.al.|[2610.22434](http://arxiv.org/abs/2610.22434)|null|
+|**2026-10-14**|**napari-TurboBox: Interactive Multi-Viewer Bounding Box Annotation for AI-Guided Volumetric Bioimaging**|Nils Friederich et.al.|[2610.22413](http://arxiv.org/abs/2610.22413)|null|
 |**2026-10-15**|**Where, How, and When: Query-Guided Grounding for Video Understanding**|Yogesh Kumar et.al.|[2610.21422](http://arxiv.org/abs/2610.21422)|null|
 |**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222](http://arxiv.org/abs/2610.21222)|null|
 |**2026-10-14**|**ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality**|Yanni Mei et.al.|[2610.19998](http://arxiv.org/abs/2610.19998)|null|
@@ -119,13 +125,7 @@
 |**2026-10-04**|**MGPO: Manifold-Guided Diffusion Alignment for Task-Aware Dataset Distillation**|Yunyi Chen et.al.|[2610.05252](http://arxiv.org/abs/2610.05252)|null|
 |**2026-10-15**|**Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection**|Shengjian Wu et.al.|[2610.05191](http://arxiv.org/abs/2610.05191)|null|
 |**2026-10-03**|**Task-Sensitive Geometry of Representation Transfer for Object Detection under Image Degradation**|Van Vung Pham et.al.|[2610.04627](http://arxiv.org/abs/2610.04627)|null|
-|**2026-10-03**|**Any-scale Object Detection using Arbitrary-scaled Images**|Kazutoshi Akita et.al.|[2610.04346](http://arxiv.org/abs/2610.04346)|null|
-|**2026-10-02**|**Beyond Completion Time: A Multimodal Approach to Characterizing Eye-Hand Coordination During the Nine-Hole Peg Test in Multiple Sclerosis**|Mahya Beheshti et.al.|[2610.04145](http://arxiv.org/abs/2610.04145)|null|
-|**2026-10-02**|**VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models**|Elad Dror Cohen et.al.|[2610.03218](http://arxiv.org/abs/2610.03218)|null|
-|**2026-10-05**|**Lightweight and Resource-Efficient Perception for Robotic Guide Dogs**|Jinse Kwon et.al.|[2610.03187](http://arxiv.org/abs/2610.03187)|null|
-|**2026-10-02**|**BeeWhere: Segmenting Bumble Bee Colonies to Quantify Behavioral Effects**|Roberta Hunt et.al.|[2610.03051](http://arxiv.org/abs/2610.03051)|null|
-|**2026-10-01**|**Localisation-Aware Uncertainty for Pretrained Object Detection**|Charmaine Barker et.al.|[2610.01409](http://arxiv.org/abs/2610.01409)|null|
-<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-10-03**|**SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence**|Gyeonggwan Lee et.al.|[2609.36545](http://arxiv.org/abs/2609.36545)|null|
 |**2026-09-28**|**OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute**|Brandon Leblanc et.al.|[2609.36374](http://arxiv.org/abs/2609.36374)|null|
 |**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Kerui Ren et.al.|[2609.35743](http://arxiv.org/abs/2609.35743)|null|
-<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.17
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -260,6 +260,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Material and Defocus Cues for Occluded Object Localization in Single Hyperspectral Images: An Exploratory Study**|Ali Zia et.al.|[2610.23733](http://arxiv.org/abs/2610.23733)|null|
+|**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
+|**2026-10-16**|**Replay Pruning and Few-Bit Integer Inference for Hardware-Efficient Speed-Sign Recognition**|Se Un Park et.al.|[2610.22811](http://arxiv.org/abs/2610.22811)|null|
+|**2026-10-15**|**TriSAR-3D and PaintFusion: A Novel Trimodal LiDAR-RGB-Thermal Dataset and Method for 3D Person Detection in Search and Rescue**|Markus Kramer et.al.|[2610.22509](http://arxiv.org/abs/2610.22509)|null|
+|**2026-10-15**|**Adv-Camou: An Emissivity-based Physical Dynamic Adversarial Patch for Infrared Attack**|Zhuo Chen et.al.|[2610.22434](http://arxiv.org/abs/2610.22434)|null|
+|**2026-10-14**|**napari-TurboBox: Interactive Multi-Viewer Bounding Box Annotation for AI-Guided Volumetric Bioimaging**|Nils Friederich et.al.|[2610.22413](http://arxiv.org/abs/2610.22413)|null|
 |**2026-10-15**|**Where, How, and When: Query-Guided Grounding for Video Understanding**|Yogesh Kumar et.al.|[2610.21422](http://arxiv.org/abs/2610.21422)|null|
 |**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222](http://arxiv.org/abs/2610.21222)|null|
 |**2026-10-14**|**ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality**|Yanni Mei et.al.|[2610.19998](http://arxiv.org/abs/2610.19998)|null|
