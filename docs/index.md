@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.23
+## Updated on 2026.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
@@ -268,11 +268,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-22**|**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**|Tianming Liang et.al.|[2610.31329](http://arxiv.org/abs/2610.31329)|null|
 |**2026-10-21**|**Open-Vocabulary Models and Label Propagation for Uncertainty-aware Pseudo-Labeling of Object Detection Datasets**|Jonathan Klees et.al.|[2610.29788](http://arxiv.org/abs/2610.29788)|null|
-|**2026-10-21**|**UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception**|Linfei Li et.al.|[2610.29768](http://arxiv.org/abs/2610.29768)|**[link](https://github.com/lif314/UniRAP)**|
+|**2026-10-21**|**UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception**|Linfei Li et.al.|[2610.29768](http://arxiv.org/abs/2610.29768)|null|
 |**2026-10-21**|**FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather**|Ali Abedi et.al.|[2610.29618](http://arxiv.org/abs/2610.29618)|null|
 |**2026-10-21**|**No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses**|Francesco Corti et.al.|[2610.29607](http://arxiv.org/abs/2610.29607)|null|
 |**2026-10-21**|**Guess and Send: World-Model-Guided Semantic Packet Transmission for Robust Video Perception**|Yan Gong et.al.|[2610.29587](http://arxiv.org/abs/2610.29587)|null|
-|**2026-10-21**|**RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer**|Zhangchi Hu et.al.|[2610.29159](http://arxiv.org/abs/2610.29159)|**[link](https://github.com/RicePasteM/RiO-DETRv2)**|
+|**2026-10-21**|**RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer**|Zhangchi Hu et.al.|[2610.29159](http://arxiv.org/abs/2610.29159)|null|
 |**2026-10-20**|**TEMPL: A Resource-Efficient and Transparent Model-Free Framework for Pseudo-Label Generation in Material CT Scans**|Ashiqur Rahman et.al.|[2610.28974](http://arxiv.org/abs/2610.28974)|null|
 |**2026-10-20**|**Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis**|Mohammad Kawsar et.al.|[2610.28836](http://arxiv.org/abs/2610.28836)|null|
 |**2026-10-20**|**HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics**|Mauricio Soroco et.al.|[2610.28829](http://arxiv.org/abs/2610.28829)|null|
