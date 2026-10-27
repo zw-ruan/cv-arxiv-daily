@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758](http://arxiv.org/abs/2610.33758)|null|
 |**2026-10-21**|**Solar Photospheric Flows and the Origin of Active Regions**|Alexander V. Getling et.al.|[2610.30333](http://arxiv.org/abs/2610.30333)|null|
 |**2026-10-21**|**Joint-Angle Invariance of Jacobian-Based Performance Indices for Serial Robotic Manipulators**|Yaohua Zhou et.al.|[2610.29570](http://arxiv.org/abs/2610.29570)|null|
 |**2026-10-16**|**Beckmann World Models: Direct Terminal-Map Learning for One-Step Action-Conditioned Prediction**|Adam Lee et.al.|[2610.26903](http://arxiv.org/abs/2610.26903)|null|
@@ -68,14 +69,19 @@
 |**2026-09-14**|**A Corpus-Aligned Uthmani-to-Standard Quranic Word Mapping and a Deterministic Recitation Validator**|Yahya Mohamed Elnawasany et.al.|[2609.14967](http://arxiv.org/abs/2609.14967)|null|
 |**2026-09-10**|**MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images**|Vladislav Diuzhev et.al.|[2609.11717](http://arxiv.org/abs/2609.11717)|null|
 |**2026-09-10**|**Radio Map Construction with Post-Hoc Location Calibration under Quasi-Static Positioning Errors: Joint Estimation, Performance Bounds, and GNSS-Based Evaluation**|Koki Kanzaki et.al.|[2609.11142](http://arxiv.org/abs/2609.11142)|null|
-|**2026-09-09**|**Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration**|Mohammadjavad Matinkia et.al.|[2609.10789](http://arxiv.org/abs/2609.10789)|null|
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-22**|**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**|Tianming Liang et.al.|[2610.31329](http://arxiv.org/abs/2610.31329)|null|
+|**2026-10-26**|**Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection**|Milin Patel et.al.|[2610.35092](http://arxiv.org/abs/2610.35092)|null|
+|**2026-10-26**|**Shifted Window Temporal Transformer for YOLO-Guided Phase Recognition in Laparoscopic Cholecystectomy Surgery**|Sheekar Banerjee et.al.|[2610.35005](http://arxiv.org/abs/2610.35005)|null|
+|**2026-10-26**|**Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection**|Jinwoo Chung et.al.|[2610.34976](http://arxiv.org/abs/2610.34976)|null|
+|**2026-10-26**|**AIPC: Evidence-Guided Agent Workflows for PyTorch Project Deployment**|Zhanwei Wu et.al.|[2610.34890](http://arxiv.org/abs/2610.34890)|null|
+|**2026-10-24**|**GeoLift: Grounding Video Spatial Reasoning in Explicit 3D Maps**|Xinglin Li et.al.|[2610.33558](http://arxiv.org/abs/2610.33558)|null|
+|**2026-10-24**|**Dynamic Query as Budgeting for Tiny Object Detection**|Yi Zhang et.al.|[2610.33430](http://arxiv.org/abs/2610.33430)|null|
+|**2026-10-24**|**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**|Tianming Liang et.al.|[2610.31329](http://arxiv.org/abs/2610.31329)|null|
 |**2026-10-21**|**Open-Vocabulary Models and Label Propagation for Uncertainty-aware Pseudo-Labeling of Object Detection Datasets**|Jonathan Klees et.al.|[2610.29788](http://arxiv.org/abs/2610.29788)|null|
 |**2026-10-21**|**UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception**|Linfei Li et.al.|[2610.29768](http://arxiv.org/abs/2610.29768)|null|
 |**2026-10-21**|**FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather**|Ali Abedi et.al.|[2610.29618](http://arxiv.org/abs/2610.29618)|null|
@@ -94,13 +100,13 @@
 |**2026-10-17**|**Controllable Multi-Object Insertion for Detection Data Augmentation**|Jiyang Huang et.al.|[2610.26922](http://arxiv.org/abs/2610.26922)|null|
 |**2026-10-19**|**Long-form Video-to-Text Summarization using Recursive Language Models**|Alessia Intini et.al.|[2610.26431](http://arxiv.org/abs/2610.26431)|null|
 |**2026-10-19**|**Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection**|Keyhan Rayati et.al.|[2610.26170](http://arxiv.org/abs/2610.26170)|null|
-|**2026-10-19**|**RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion**|Peijun Shi et.al.|[2610.26090](http://arxiv.org/abs/2610.26090)|null|
+|**2026-10-19**|**RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion**|Peijun Shi et.al.|[2610.26090](http://arxiv.org/abs/2610.26090)|**[link](https://github.com/Peijun1122/ERA-Det)**|
 |**2026-10-19**|**Plate-YOLO: An End-to-End Object Detection Framework for Robust Astrometric Registration of Historical Plates**|Quanfeng Xu et.al.|[2610.25677](http://arxiv.org/abs/2610.25677)|null|
-|**2026-10-18**|**Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection**|Fahad Iqbal et.al.|[2610.25535](http://arxiv.org/abs/2610.25535)|null|
+|**2026-10-18**|**Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection**|Fahad Iqbal et.al.|[2610.25535](http://arxiv.org/abs/2610.25535)|**[link](https://github.com/sarbel-org/ResCD-CSI)**|
 |**2026-10-17**|**SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection**|Yang-Syu Li et.al.|[2610.24814](http://arxiv.org/abs/2610.24814)|null|
 |**2026-10-17**|**Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weather Conditions--Extended Version**|Jicheng Yuan et.al.|[2610.24532](http://arxiv.org/abs/2610.24532)|null|
 |**2026-10-16**|**Precision Cotton Disease Management: Leveraging UAV Imagery and Custom YOLO Deep Learning Framework for Enhanced Detection**|1. Anwar Iqbal*1 aiqbal. rime23smme@student. nust. edu. pk 2. Kunwar Faraz Ahmad Khan1 kunwar. faraz@smme. nust. edu. pk 3. Shahbaz Khan1 shahbaz. khan@smme. nust. edu. pk 4. Khawaja Fahad Iqbal1 fahad. iqbal@smme. nust. edu. pk 5. Sara Ali1 et.al.|[2610.24182](http://arxiv.org/abs/2610.24182)|null|
-|**2026-10-16**|**CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents**|Sungsu Kim et.al.|[2610.24016](http://arxiv.org/abs/2610.24016)|null|
+|**2026-10-25**|**CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents**|Sungsu Kim et.al.|[2610.24016](http://arxiv.org/abs/2610.24016)|null|
 |**2026-10-11**|**Geo-vision: Native-Resolution Geometry and Sampled Topology for Vehicle-Part Damage Classification**|Usef Faghihi et.al.|[2610.23967](http://arxiv.org/abs/2610.23967)|null|
 |**2026-10-15**|**Material and Defocus Cues for Occluded Object Localization in Single Hyperspectral Images: An Exploratory Study**|Ali Zia et.al.|[2610.23733](http://arxiv.org/abs/2610.23733)|null|
 |**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046](http://arxiv.org/abs/2610.23046)|null|
@@ -119,18 +125,18 @@
 |**2026-10-13**|**Context-aware Bayesian Fusion for Multimodal Object Detection**|Arunachalam Venkatachalam et.al.|[2610.18741](http://arxiv.org/abs/2610.18741)|null|
 |**2026-10-13**|**CryoTracer: A Synthetic-to-Real System for Filament Instance Tracing in Cryo-EM**|Radosław Kuczbański et.al.|[2610.18696](http://arxiv.org/abs/2610.18696)|null|
 |**2026-10-13**|**Prompt-Segmentation Meets ROI Encryption: Fine-Grained Video Protection Based on Diffusion Isolation**|Xiang Zhang et.al.|[2610.18558](http://arxiv.org/abs/2610.18558)|null|
-|**2026-10-13**|**Augmenting Real-time Visualization in Minimally Invasive Surgery with Particle Filtering and Depth-Aware Occlusion Handling**|Anuska Sarkar et.al.|[2610.18422](http://arxiv.org/abs/2610.18422)|null|
-|**2026-10-13**|**Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar**|Shiva Agrawal et.al.|[2610.18417](http://arxiv.org/abs/2610.18417)|null|
-|**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|null|
-|**2026-10-13**|**InSight: A Mobile Assistant Helping Visually Impaired People Navigate Unfamiliar Environment**|Junwei Zheng et.al.|[2610.17660](http://arxiv.org/abs/2610.17660)|null|
-|**2026-10-12**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906](http://arxiv.org/abs/2610.16906)|null|
-|**2026-10-12**|**Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving**|Ce Zhou et.al.|[2610.16012](http://arxiv.org/abs/2610.16012)|null|
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Yihang Chen et.al.|[2610.34845](http://arxiv.org/abs/2610.34845)|null|
+|**2026-10-25**|**No Cones, No Duals: A Fast and Scalable Solver for NRSfM**|Suryansh Kumar et.al.|[2610.34403](http://arxiv.org/abs/2610.34403)|null|
+|**2026-10-25**|**T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments**|Yilong Chen et.al.|[2610.34041](http://arxiv.org/abs/2610.34041)|null|
+|**2026-10-23**|**TinyFlow: Breaking the Warping Bottleneck for Edge Optical Flow**|Xiao'ao Song et.al.|[2610.33338](http://arxiv.org/abs/2610.33338)|null|
+|**2026-10-23**|**Bracketing Shows the Way: Adaptive Multi-Exposure Policy as Input for Robust Visual SLAM**|Olivier Gamache et.al.|[2610.33174](http://arxiv.org/abs/2610.33174)|null|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
 |**2026-10-22**|**Consistent Distributed Invariant EKF SLAM with Point and Object Features**|Mengya Xu et.al.|[2610.31221](http://arxiv.org/abs/2610.31221)|null|
 |**2026-10-22**|**Evaluation of Front-End Feature Matching for Lunar Visual SLAM**|Guillem Casadesus Vila et.al.|[2610.30774](http://arxiv.org/abs/2610.30774)|null|
@@ -142,7 +148,7 @@
 |**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633](http://arxiv.org/abs/2610.26633)|null|
 |**2026-10-19**|**EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience**|Xinhao Ji et.al.|[2610.26625](http://arxiv.org/abs/2610.26625)|null|
 |**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261](http://arxiv.org/abs/2610.25261)|null|
-|**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
+|**2026-10-23**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Haohua Que et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
 |**2026-10-16**|**The Rise of Personal Trackers as the Next Infrastructure for Ubiquitous Positioning**|Mohamed I. Hany et.al.|[2610.24249](http://arxiv.org/abs/2610.24249)|null|
 |**2026-10-16**|**Ionic switching between supermagnetic states**|Sumaiyatul Ahsan et.al.|[2610.23829](http://arxiv.org/abs/2610.23829)|null|
 |**2026-10-16**|**F-LIVO: A Feature-Level Geometric Measurement Framework for LiDAR-Inertial-Visual Odometry**|Xinye Dai et.al.|[2610.23595](http://arxiv.org/abs/2610.23595)|null|
@@ -175,13 +181,7 @@
 |**2026-10-02**|**Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes**|Zekui Xue et.al.|[2610.10564](http://arxiv.org/abs/2610.10564)|null|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|null|
-|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|null|
-|**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|null|
-|**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
-|**2026-10-20**|**RoboCap: A New Platform for Egocentric Robot Learning**|Qasim Ali et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
-|**2026-10-05**|**Stellarators Linking Axisymmetric Mirrors Part 1: Coil Design, MHD Equilibrium, and Physics Metrics**|Rahul Gaur et.al.|[2610.06085](http://arxiv.org/abs/2610.06085)|null|
-|**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|null|
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
