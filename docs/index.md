@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.27
+## Updated on 2026.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Cartan-Ambrose-Hicks theorems and dual geodesic symmetries on statistical manifolds**|Naoto Satoh et.al.|[2610.36803](http://arxiv.org/abs/2610.36803)|null|
 |**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758](http://arxiv.org/abs/2610.33758)|null|
 |**2026-10-21**|**Solar Photospheric Flows and the Origin of Active Regions**|Alexander V. Getling et.al.|[2610.30333](http://arxiv.org/abs/2610.30333)|null|
 |**2026-10-21**|**Joint-Angle Invariance of Jacobian-Based Performance Indices for Serial Robotic Manipulators**|Yaohua Zhou et.al.|[2610.29570](http://arxiv.org/abs/2610.29570)|null|
@@ -267,6 +268,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Leveraging Distributed Sensing and Hyperdimensional Computing for Non-Line-of-Sight Passive Object Sensing**|Placido Mursia et.al.|[2610.37519](http://arxiv.org/abs/2610.37519)|null|
+|**2026-10-27**|**FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS**|Tom Sanitz et.al.|[2610.37153](http://arxiv.org/abs/2610.37153)|null|
+|**2026-10-27**|**AxisQ: Depth-Adaptive Channel--Frequency Quantization for Camouflaged Object Detection**|Chi Ruan et.al.|[2610.36844](http://arxiv.org/abs/2610.36844)|null|
+|**2026-10-27**|**SAGE: Saliency-Annealed Gated Encoder for Universal Vision Recognition**|Le Yang et.al.|[2610.36719](http://arxiv.org/abs/2610.36719)|null|
+|**2026-10-26**|**GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection**|Yin Zhang et.al.|[2610.35374](http://arxiv.org/abs/2610.35374)|null|
 |**2026-10-26**|**Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection**|Milin Patel et.al.|[2610.35092](http://arxiv.org/abs/2610.35092)|null|
 |**2026-10-26**|**Shifted Window Temporal Transformer for YOLO-Guided Phase Recognition in Laparoscopic Cholecystectomy Surgery**|Sheekar Banerjee et.al.|[2610.35005](http://arxiv.org/abs/2610.35005)|null|
 |**2026-10-26**|**Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection**|Jinwoo Chung et.al.|[2610.34976](http://arxiv.org/abs/2610.34976)|null|
@@ -292,9 +298,9 @@ layout: default
 |**2026-10-17**|**Controllable Multi-Object Insertion for Detection Data Augmentation**|Jiyang Huang et.al.|[2610.26922](http://arxiv.org/abs/2610.26922)|null|
 |**2026-10-19**|**Long-form Video-to-Text Summarization using Recursive Language Models**|Alessia Intini et.al.|[2610.26431](http://arxiv.org/abs/2610.26431)|null|
 |**2026-10-19**|**Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection**|Keyhan Rayati et.al.|[2610.26170](http://arxiv.org/abs/2610.26170)|null|
-|**2026-10-19**|**RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion**|Peijun Shi et.al.|[2610.26090](http://arxiv.org/abs/2610.26090)|**[link](https://github.com/Peijun1122/ERA-Det)**|
+|**2026-10-19**|**RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion**|Peijun Shi et.al.|[2610.26090](http://arxiv.org/abs/2610.26090)|null|
 |**2026-10-19**|**Plate-YOLO: An End-to-End Object Detection Framework for Robust Astrometric Registration of Historical Plates**|Quanfeng Xu et.al.|[2610.25677](http://arxiv.org/abs/2610.25677)|null|
-|**2026-10-18**|**Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection**|Fahad Iqbal et.al.|[2610.25535](http://arxiv.org/abs/2610.25535)|**[link](https://github.com/sarbel-org/ResCD-CSI)**|
+|**2026-10-18**|**Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection**|Fahad Iqbal et.al.|[2610.25535](http://arxiv.org/abs/2610.25535)|null|
 |**2026-10-17**|**SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection**|Yang-Syu Li et.al.|[2610.24814](http://arxiv.org/abs/2610.24814)|null|
 |**2026-10-17**|**Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weather Conditions--Extended Version**|Jicheng Yuan et.al.|[2610.24532](http://arxiv.org/abs/2610.24532)|null|
 |**2026-10-16**|**Precision Cotton Disease Management: Leveraging UAV Imagery and Custom YOLO Deep Learning Framework for Enhanced Detection**|1. Anwar Iqbal*1 aiqbal. rime23smme@student. nust. edu. pk 2. Kunwar Faraz Ahmad Khan1 kunwar. faraz@smme. nust. edu. pk 3. Shahbaz Khan1 shahbaz. khan@smme. nust. edu. pk 4. Khawaja Fahad Iqbal1 fahad. iqbal@smme. nust. edu. pk 5. Sara Ali1 et.al.|[2610.24182](http://arxiv.org/abs/2610.24182)|null|
@@ -1444,6 +1450,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
+|**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
+|**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|null|
+|**2026-10-27**|**SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL**|Chinmay Burgul et.al.|[2610.36454](http://arxiv.org/abs/2610.36454)|null|
+|**2026-10-26**|**SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation**|Ziang Guo et.al.|[2610.36312](http://arxiv.org/abs/2610.36312)|null|
+|**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642](http://arxiv.org/abs/2610.35642)|null|
+|**2026-10-26**|**Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction**|Íñigo Cirauqui-Viloria et.al.|[2610.35621](http://arxiv.org/abs/2610.35621)|null|
+|**2026-10-27**|**Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU**|Davide Cuttini et.al.|[2610.35554](http://arxiv.org/abs/2610.35554)|null|
+|**2026-10-26**|**Generative Structure from Motion with Native 3D Diffusion**|Haobin Duan et.al.|[2610.35522](http://arxiv.org/abs/2610.35522)|null|
+|**2026-10-26**|**Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization**|Tze Ho Elden Tse et.al.|[2610.35501](http://arxiv.org/abs/2610.35501)|null|
 |**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Yihang Chen et.al.|[2610.34845](http://arxiv.org/abs/2610.34845)|null|
 |**2026-10-25**|**No Cones, No Duals: A Fast and Scalable Solver for NRSfM**|Suryansh Kumar et.al.|[2610.34403](http://arxiv.org/abs/2610.34403)|null|
 |**2026-10-25**|**T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Dynamic and Evolving Environments**|Yilong Chen et.al.|[2610.34041](http://arxiv.org/abs/2610.34041)|null|
