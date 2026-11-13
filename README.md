@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.11
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model**|Junyoung Seo et.al.|[2611.14815](http://arxiv.org/abs/2611.14815)|null|
 |**2026-11-09**|**Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics**|Majdi Hassan et.al.|[2611.12880](http://arxiv.org/abs/2611.12880)|null|
 |**2026-11-09**|**ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion**|Hongjae Shin et.al.|[2611.12346](http://arxiv.org/abs/2611.12346)|null|
 |**2026-11-06**|**Function-Space Certification for Neural Operators**|Ryan Hsiang et.al.|[2611.09038](http://arxiv.org/abs/2611.09038)|null|
@@ -68,19 +69,22 @@
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
 |**2026-09-28**|**Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation**|Ping Xiong et.al.|[2609.35128](http://arxiv.org/abs/2609.35128)|null|
-|**2026-09-26**|**PolyTopoBench: A Benchmark for Complex Vector Polygon Generation from Remote Sensing Imagery**|Zeping Liu et.al.|[2609.32856](http://arxiv.org/abs/2609.32856)|null|
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524](http://arxiv.org/abs/2611.15524)|null|
+|**2026-11-11**|**Fear of Memorizing Objects: End-to-End Zero-Shot Model-Based Object Detection**|Leon Greiner et.al.|[2611.15459](http://arxiv.org/abs/2611.15459)|null|
+|**2026-11-10**|**Learning a model of non-stationary nuisances with non-local correlations for object detection**|Olivier Flasseur et.al.|[2611.14479](http://arxiv.org/abs/2611.14479)|null|
+|**2026-11-10**|**Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers**|Uma Meleti et.al.|[2611.14074](http://arxiv.org/abs/2611.14074)|null|
 |**2026-11-09**|**RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion**|Yuan Fang et.al.|[2611.13271](http://arxiv.org/abs/2611.13271)|null|
 |**2026-11-08**|**Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection**|Wei Zhang et.al.|[2611.12976](http://arxiv.org/abs/2611.12976)|null|
-|**2026-11-10**|**When Does Sliced Inference Pay Off? Resolution, Tiling and Dense Fusion for Small Object Detection**|Stefan Becker et.al.|[2611.12657](http://arxiv.org/abs/2611.12657)|null|
+|**2026-11-11**|**When Does Sliced Inference Pay Off? Resolution, Tiling and Dense Fusion for Small Object Detection**|Stefan Becker et.al.|[2611.12657](http://arxiv.org/abs/2611.12657)|null|
 |**2026-11-09**|**Detecting space objects with Earth-observation radar satellites**|Juha Vierinen et.al.|[2611.12158](http://arxiv.org/abs/2611.12158)|null|
 |**2026-11-08**|**Compute Regeneration through Re-Productization: Reorganizing Retired Edge AI Silicon into a Delivered Multilingual Service Robot**|Hongyu Luo et.al.|[2611.11698](http://arxiv.org/abs/2611.11698)|null|
-|**2026-11-08**|**Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation**|Zhihao Zhang et.al.|[2611.11607](http://arxiv.org/abs/2611.11607)|null|
+|**2026-11-08**|**Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation**|Zhihao Zhang et.al.|[2611.11607](http://arxiv.org/abs/2611.11607)|**[link](https://github.com/alanzhangcs/MonoPCA)**|
 |**2026-11-10**|**SegDis: Foreground Segmentation Followed by Type Discrimination for Salient and Camouflaged Object Detection**|Dingning Luo et.al.|[2611.11378](http://arxiv.org/abs/2611.11378)|null|
 |**2026-11-08**|**Multi-Node Transformers for Object Detection and Captioning Across Distributed Edge Networks**|Saurabh Kumar et.al.|[2611.11291](http://arxiv.org/abs/2611.11291)|null|
 |**2026-11-08**|**BiRefNet-V2: Rethinking Bilateral Reference for High-Resolution Dichotomous Image Segmentation**|Peng Zheng et.al.|[2611.11272](http://arxiv.org/abs/2611.11272)|null|
@@ -121,16 +125,14 @@
 |**2026-10-31**|**Smooth bounding box for object detection**|Chao Zhou et.al.|[2611.00676](http://arxiv.org/abs/2611.00676)|null|
 |**2026-10-31**|**Communication-Efficient Model-Distributed Inference for CBRS Radar Detection at the Edge**|Teng Li et.al.|[2611.00625](http://arxiv.org/abs/2611.00625)|null|
 |**2026-10-30**|**Directional Dual-Head Supervision for Real-Time Source-Free Polyp Segmentation**|Hai-Dang Nguyen et.al.|[2611.00238](http://arxiv.org/abs/2611.00238)|null|
-|**2026-10-28**|**SpikeAD: Toward Multiplication-Free Spike-Controlled Neuromorphic Architecture for Energy-Efficient Small Object Detection**|Zhifan Song et.al.|[2611.00112](http://arxiv.org/abs/2611.00112)|null|
-|**2026-10-22**|**Rethinking Feature Perturbation for Single-Source Domain Generalization: A Representation-Space Analysis and Spectral Case Study**|Badr-Eddine Benelmostafa et.al.|[2611.00091](http://arxiv.org/abs/2611.00091)|null|
-|**2026-10-30**|**IGDA-ICMH: an Importance Guided Feature and Network Dual Adaptation Framework towards Image Compression for Machine and Human Vision**|Yanbo Gao et.al.|[2610.41924](http://arxiv.org/abs/2610.41924)|null|
-|**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834](http://arxiv.org/abs/2610.41834)|null|
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-11**|**IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision**|Mrunmai Phatak et.al.|[2611.15429](http://arxiv.org/abs/2611.15429)|null|
+|**2026-11-10**|**CFAR Detection on Non-Coherently Integrated Angular Maps for mmWave Radio SLAM**|Paolo Tosi et.al.|[2611.14250](http://arxiv.org/abs/2611.14250)|null|
 |**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|null|
 |**2026-11-06**|**Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions**|Alvaro J. Gaona et.al.|[2611.12949](http://arxiv.org/abs/2611.12949)|null|
 |**2026-11-09**|**V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM**|Maolin Ye et.al.|[2611.12452](http://arxiv.org/abs/2611.12452)|null|
@@ -179,9 +181,7 @@
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
 |**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|null|
-|**2026-10-27**|**SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL**|Chinmay Burgul et.al.|[2610.36454](http://arxiv.org/abs/2610.36454)|null|
-|**2026-10-26**|**SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation**|Ziang Guo et.al.|[2610.36312](http://arxiv.org/abs/2610.36312)|null|
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
