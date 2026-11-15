@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.13
+## Updated on 2026.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589](http://arxiv.org/abs/2611.15589)|null|
 |**2026-11-10**|**BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model**|Junyoung Seo et.al.|[2611.14815](http://arxiv.org/abs/2611.14815)|null|
 |**2026-11-09**|**Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics**|Majdi Hassan et.al.|[2611.12880](http://arxiv.org/abs/2611.12880)|null|
 |**2026-11-09**|**ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion**|Hongjae Shin et.al.|[2611.12346](http://arxiv.org/abs/2611.12346)|null|
@@ -26,7 +27,7 @@
 |**2026-11-05**|**Cantor's onion: a uniformly quasiregular map whose Julia set is a Cantor set of spheres**|Alastair N. Fletcher et.al.|[2611.08773](http://arxiv.org/abs/2611.08773)|null|
 |**2026-11-05**|**BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving**|Qiren Wang et.al.|[2611.08631](http://arxiv.org/abs/2611.08631)|null|
 |**2026-11-04**|**Arctic-SAR: A Cross-Sensor RADARSAT Constellation Mission and Sentinel-1 Dataset and Fusion Benchmark for Multi-Task Sea Ice Mapping**|Niloofar Azad et.al.|[2611.08533](http://arxiv.org/abs/2611.08533)|null|
-|**2026-11-03**|**ReSMap: Recasting Satellite Priors for Robust and Accurate Online HD Map Construction**|Kyungmin Kim et.al.|[2611.04352](http://arxiv.org/abs/2611.04352)|**[link](https://github.com/dehsurc/ReSMap)**|
+|**2026-11-03**|**ReSMap: Recasting Satellite Priors for Robust and Accurate Online HD Map Construction**|Kyungmin Kim et.al.|[2611.04352](http://arxiv.org/abs/2611.04352)|null|
 |**2026-11-02**|**Effective Optical Geometry and Holographic Phase Structure of a Magnetic AdS Black Hole**|Mohammad Ali S. Afshar et.al.|[2611.03749](http://arxiv.org/abs/2611.03749)|null|
 |**2026-11-02**|**Multi-User Precoding with Stacked Intelligent Metasurfaces via Neural Reparameterization**|Yongqiang Zhang et.al.|[2611.03398](http://arxiv.org/abs/2611.03398)|null|
 |**2026-10-31**|**Reasoning Across Scales: Learning Challenges and Opportunities for Immersive Technologies in Chip Design Education**|Satya Kamala Immidisetty et.al.|[2611.01361](http://arxiv.org/abs/2611.01361)|null|
@@ -68,13 +69,17 @@
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
-|**2026-09-28**|**Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation**|Ping Xiong et.al.|[2609.35128](http://arxiv.org/abs/2609.35128)|null|
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Report of the 8th LSVOS Challenge: Mobile Unified Multimodal Understanding**|Chang Liu et.al.|[2611.16925](http://arxiv.org/abs/2611.16925)|null|
+|**2026-11-12**|**What Limits Thermal Infrared Drone Detection? A Cross-Dataset Benchmark Analysis**|Tamara R. Lenhard et.al.|[2611.16724](http://arxiv.org/abs/2611.16724)|null|
+|**2026-11-11**|**Adaptive Distance Detection and Adaptive Instance Segmentation**|Kai Yi Ji et.al.|[2611.15991](http://arxiv.org/abs/2611.15991)|null|
+|**2026-11-11**|**FoveaDet: Software-Hardware Co-Design of Foveated CNN-Transformer for Object Detection**|Deepak Mewada et.al.|[2611.15579](http://arxiv.org/abs/2611.15579)|null|
+|**2026-11-11**|**RipBench: A Unified Benchmark for Multi-Level Rip Current Detection, Classification and Segmentation**|Andrei Dumitriu et.al.|[2611.15574](http://arxiv.org/abs/2611.15574)|null|
 |**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524](http://arxiv.org/abs/2611.15524)|null|
 |**2026-11-11**|**Fear of Memorizing Objects: End-to-End Zero-Shot Model-Based Object Detection**|Leon Greiner et.al.|[2611.15459](http://arxiv.org/abs/2611.15459)|null|
 |**2026-11-10**|**Learning a model of non-stationary nuisances with non-local correlations for object detection**|Olivier Flasseur et.al.|[2611.14479](http://arxiv.org/abs/2611.14479)|null|
@@ -83,8 +88,8 @@
 |**2026-11-08**|**Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection**|Wei Zhang et.al.|[2611.12976](http://arxiv.org/abs/2611.12976)|null|
 |**2026-11-11**|**When Does Sliced Inference Pay Off? Resolution, Tiling and Dense Fusion for Small Object Detection**|Stefan Becker et.al.|[2611.12657](http://arxiv.org/abs/2611.12657)|null|
 |**2026-11-09**|**Detecting space objects with Earth-observation radar satellites**|Juha Vierinen et.al.|[2611.12158](http://arxiv.org/abs/2611.12158)|null|
-|**2026-11-08**|**Compute Regeneration through Re-Productization: Reorganizing Retired Edge AI Silicon into a Delivered Multilingual Service Robot**|Hongyu Luo et.al.|[2611.11698](http://arxiv.org/abs/2611.11698)|null|
-|**2026-11-08**|**Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation**|Zhihao Zhang et.al.|[2611.11607](http://arxiv.org/abs/2611.11607)|**[link](https://github.com/alanzhangcs/MonoPCA)**|
+|**2026-11-12**|**Compute Regeneration through Re-Productization: Reorganizing Retired Edge AI Silicon into a Delivered Multilingual Service Robot**|Hongyu Luo et.al.|[2611.11698](http://arxiv.org/abs/2611.11698)|null|
+|**2026-11-08**|**Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation**|Zhihao Zhang et.al.|[2611.11607](http://arxiv.org/abs/2611.11607)|null|
 |**2026-11-10**|**SegDis: Foreground Segmentation Followed by Type Discrimination for Salient and Camouflaged Object Detection**|Dingning Luo et.al.|[2611.11378](http://arxiv.org/abs/2611.11378)|null|
 |**2026-11-08**|**Multi-Node Transformers for Object Detection and Captioning Across Distributed Edge Networks**|Saurabh Kumar et.al.|[2611.11291](http://arxiv.org/abs/2611.11291)|null|
 |**2026-11-08**|**BiRefNet-V2: Rethinking Bilateral Reference for High-Resolution Dichotomous Image Segmentation**|Peng Zheng et.al.|[2611.11272](http://arxiv.org/abs/2611.11272)|null|
@@ -120,23 +125,19 @@
 |**2026-11-02**|**TERA: Task-Evidence Restoration for Underwater Object Detection under Bandwidth-Constrained Transmission**|Heejin Kim et.al.|[2611.02419](http://arxiv.org/abs/2611.02419)|null|
 |**2026-11-02**|**MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models**|Shenghan Luo et.al.|[2611.02405](http://arxiv.org/abs/2611.02405)|null|
 |**2026-11-01**|**Detection Instead of Inversion: T1-T2 Microstructure Quantification With Detection Transformers**|Sebastian Endt et.al.|[2611.01790](http://arxiv.org/abs/2611.01790)|null|
-|**2026-10-31**|**Joint Trajectory, Sensing, and Computation Co-Design for UAV-Assisted Federated Edge Vision**|Kaichen Liu et.al.|[2611.00790](http://arxiv.org/abs/2611.00790)|null|
-|**2026-10-31**|**ROD-Dataset: A Pedestrian-Perspective Benchmark of Urban Obstacle Classes for YOLO-Based Detection**|Abtin Zandi et.al.|[2611.00681](http://arxiv.org/abs/2611.00681)|null|
-|**2026-10-31**|**Smooth bounding box for object detection**|Chao Zhou et.al.|[2611.00676](http://arxiv.org/abs/2611.00676)|null|
-|**2026-10-31**|**Communication-Efficient Model-Distributed Inference for CBRS Radar Detection at the Edge**|Teng Li et.al.|[2611.00625](http://arxiv.org/abs/2611.00625)|null|
-|**2026-10-30**|**Directional Dual-Head Supervision for Real-Time Source-Free Polyp Segmentation**|Hai-Dang Nguyen et.al.|[2611.00238](http://arxiv.org/abs/2611.00238)|null|
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5**|Himanshu Patil et.al.|[2611.16472](http://arxiv.org/abs/2611.16472)|null|
 |**2026-11-11**|**IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision**|Mrunmai Phatak et.al.|[2611.15429](http://arxiv.org/abs/2611.15429)|null|
 |**2026-11-10**|**CFAR Detection on Non-Coherently Integrated Angular Maps for mmWave Radio SLAM**|Paolo Tosi et.al.|[2611.14250](http://arxiv.org/abs/2611.14250)|null|
 |**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|null|
 |**2026-11-06**|**Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions**|Alvaro J. Gaona et.al.|[2611.12949](http://arxiv.org/abs/2611.12949)|null|
 |**2026-11-09**|**V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM**|Maolin Ye et.al.|[2611.12452](http://arxiv.org/abs/2611.12452)|null|
-|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-12**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
 |**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|null|
 |**2026-11-09**|**Prop-WRF: Proposal-Guided Wireless Radiance Field for Scalable Multi-Frequency Outdoor Channel Frequency Response Prediction**|Yulin Fu et.al.|[2611.11845](http://arxiv.org/abs/2611.11845)|null|
 |**2026-11-09**|**ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association**|Nan Wu et.al.|[2611.11825](http://arxiv.org/abs/2611.11825)|null|
@@ -180,8 +181,7 @@
 |**2026-10-27**|**A Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals: Weakening Boundedness of Gradient**|Qi Wang et.al.|[2610.37947](http://arxiv.org/abs/2610.37947)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
-|**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|null|
-<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
