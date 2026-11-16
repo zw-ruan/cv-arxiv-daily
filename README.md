@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Object Detection
 
@@ -125,7 +125,7 @@
 |**2026-11-02**|**TERA: Task-Evidence Restoration for Underwater Object Detection under Bandwidth-Constrained Transmission**|Heejin Kim et.al.|[2611.02419](http://arxiv.org/abs/2611.02419)|null|
 |**2026-11-02**|**MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models**|Shenghan Luo et.al.|[2611.02405](http://arxiv.org/abs/2611.02405)|null|
 |**2026-11-01**|**Detection Instead of Inversion: T1-T2 Microstructure Quantification With Detection Transformers**|Sebastian Endt et.al.|[2611.01790](http://arxiv.org/abs/2611.01790)|null|
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## SLAM/SFM
 
@@ -181,7 +181,7 @@
 |**2026-10-27**|**A Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals: Weakening Boundedness of Gradient**|Qi Wang et.al.|[2610.37947](http://arxiv.org/abs/2610.37947)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
