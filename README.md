@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2026-11-09**|**ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion**|Hongjae Shin et.al.|[2611.12346](http://arxiv.org/abs/2611.12346)|null|
 |**2026-11-06**|**Function-Space Certification for Neural Operators**|Ryan Hsiang et.al.|[2611.09038](http://arxiv.org/abs/2611.09038)|null|
 |**2026-11-05**|**Cantor's onion: a uniformly quasiregular map whose Julia set is a Cantor set of spheres**|Alastair N. Fletcher et.al.|[2611.08773](http://arxiv.org/abs/2611.08773)|null|
-|**2026-11-05**|**BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving**|Qiren Wang et.al.|[2611.08631](http://arxiv.org/abs/2611.08631)|null|
+|**2026-11-13**|**BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving**|Qiren Wang et.al.|[2611.08631](http://arxiv.org/abs/2611.08631)|null|
 |**2026-11-04**|**Arctic-SAR: A Cross-Sensor RADARSAT Constellation Mission and Sentinel-1 Dataset and Fusion Benchmark for Multi-Task Sea Ice Mapping**|Niloofar Azad et.al.|[2611.08533](http://arxiv.org/abs/2611.08533)|null|
 |**2026-11-03**|**ReSMap: Recasting Satellite Priors for Robust and Accurate Online HD Map Construction**|Kyungmin Kim et.al.|[2611.04352](http://arxiv.org/abs/2611.04352)|null|
 |**2026-11-02**|**Effective Optical Geometry and Holographic Phase Structure of a Magnetic AdS Black Hole**|Mohammad Ali S. Afshar et.al.|[2611.03749](http://arxiv.org/abs/2611.03749)|null|
@@ -69,12 +69,26 @@
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-09-30**|**Derivatives of symplectic spectral functions**|Hemant K. Mishra et.al.|[2609.40175](http://arxiv.org/abs/2609.40175)|null|
 |**2026-09-29**|**Testing Diagonal Anisotropy Based on Single Realisation of Spherical Random Field**|Shahid Khan et.al.|[2609.36786](http://arxiv.org/abs/2609.36786)|null|
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Room for Supervision: Training-Free Dataset Distillation for Object Detection**|Ziang Gan et.al.|[2611.20680](http://arxiv.org/abs/2611.20680)|null|
+|**2026-11-16**|**Vision-Language Grounded Semantic Navigation for Autonomous Mobile Robots**|Ravindran Vasoor Saravanan et.al.|[2611.20558](http://arxiv.org/abs/2611.20558)|null|
+|**2026-11-15**|**Aerial Person Detection under Edge Constraints: Held-Out Evaluation and Edge-Ground Verification**|Raghu Venkat et.al.|[2611.20127](http://arxiv.org/abs/2611.20127)|null|
+|**2026-11-15**|**AGPF: Dynamic Source Selection for Feature Pyramid Fusion**|Xu Yang et.al.|[2611.19836](http://arxiv.org/abs/2611.19836)|null|
+|**2026-11-15**|**Hermitian Positive Definite Neural Networks for Matrix-CFAR Geometric Signal Detection in Nonhomogeneous Clutter**|Xiyao Chen et.al.|[2611.19820](http://arxiv.org/abs/2611.19820)|null|
+|**2026-11-15**|**Event-based object detection under adverse lighting and motion: lessons for construction sites**|Zhuoran Feng et.al.|[2611.19746](http://arxiv.org/abs/2611.19746)|null|
+|**2026-11-14**|**PALIN: Pixel-Aligned LiDAR-NIR Multimodal 3D Object Detection with Benchmark**|Yanan Zhang et.al.|[2611.19485](http://arxiv.org/abs/2611.19485)|null|
+|**2026-11-14**|**Detecting Small Space Objects for Space Situational Awareness with Collaborative Edge AI**|Xingyu Qu et.al.|[2611.19394](http://arxiv.org/abs/2611.19394)|null|
+|**2026-11-12**|**Third-Place Solution for the UCF UrbanTwin V2X-Real Track at ECCV 2026: Synthetic Point Cloud Generation and Sim-to-Real 3D Object Detection**|Antong Deng et.al.|[2611.18778](http://arxiv.org/abs/2611.18778)|null|
+|**2026-11-13**|**Box-conditional Hypothesis Testing for Out-of-Distribution Object Detection**|Donghoon Lee et.al.|[2611.18519](http://arxiv.org/abs/2611.18519)|null|
+|**2026-11-13**|**Toward On-Device Markerless 6DoF Tracking of a Physical Manipulative on a Mixed-Reality Headset: A Preliminary Study**|Guangxi Feng et.al.|[2611.18438](http://arxiv.org/abs/2611.18438)|null|
+|**2026-11-13**|**From Images to Grounded Edits: A Real-World Benchmark for Chinese Grammatical Error Correction in Handwritten Essays**|Weiru Zhang et.al.|[2611.17966](http://arxiv.org/abs/2611.17966)|null|
+|**2026-11-13**|**See and Detect: Image-Driven Open-Vocabulary Multi-View 3D Object Detection**|Yating Xu et.al.|[2611.17897](http://arxiv.org/abs/2611.17897)|null|
+|**2026-11-13**|**Can Large Language Models Optimize Pretrained Neural Network Weights? A Multi-Phase Empirical Evaluation of Gradient-Free Editing in YOLO26 Object Detection**|Mohamed Abdallah Salem et.al.|[2611.17789](http://arxiv.org/abs/2611.17789)|null|
 |**2026-11-12**|**Report of the 8th LSVOS Challenge: Mobile Unified Multimodal Understanding**|Chang Liu et.al.|[2611.16925](http://arxiv.org/abs/2611.16925)|null|
 |**2026-11-12**|**What Limits Thermal Infrared Drone Detection? A Cross-Dataset Benchmark Analysis**|Tamara R. Lenhard et.al.|[2611.16724](http://arxiv.org/abs/2611.16724)|null|
 |**2026-11-11**|**Adaptive Distance Detection and Adaptive Instance Segmentation**|Kai Yi Ji et.al.|[2611.15991](http://arxiv.org/abs/2611.15991)|null|
@@ -86,7 +100,7 @@
 |**2026-11-10**|**Obscured Wildfire Flame Detection by Spatio-temporal Analysis of Smoke Patterns Using Frame-wise Transformers**|Uma Meleti et.al.|[2611.14074](http://arxiv.org/abs/2611.14074)|null|
 |**2026-11-09**|**RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion**|Yuan Fang et.al.|[2611.13271](http://arxiv.org/abs/2611.13271)|null|
 |**2026-11-08**|**Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection**|Wei Zhang et.al.|[2611.12976](http://arxiv.org/abs/2611.12976)|null|
-|**2026-11-11**|**When Does Sliced Inference Pay Off? Resolution, Tiling and Dense Fusion for Small Object Detection**|Stefan Becker et.al.|[2611.12657](http://arxiv.org/abs/2611.12657)|null|
+|**2026-11-16**|**When Does Sliced Inference Pay Off? Resolution, Tiling and Dense Fusion for Small Object Detection**|Stefan Becker et.al.|[2611.12657](http://arxiv.org/abs/2611.12657)|null|
 |**2026-11-09**|**Detecting space objects with Earth-observation radar satellites**|Juha Vierinen et.al.|[2611.12158](http://arxiv.org/abs/2611.12158)|null|
 |**2026-11-12**|**Compute Regeneration through Re-Productization: Reorganizing Retired Edge AI Silicon into a Delivered Multilingual Service Robot**|Hongyu Luo et.al.|[2611.11698](http://arxiv.org/abs/2611.11698)|null|
 |**2026-11-08**|**Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation**|Zhihao Zhang et.al.|[2611.11607](http://arxiv.org/abs/2611.11607)|null|
@@ -111,26 +125,20 @@
 |**2026-11-04**|**Uncertainty-Driven Efficient Communication for UAV-Based Collaborative Perception**|Jiuwu Hao et.al.|[2611.06635](http://arxiv.org/abs/2611.06635)|null|
 |**2026-11-04**|**CoDecide: Content-Adaptive Video Decoding for High-Throughput Video Analytics**|Shristy Shah et.al.|[2611.06455](http://arxiv.org/abs/2611.06455)|null|
 |**2026-11-04**|**MonoLaDN: Language-Guided DeNoising for Monocular 3D Object Detection**|Kiet Dang Vu et.al.|[2611.06282](http://arxiv.org/abs/2611.06282)|null|
-|**2026-11-04**|**Annotator-Free Object Detection via Foundation Model Collaboration**|Yasiru Ranasinghe et.al.|[2611.06195](http://arxiv.org/abs/2611.06195)|null|
-|**2026-11-04**|**Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion**|Ryan Wen Liu et.al.|[2611.05818](http://arxiv.org/abs/2611.05818)|null|
-|**2026-11-03**|**Gradient-Guided Orientation Learning for Weakly Supervised Oriented Object Detection**|Junyong Jang et.al.|[2611.04616](http://arxiv.org/abs/2611.04616)|null|
-|**2026-11-03**|**CLOCs-R: Radar-Assisted Camera-LiDAR Fusion for Long-Range Object Detection**|Richard Beuck et.al.|[2611.04300](http://arxiv.org/abs/2611.04300)|null|
-|**2026-11-04**|**LiSA: Linear Stochastic Attention for Long-Range Visual Modeling**|Sahar Dastani et.al.|[2611.04216](http://arxiv.org/abs/2611.04216)|null|
-|**2026-11-02**|**Beyond Proposals: Region-Consistent Open-Set Object Detection**|Jiehui Tang et.al.|[2611.03741](http://arxiv.org/abs/2611.03741)|null|
-|**2026-11-04**|**Bg-Mix: On Using Image Backgrounds for Data Augmentation in Electron Microscopy Images**|Ankur Srivastava et.al.|[2611.03455](http://arxiv.org/abs/2611.03455)|null|
-|**2026-11-02**|**CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2611.03229](http://arxiv.org/abs/2611.03229)|null|
-|**2026-11-02**|**ILLRAW: Illumination-Aware RAW Object Detection**|Xinzhe Wang et.al.|[2611.02995](http://arxiv.org/abs/2611.02995)|null|
-|**2026-11-02**|**Comprehensive Evaluation of Monocular and Multi-view 3D Human Pose Estimation Models for Fitness Exercise Analysis**|Néstor Ortega et.al.|[2611.02929](http://arxiv.org/abs/2611.02929)|null|
-|**2026-11-02**|**Attention Residual U-Net for Enhanced Cross-Dataset Polyp Localization in Endoscopy**|Romil Imtiaz et.al.|[2611.02726](http://arxiv.org/abs/2611.02726)|null|
-|**2026-11-02**|**TERA: Task-Evidence Restoration for Underwater Object Detection under Bandwidth-Constrained Transmission**|Heejin Kim et.al.|[2611.02419](http://arxiv.org/abs/2611.02419)|null|
-|**2026-11-02**|**MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models**|Shenghan Luo et.al.|[2611.02405](http://arxiv.org/abs/2611.02405)|null|
-|**2026-11-01**|**Detection Instead of Inversion: T1-T2 Microstructure Quantification With Detection Transformers**|Sebastian Endt et.al.|[2611.01790](http://arxiv.org/abs/2611.01790)|null|
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**OrthoMark: Place Recognition with Point-Anchored Orthographic Height Mark**|Haichuan Li et.al.|[2611.20570](http://arxiv.org/abs/2611.20570)|null|
+|**2026-11-16**|**sqrtVINS-Based 360 Visual-Inertial SLAM Systems: Hilti-Trimble SLAM Challenge 2026 Entry**|Jungwoo Lee et.al.|[2611.20568](http://arxiv.org/abs/2611.20568)|null|
+|**2026-11-16**|**Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery**|Dewi Endah Kharismawati et.al.|[2611.20502](http://arxiv.org/abs/2611.20502)|null|
+|**2026-11-15**|**Remember, Replay, Adapt: Learning from Past Experience in Online Vision-and-Language Navigation**|Chenhao Ding et.al.|[2611.19901](http://arxiv.org/abs/2611.19901)|null|
+|**2026-11-15**|**M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions**|Yan Dong et.al.|[2611.19765](http://arxiv.org/abs/2611.19765)|null|
+|**2026-11-14**|**DEFDVO: Deformable Deep Visual Odometry for Equirectangular Images**|Burak Sevsay et.al.|[2611.19095](http://arxiv.org/abs/2611.19095)|null|
+|**2026-11-13**|**Interpreting JWST UV luminosity functions and angular correlation functions via a "universal language" for high-redshift galaxies**|Ivan Nikolić et.al.|[2611.18850](http://arxiv.org/abs/2611.18850)|null|
+|**2026-11-13**|**Deep Bundle Adjustment**|Pak Hong Chui et.al.|[2611.18256](http://arxiv.org/abs/2611.18256)|null|
 |**2026-11-12**|**RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5**|Himanshu Patil et.al.|[2611.16472](http://arxiv.org/abs/2611.16472)|null|
 |**2026-11-11**|**IncR-3DSGG: Incremental Posed RGB Image Based 3D Scene Graph Generation via Privileged Depth Supervision**|Mrunmai Phatak et.al.|[2611.15429](http://arxiv.org/abs/2611.15429)|null|
 |**2026-11-10**|**CFAR Detection on Non-Coherently Integrated Angular Maps for mmWave Radio SLAM**|Paolo Tosi et.al.|[2611.14250](http://arxiv.org/abs/2611.14250)|null|
@@ -173,15 +181,7 @@
 |**2026-10-30**|**OASIS II: The Ionized Gas Traces Feedback-Driven Declines into the Quiet Side of Bursty Star Formation at z > 4**|Tobias J. Looser et.al.|[2610.41490](http://arxiv.org/abs/2610.41490)|null|
 |**2026-10-30**|**OASIS I: Spectroscopy of Mini-Quenched and Lulling Galaxies Constrains the Quiet Side of Bursty Star Formation at z > 4**|Tobias J. Looser et.al.|[2610.41489](http://arxiv.org/abs/2610.41489)|null|
 |**2026-10-29**|**Stochastic Linesearch Methods for Stochastic Variational Inequality Problems: Parameter-Free Schemes and Non-Monotone Variants**|Zhuoyu Xiao et.al.|[2610.41065](http://arxiv.org/abs/2610.41065)|null|
-|**2026-10-29**|**NGDEEP: Anchoring the $0.5 < z < 3.5$ Star-Forming Main Sequence at Low Stellar Masses with Ultradeep JWST/NIRISS WFSS**|Claire Bolda et.al.|[2610.40796](http://arxiv.org/abs/2610.40796)|null|
-|**2026-10-29**|**Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition**|Wenhui Feng et.al.|[2610.39691](http://arxiv.org/abs/2610.39691)|null|
-|**2026-10-29**|**UMI-Live for In-The-Wild Bimanual Robotics Data Collection**|Govind Velamoor et.al.|[2610.39385](http://arxiv.org/abs/2610.39385)|null|
-|**2026-10-28**|**Environmental Quenching of Satellite Galaxies out to z~0.4 with GAMA and DEVILS**|Megan Oxland et.al.|[2610.38836](http://arxiv.org/abs/2610.38836)|null|
-|**2026-10-28**|**SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites**|Hogyun Kim et.al.|[2610.38141](http://arxiv.org/abs/2610.38141)|null|
-|**2026-10-27**|**A Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals: Weakening Boundedness of Gradient**|Qi Wang et.al.|[2610.37947](http://arxiv.org/abs/2610.37947)|null|
-|**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
-|**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
