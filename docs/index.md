@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.19
+## Updated on 2026.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HD Map Construction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**WHU-Road3D: A dataset and benchmark towards fine-grained road surface mapping**|Xiaoxin Mi et.al.|[2611.25873](http://arxiv.org/abs/2611.25873)|null|
+|**2026-11-18**|**Old-School Planners Drive (Sometimes) Better Than Learned Ones**|Andreas Look et.al.|[2611.25138](http://arxiv.org/abs/2611.25138)|null|
 |**2026-11-18**|**OCTR2A: Real-Time RGB-to-BEV Trajectory Projection and Forecasting at Urban Intersections**|Emanuele Iacobelli et.al.|[2611.24352](http://arxiv.org/abs/2611.24352)|null|
 |**2026-11-17**|**PANO: Parallel Latent Space Neural Operator for Solving PDEs**|Zijiang Yang et.al.|[2611.22782](http://arxiv.org/abs/2611.22782)|**[link](https://github.com/ZijiangY1116/PANO)**|
 |**2026-11-17**|**AutoE2E: Don't speak - Language free end-to-end autonomy A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis**|Muhammad Zain Khawaja et.al.|[2611.22374](http://arxiv.org/abs/2611.22374)|null|
@@ -43,7 +45,7 @@ layout: default
 |**2026-10-16**|**Beckmann World Models: Direct Terminal-Map Learning for One-Step Action-Conditioned Prediction**|Adam Lee et.al.|[2610.26903](http://arxiv.org/abs/2610.26903)|null|
 |**2026-10-19**|**On Learning Expand-and-Sparsify Representations**|Alireza Asghari et.al.|[2610.26470](http://arxiv.org/abs/2610.26470)|null|
 |**2026-11-05**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284](http://arxiv.org/abs/2610.25284)|null|
-|**2026-10-18**|**Behave Like Experts: Fusing Data with Semantic Knowledge for Effective and Efficient Semantic Map Construction**|Zhu Liu et.al.|[2610.25122](http://arxiv.org/abs/2610.25122)|null|
+|**2026-10-18**|**Behave Like Experts: Fusing Data with Semantic Knowledge for Effective and Efficient Semantic Map Construction**|Zhu Liu et.al.|[2610.25122](http://arxiv.org/abs/2610.25122)|**[link](https://github.com/RyanLiut/OCSMST)**|
 |**2026-10-15**|**Sensor Diagnosis for Fuel and Emissions Monitoring in Heavy-Duty Diesel Vehicles**|Tejas Dahiya et.al.|[2610.21188](http://arxiv.org/abs/2610.21188)|null|
 |**2026-10-14**|**On the Stability and Convergence of Flow Map Training**|Ishan Nath et.al.|[2610.20674](http://arxiv.org/abs/2610.20674)|null|
 |**2026-10-14**|**Learning Individual Scientific Taste with Privileged Hindsight Distillation**|Hanwei Fan et.al.|[2610.19719](http://arxiv.org/abs/2610.19719)|null|
@@ -290,6 +292,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Beyond Resemblance: Image Fusion Reimagined**|Hao Zhang et.al.|[2611.25453](http://arxiv.org/abs/2611.25453)|null|
 |**2026-11-18**|**Generalization of Text Line Segmentation for HTR in Historical Documents**|Gayan H. Pathirage et.al.|[2611.24726](http://arxiv.org/abs/2611.24726)|null|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|null|
 |**2026-11-18**|**Enhancing Active Learning Performance with Initial Data Selection Based on Foundation Models**|Mohammad Mirzaee et.al.|[2611.24384](http://arxiv.org/abs/2611.24384)|null|
@@ -1566,6 +1569,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493](http://arxiv.org/abs/2611.26493)|null|
+|**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083](http://arxiv.org/abs/2611.26083)|null|
+|**2026-11-19**|**Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping**|Fahira Afzal Maken et.al.|[2611.25445](http://arxiv.org/abs/2611.25445)|null|
+|**2026-11-18**|**Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU**|Jaafar Mahmoud et.al.|[2611.25279](http://arxiv.org/abs/2611.25279)|null|
 |**2026-11-18**|**Induction Head Origins of SLAM-ASR Speech Recognition Models**|Artem Fedorchenko et.al.|[2611.24721](http://arxiv.org/abs/2611.24721)|null|
 |**2026-11-18**|**Proprioceptive Simultaneous Base and Terrain Elevation Estimation for Legged Robot Locomotion**|Michael Maravgakis et.al.|[2611.24310](http://arxiv.org/abs/2611.24310)|null|
 |**2026-11-18**|**Facet-SLAM: Real-Time Triangle Splatting SLAM**|Edward Beng Wai Tan et.al.|[2611.23935](http://arxiv.org/abs/2611.23935)|null|
