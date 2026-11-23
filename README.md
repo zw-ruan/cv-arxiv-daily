@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.21
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Geo-Force: A Theory of Force Sensing from Object Geometry**|Abdullah Ayad et.al.|[2611.26992](http://arxiv.org/abs/2611.26992)|null|
+|**2026-11-19**|**Large deviations, effective dynamics, and dynamical phase transitions in random maps**|Ángela Tajuelo-Valbuena et.al.|[2611.26704](http://arxiv.org/abs/2611.26704)|null|
 |**2026-11-19**|**WHU-Road3D: A dataset and benchmark towards fine-grained road surface mapping**|Xiaoxin Mi et.al.|[2611.25873](http://arxiv.org/abs/2611.25873)|null|
 |**2026-11-18**|**Old-School Planners Drive (Sometimes) Better Than Learned Ones**|Andreas Look et.al.|[2611.25138](http://arxiv.org/abs/2611.25138)|null|
 |**2026-11-18**|**OCTR2A: Real-Time RGB-to-BEV Trajectory Projection and Forecasting at Urban Intersections**|Emanuele Iacobelli et.al.|[2611.24352](http://arxiv.org/abs/2611.24352)|null|
@@ -50,7 +52,7 @@
 |**2026-10-16**|**Beckmann World Models: Direct Terminal-Map Learning for One-Step Action-Conditioned Prediction**|Adam Lee et.al.|[2610.26903](http://arxiv.org/abs/2610.26903)|null|
 |**2026-10-19**|**On Learning Expand-and-Sparsify Representations**|Alireza Asghari et.al.|[2610.26470](http://arxiv.org/abs/2610.26470)|null|
 |**2026-11-05**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284](http://arxiv.org/abs/2610.25284)|null|
-|**2026-10-18**|**Behave Like Experts: Fusing Data with Semantic Knowledge for Effective and Efficient Semantic Map Construction**|Zhu Liu et.al.|[2610.25122](http://arxiv.org/abs/2610.25122)|**[link](https://github.com/RyanLiut/OCSMST)**|
+|**2026-10-18**|**Behave Like Experts: Fusing Data with Semantic Knowledge for Effective and Efficient Semantic Map Construction**|Zhu Liu et.al.|[2610.25122](http://arxiv.org/abs/2610.25122)|null|
 |**2026-10-15**|**Sensor Diagnosis for Fuel and Emissions Monitoring in Heavy-Duty Diesel Vehicles**|Tejas Dahiya et.al.|[2610.21188](http://arxiv.org/abs/2610.21188)|null|
 |**2026-10-14**|**On the Stability and Convergence of Flow Map Training**|Ishan Nath et.al.|[2610.20674](http://arxiv.org/abs/2610.20674)|null|
 |**2026-10-14**|**Learning Individual Scientific Taste with Privileged Hindsight Distillation**|Hanwei Fan et.al.|[2610.19719](http://arxiv.org/abs/2610.19719)|null|
@@ -62,19 +64,23 @@
 |**2026-10-11**|**Developing the Statistical Mechanics of Evolving Assembly Spaces**|Anisha K. Yeddanapudi et.al.|[2610.15695](http://arxiv.org/abs/2610.15695)|null|
 |**2026-10-11**|**Receiver-Constrained Recovery Placement for Encoded-Qutrit Teleportation under Monitored Decay**|Yifan Shi et.al.|[2610.15317](http://arxiv.org/abs/2610.15317)|null|
 |**2026-10-07**|**Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy**|Xinze Yang et.al.|[2610.10255](http://arxiv.org/abs/2610.10255)|null|
-|**2026-10-07**|**Gaussian Material Fields for Volumetric Multi-Energy CT Decomposition**|Jian Lin et.al.|[2610.09492](http://arxiv.org/abs/2610.09492)|null|
+|**2026-10-07**|**Gaussian Material Fields for Volumetric Multi-Energy CT Decomposition**|Jian Lin et.al.|[2610.09492](http://arxiv.org/abs/2610.09492)|**[link](https://github.com/yqx7150/MGS)**|
 |**2026-10-06**|**FlightMagNav: An Open Dataset and Probabilistic Map Learning and Validation Framework for Outdoor Magnetic Field-Based Positioning**|Isaac Skog et.al.|[2610.08982](http://arxiv.org/abs/2610.08982)|null|
 |**2026-10-21**|**One-Slide Calibration of Pathology Foundation Models**|Ming Ren Hou et.al.|[2610.08944](http://arxiv.org/abs/2610.08944)|null|
 |**2026-10-06**|**Neural Petri flows for chemical reactions**|Jose Eduardo Escrig Molina et.al.|[2610.08750](http://arxiv.org/abs/2610.08750)|null|
 |**2026-10-06**|**Vector Map Quality Metrics for Contextual Autonomous Driving Systems**|Marie-Ngoïe Badibanga Kalenda et.al.|[2610.08043](http://arxiv.org/abs/2610.08043)|null|
-|**2026-10-05**|**Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation**|Siyuan Liu et.al.|[2610.06171](http://arxiv.org/abs/2610.06171)|null|
-|**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
-<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Ref-YOLO-World: Decoupling Text-Side Computation for Efficient Referring Expression Comprehension on Edge Devices**|Yuki Aoki et.al.|[2611.27756](http://arxiv.org/abs/2611.27756)|null|
+|**2026-11-20**|**Quantitative Measurement of Pavement Distress based on Vehicle Camera and Perspective Correction**|Sike Wang et.al.|[2611.27728](http://arxiv.org/abs/2611.27728)|null|
+|**2026-11-20**|**A Vision-Based Framework for Manual Assembly Verification and Adaptive Operator Assistance**|Naveen Joseph Delphin et.al.|[2611.27293](http://arxiv.org/abs/2611.27293)|null|
+|**2026-11-20**|**A Novel Dataset and Framework for Schenkerian Optical Music Recognition**|Yixuan Huang et.al.|[2611.26958](http://arxiv.org/abs/2611.26958)|null|
+|**2026-11-19**|**3D Open-Vocabulary Detection via Visual Alignment and Generative Captions**|Thomas E. Huang et.al.|[2611.26842](http://arxiv.org/abs/2611.26842)|null|
+|**2026-11-19**|**What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference**|Mohammed El Amine Mokhtari et.al.|[2611.26776](http://arxiv.org/abs/2611.26776)|null|
 |**2026-11-19**|**Beyond Resemblance: Image Fusion Reimagined**|Hao Zhang et.al.|[2611.25453](http://arxiv.org/abs/2611.25453)|null|
 |**2026-11-18**|**Generalization of Text Line Segmentation for HTR in Historical Documents**|Gayan H. Pathirage et.al.|[2611.24726](http://arxiv.org/abs/2611.24726)|null|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|null|
@@ -119,18 +125,16 @@
 |**2026-11-09**|**Detecting space objects with Earth-observation radar satellites**|Juha Vierinen et.al.|[2611.12158](http://arxiv.org/abs/2611.12158)|null|
 |**2026-11-12**|**Compute Regeneration through Re-Productization: Reorganizing Retired Edge AI Silicon into a Delivered Multilingual Service Robot**|Hongyu Luo et.al.|[2611.11698](http://arxiv.org/abs/2611.11698)|null|
 |**2026-11-08**|**Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation**|Zhihao Zhang et.al.|[2611.11607](http://arxiv.org/abs/2611.11607)|null|
-|**2026-11-10**|**SegDis: Foreground Segmentation Followed by Type Discrimination for Salient and Camouflaged Object Detection**|Dingning Luo et.al.|[2611.11378](http://arxiv.org/abs/2611.11378)|null|
-|**2026-11-08**|**Multi-Node Transformers for Object Detection and Captioning Across Distributed Edge Networks**|Saurabh Kumar et.al.|[2611.11291](http://arxiv.org/abs/2611.11291)|null|
-|**2026-11-08**|**BiRefNet-V2: Rethinking Bilateral Reference for High-Resolution Dichotomous Image Segmentation**|Peng Zheng et.al.|[2611.11272](http://arxiv.org/abs/2611.11272)|null|
-|**2026-11-08**|**Query-Only Prompt-Agnostic Attacks on Visual In-Context Learning**|Xiao Hu et.al.|[2611.11116](http://arxiv.org/abs/2611.11116)|null|
-|**2026-11-07**|**Selective Cooperative Perception via Blind Spot Reasoning and Agentic Dialogue with Vision-Language Models**|Chengyuan Ma et.al.|[2611.10819](http://arxiv.org/abs/2611.10819)|null|
-|**2026-11-06**|**Domain Generalization for Style-Debiased Object Detection via Label-Consistent Training across Multiple Styles**|Chaoran Zhang et.al.|[2611.10262](http://arxiv.org/abs/2611.10262)|null|
-<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## SLAM/SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles**|Adolfo Damiano Cafaro et.al.|[2611.27817](http://arxiv.org/abs/2611.27817)|null|
+|**2026-11-20**|**Instant-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Compact Geometry and a Bounded Single-Reference-Frame Map**|Xinrui Wang et.al.|[2611.27633](http://arxiv.org/abs/2611.27633)|null|
+|**2026-11-20**|**EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training**|Ankit Pal et.al.|[2611.27101](http://arxiv.org/abs/2611.27101)|null|
+|**2026-11-20**|**RoboCap-10k: A Metrically Accurate Egocentric Dataset for Robot Learning**|Kheri Hughes et.al.|[2611.26916](http://arxiv.org/abs/2611.26916)|null|
 |**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493](http://arxiv.org/abs/2611.26493)|null|
 |**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083](http://arxiv.org/abs/2611.26083)|null|
 |**2026-11-19**|**Stereo Visual Odometry with In-the-Loop Geometric Feed-Forward Models Towards Dense Metric Mapping**|Fahira Afzal Maken et.al.|[2611.25445](http://arxiv.org/abs/2611.25445)|null|
@@ -168,6 +172,7 @@
 |**2026-11-09**|**Towards Rotation-Only Imaging Geometry: Multi-View Pose Estimation**|Xinrui Li et.al.|[2611.11770](http://arxiv.org/abs/2611.11770)|null|
 |**2026-11-08**|**Map2SLAM: From Streaming Map Prediction to Real-Time SLAM**|Jian Gao et.al.|[2611.11169](http://arxiv.org/abs/2611.11169)|null|
 |**2026-11-07**|**VAComp: View-Aware Full Projector Compensation**|Kai Zhou et.al.|[2611.10637](http://arxiv.org/abs/2611.10637)|null|
+|**2026-11-20**|**Recursive Bayesian Monitoring of SLAM Failures for LiDAR-Based UAV Navigation**|Mingqiao Han et.al.|[2611.10566](http://arxiv.org/abs/2611.10566)|null|
 |**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](http://arxiv.org/abs/2611.10241)|null|
 |**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239](http://arxiv.org/abs/2611.10239)|null|
 |**2026-11-09**|**An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers**|Iaroslav Kolomiets et.al.|[2611.08100](http://arxiv.org/abs/2611.08100)|null|
@@ -176,12 +181,7 @@
 |**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|null|
 |**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|null|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
-|**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](http://arxiv.org/abs/2611.05084)|null|
-|**2026-11-03**|**Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use**|Bo Ma et.al.|[2611.04397](http://arxiv.org/abs/2611.04397)|null|
-|**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|null|
-|**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932](http://arxiv.org/abs/2611.03932)|null|
-|**2026-11-02**|**A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots**|Chuan Huang et.al.|[2611.03106](http://arxiv.org/abs/2611.03106)|null|
-<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
